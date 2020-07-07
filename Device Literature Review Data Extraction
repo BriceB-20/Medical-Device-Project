@@ -1,0 +1,62 @@
+import openpyxl
+import re
+import uuid
+
+workbook = openpyxl.load_workbook(r"C:\Users\Briceno\Desktop\csv-medicaldev-set.xlsx")
+sheet = workbook["csv-medicaldev-set"]
+
+UUID_dict = {}
+repetitions_dict = {}
+count = 2  # Begins at second row of sheet
+for i in range(2, 9721):
+    cell = "C{}".format(str(count))
+
+    #  Cleans cell text
+    cell_author_string = str(sheet[cell].value)
+    cell_author_string = re.sub("[;]", ",", cell_author_string)
+
+    #  Creates a list of all the author names in each cell
+    cell_author_list = cell_author_string.replace(".", "").split(",")
+
+    for author in cell_author_list:
+        index_value = cell_author_list.index(author)
+        cell_author_list[index_value] = author.strip()
+        if cell_author_list[index_value] == "editor":
+            del cell_author_list[index_value]
+
+    #  Assigns each value in each list for each cell a unique ID
+    for author in cell_author_list:
+        try:
+            x = UUID_dict[author]
+            repetitions_dict[author] += 1
+        except KeyError:
+            UUID_dict[author] = uuid.uuid4().hex  # This can probably be improved to assure there are no duplicates
+            repetitions_dict[author] = 0
+
+    count += 1
+
+#  Data Output
+
+data_output = openpyxl.Workbook()
+ID_sheet = data_output["Sheet"]
+ID_sheet.title = "ID"
+repetitions_sheet = data_output.create_sheet("Repetitions")
+
+
+count = 1
+for author in UUID_dict:
+    a_column = "A{}".format(str(count))
+    b_column = "B{}".format(str(count))
+    ID_sheet[a_column] = author
+    ID_sheet[b_column] = UUID_dict[author]
+    count += 1
+
+count = 1
+for author in repetitions_dict:
+    a_column = "A{}".format(str(count))
+    b_column = "B{}".format(str(count))
+    repetitions_sheet[a_column] = author
+    repetitions_sheet[b_column] = repetitions_dict[author]
+    count += 1
+
+data_output.save(r"C:\Users\Briceno\Desktop\medicaldev-output.xlsx")
