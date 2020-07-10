@@ -4,14 +4,16 @@ import uuid
 
 workbook = openpyxl.load_workbook(
     r"D:\Medical Devices Data\(till_2000 07062020)pubmed_medicaldevice_search 07062020.xlsx")
-sheet = workbook["csv-medicaldev-set"]
+
+sheet_list = workbook.sheetnames
+sheet = workbook[sheet_list[0]]
 
 UUID_dict = {}  # {author name: author ID}
 repetitions_dict = {}  # {author name: num of repetitions}
 paper_author_list = []  # Contains lists of all author for each paper
 edges_dict = {}  # {author id: [matching authors id list]}
 
-for i in range(2, 1938):  # Begins at second row of sheet. Goes to 9721 in full data. 1938 in (till 2000) data.
+for i in range(2, sheet.max_row):
     cell = "C{}".format(str(i))
 
     #  Cleans cell text
