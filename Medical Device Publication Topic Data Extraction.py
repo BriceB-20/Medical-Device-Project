@@ -45,12 +45,44 @@ def extract_data(sheet, topic_identifier):
             edges_dict[topic_identifier].append(UUID_dict[new_author])
 
 
-# Pacemakers
+# Pacemakers (1)
 workbook = openpyxl.load_workbook(
-    r"pacemakers.xlsx")
+    r"C:\Users\Briceno\Desktop\Topic Search\csv-pacemakerT-set.xlsx")
 sheet_list = workbook.sheetnames
 pacemakers_sheet = workbook[sheet_list[0]]
 extract_data(sheet=pacemakers_sheet, topic_identifier=1)
+workbook.close()
+
+# Medical Device (2)
+workbook = openpyxl.load_workbook(
+    r"C:\Users\Briceno\Desktop\Topic Search\csv-medicaldev-set.xlsx")
+sheet_list = workbook.sheetnames
+medical_dev_sheet = workbook[sheet_list[0]]
+extract_data(sheet=medical_dev_sheet, topic_identifier=2)
+workbook.close()
+
+# Joint Replacement (3)
+workbook = openpyxl.load_workbook(
+    r"C:\Users\Briceno\Desktop\Topic Search\csv-jointrepla-set.xlsx")
+sheet_list = workbook.sheetnames
+joint_rep_sheet = workbook[sheet_list[0]]
+extract_data(sheet=joint_rep_sheet, topic_identifier=3)
+workbook.close()
+
+# IUD (4)
+workbook = openpyxl.load_workbook(
+    r"C:\Users\Briceno\Desktop\Topic Search\csv-iudTitleAb-set.xlsx")
+sheet_list = workbook.sheetnames
+IUD_sheet = workbook[sheet_list[0]]
+extract_data(sheet=IUD_sheet, topic_identifier=4)
+workbook.close()
+
+# Artificial Lens (5)
+workbook = openpyxl.load_workbook(
+    r"C:\Users\Briceno\Desktop\Topic Search\csv-artificial-set.xlsx")
+sheet_list = workbook.sheetnames
+lens_sheet = workbook[sheet_list[0]]
+extract_data(sheet=lens_sheet, topic_identifier=5)
 workbook.close()
 
 
