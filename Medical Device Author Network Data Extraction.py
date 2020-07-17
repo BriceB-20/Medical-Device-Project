@@ -3,14 +3,14 @@ import re
 import uuid
 
 workbook = openpyxl.load_workbook(
-    r"D:\Medical Devices Data\(till_2000 07062020)pubmed_medicaldevice_search 07062020.xlsx")
+    r"C:\Users\Briceno\Desktop\(till_2000 07062020)pubmed_medicaldevice_search 07062020.xlsx")
 
 sheet_list = workbook.sheetnames
 sheet = workbook[sheet_list[0]]
 
 UUID_dict = {}  # {author name: author ID}
 repetitions_dict = {}  # {author name: num of repetitions}
-paper_author_list = []  # Contains lists of all author for each paper
+paper_author_list = []  # Contains lists of all author for each paper in list form
 edges_dict = {}  # {author id: [matching authors id list]}
 
 for i in range(2, sheet.max_row):
@@ -39,7 +39,7 @@ for i in range(2, sheet.max_row):
             UUID_dict[author] = uuid.uuid4().hex  # This can probably be improved to assure there are no duplicates
             repetitions_dict[author] = 1  # Counts the number of times an author appears in the data
 
-# Creates edges table for network analysis in Gehpi
+# Creates edges table for network analysis in Gephi
 for source_author in UUID_dict:
     edges_dict[UUID_dict[source_author]] = []
     for aut_list in paper_author_list:
@@ -57,12 +57,12 @@ for source_author in UUID_dict:
 data_output = openpyxl.Workbook()
 ID_sheet = data_output["Sheet"]
 ID_sheet.title = "ID"
-repetitions_sheet = data_output.create_sheet("Repetitions")
 edges_sheet = data_output.create_sheet("Edges")
 
 # Labels
 ID_sheet["A1"] = "Id"
 ID_sheet["B1"] = "Label"
+ID_sheet["C1"] = "Weight"
 edges_sheet["A1"] = "Source"
 edges_sheet["B1"] = "Target"
 
@@ -70,18 +70,11 @@ count = 2
 for author in UUID_dict:
     a_column = "A{}".format(str(count))
     b_column = "B{}".format(str(count))
-    ID_sheet[b_column] = author
-    ID_sheet[a_column] = UUID_dict[author]
-    count += 1
-
-count = 1
-for author in repetitions_dict:
-    a_column = "A{}".format(str(count))
-    b_column = "B{}".format(str(count))
     c_column = "C{}".format(str(count))
-    repetitions_sheet[a_column] = UUID_dict[author]
-    repetitions_sheet[b_column] = author
-    repetitions_sheet[c_column] = repetitions_dict[author]
+    ID_sheet[a_column] = UUID_dict[author]
+    ID_sheet[b_column] = author
+    ID_sheet[c_column] = repetitions_dict[author]
+
     count += 1
 
 count = 2
