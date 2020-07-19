@@ -5,6 +5,7 @@ import json
 import openpyxl
 import time
 import re
+import datetime
 
 search_info = {}
 
@@ -28,11 +29,12 @@ for item in med_dev_dom.iterfind("./IdList/Id"):
 
 # Creates a new WebEnv for further searches and fetch request
 WebEnv = "&WebEnv={}".format(med_dev_dom.find("./WebEnv").text)
+WebEnv_raw = med_dev_dom.find("./WebEnv").text
 
 # Prints search info to text file for logs
 with open(r"C:\Users\Briceno\PycharmProjects\Workspace\(Log)PubMed API Data Extraction.json", "w") as log:
-    log.write("Web Environment String: " + WebEnv)
-    log.write("\n")
+    log.write('"' + str(datetime.datetime.now()) + '"')
+    log.write('"' + "Web Environment String: " + WebEnv_raw + '"' + "\n")
     json.dump(search_info, fp=log, indent=4)
 log.close()
 
@@ -41,32 +43,37 @@ fetch_url_query_list = []
 
 for item in search_info:
     for query_key in search_info[item]["Query Key"]:
-        query_params = "&WebEnv={webenv}&retmode=json&query_key={key}".format(key=query_key, webenv=WebEnv)
+        query_params = "{webenv}&retmode=json&query_key={key}".format(key=query_key, webenv=WebEnv)
         fetch_url_query_list.append(query_params)
 
 # Create workbook to output data
-with openpyxl.Workbook() as data_output:
-    data_sheet = data_output["Sheet"]
-    data_sheet.title = "Data"
+data_output = openpyxl.Workbook()
+data_sheet = data_output["Sheet"]
+data_sheet.title = "Data"
 
-    # Labels
-    header_list = ["PMUID", "Title", "Authors", "Year", "Journal", "DOI", "Query Key"]
-    column_letters = ["a", "b", "c", "d", "e", "f", "g"]
+# Labels
+header_list = ["PMUID", "Title", "Authors", "Year", "Journal", "DOI", "Query Key"]
+column_letters = ["a", "b", "c", "d", "e", "f", "g"]
 
-    for header in header_list:
-        letter_index = header_list.index(header)
-        cell = "{}1".format(column_letters[letter_index].upper())
-        data_sheet[cell] = header
+for header in header_list:
+    letter_index = header_list.index(header)
+    cell = "{}1".format(column_letters[letter_index].upper())
+    data_sheet[cell] = header
+
+data_sheet["H1"] = str(datetime.datetime.now())  # For record keeping purposes
+data_sheet["H2"] = WebEnv_raw
 
 # Get document summaries
 count = 2
 for fetch_url in fetch_url_query_list:
     fetch_request = requests.get(base_ESummary + fetch_url)
+    print(fetch_request)
     doc_sums = json.loads(fetch_request.content)
+    print(doc_sums)
 
     time.sleep(.4)  # Avoids making more than 3 requests per second
 
-    for item in doc_sums["results"]:
+    for item in doc_sums["result"]:
         if item == doc_sums["results"]["uids"]:
             continue
         else:
@@ -118,10 +125,28 @@ for fetch_url in fetch_url_query_list:
                 authors = ",".join([i["name"] for i in item["authors"]])
                 year = re.findall(r"\d{4}", item["pubdate"])  # Only extract year due to inconsistent format & data
                 journal = item["source"]
+                doi = None
                 for x in item["articleids"]:
                     if x["idtype"] == "doi":
                         doi = x["value"]
                 query_key_output = fetch_url[-1]
+
+                a_column, b_column, c_column, d_column, e_column, f_column, g_column = "A{}".format(str(count)), \
+                                                                                       "B{}".format(str(count)), \
+                                                                                       "C{}".format(str(count)), \
+                                                                                       "D{}".format(str(count)), \
+                                                                                       "E{}".format(str(count)), \
+                                                                                       "F{}".format(str(count)), \
+                                                                                       "G{}".format(str(count))
+                data_sheet[a_column] = pmuid
+                data_sheet[b_column] = title
+                data_sheet[c_column] = authors
+                data_sheet[d_column] = year
+                data_sheet[e_column] = journal
+                data_sheet[f_column] = doi
+                data_sheet[g_column] = query_key_output
+
+                count += 1
 
         retstart += 10000
         retmax += 10000
