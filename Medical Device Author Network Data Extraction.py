@@ -1,3 +1,13 @@
+"""
+Author: Brice Bowrey
+Date: July 13th, 2020
+Description: This script reads data about published research articles from Excel files and then outputs an Excel file
+format of a nodes-edges table for use in network analysis. The input files are obtained from a search on PubMed's
+website (examples of these files are in the repository). Each author is assigned a UUID in order to identify them in
+the table. The script also counts the number of times each authors name appears in the data.
+Note: It does not account for author who publish under different names and/or change their names over the years.
+"""
+
 import openpyxl
 import re
 import uuid
@@ -9,7 +19,7 @@ sheet_list = workbook.sheetnames
 sheet = workbook[sheet_list[0]]
 
 UUID_dict = {}  # {author name: author ID}
-repetitions_dict = {}  # {author name: num of repetitions}
+repetitions_dict = {}  # {author name: num of repetitions (e.g. number of times author's name appears)}
 paper_author_list = []  # Contains lists of all author for each paper in list form
 edges_dict = {}  # {author id: [matching authors id list]}
 
@@ -87,3 +97,4 @@ for source_author in edges_dict:
         count += 1
 
 data_output.save(r"C:\Users\Briceno\Desktop\medicaldev-output.xlsx")
+data_output.close()
