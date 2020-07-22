@@ -1,3 +1,12 @@
+"""
+Author: Brice Bowrey
+Date: July 8th, 2020
+Description: This script reads data about published research articles from Excel files and then outputs an Excel file
+format of a nodes-edges table for use in network analysis. The input files are obtained from a search on PubMed's
+website (examples of these files are in the repository). Each topic ("IUD", "Medical Device") is a node and an 
+article about that topic creates an edge.
+"""
+
 import openpyxl
 import re
 import uuid
@@ -45,13 +54,16 @@ def extract_data(sheet, topic_identifier):
             edges_dict[topic_identifier].append(UUID_dict[new_author])
 
 
-# Pacemakers (1)
+# If this data is included in the output, the file is so large that is overwhelms Gephi
+"""
+Pacemakers (1)
 workbook = openpyxl.load_workbook(
     r"C:\Users\Briceno\Desktop\Topic Search\csv-pacemakerT-set.xlsx")
 sheet_list = workbook.sheetnames
 pacemakers_sheet = workbook[sheet_list[0]]
 extract_data(sheet=pacemakers_sheet, topic_identifier=1)
 workbook.close()
+"""
 
 # Medical Device (2)
 workbook = openpyxl.load_workbook(
@@ -126,5 +138,5 @@ for category in edges_dict:
         count += 1
 
 
-data_output.save(r"C:\Users\Briceno\Desktop\(till_2000 07062020)medicaldev-cat-output.xlsx")
+data_output.save(r"C:\Users\Briceno\Desktop\(truncated)topic_search-output.xlsx")
 data_output.close()
