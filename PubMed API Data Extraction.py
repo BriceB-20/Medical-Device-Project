@@ -31,11 +31,12 @@ for item in med_dev_dom.iterfind("./IdList/Id"):
 WebEnv = "&WebEnv={}".format(med_dev_dom.find("./WebEnv").text)
 WebEnv_raw = med_dev_dom.find("./WebEnv").text
 
-# Prints search info to text file for logs
+# Prints search info to json file for logs
+search_info["_comment"] = {"Date": str(datetime.datetime.now()),
+                           "Web Environment String": WebEnv_raw}
+
 with open(r"C:\Users\Briceno\PycharmProjects\Workspace\(Log)PubMed API Data Extraction.json", "w") as log:
-    log.write('"' + str(datetime.datetime.now()) + '"')
-    log.write('"' + "Web Environment String: " + WebEnv_raw + '"' + "\n")
-    json.dump(search_info, fp=log, indent=4)
+    json.dump(search_info, fp=log, indent=6)
 log.close()
 
 # Fetch request construction
@@ -43,7 +44,7 @@ fetch_url_query_list = []
 
 for item in search_info:
     for query_key in search_info[item]["Query Key"]:
-        query_params = "{webenv}&retmode=json&query_key={key}".format(key=query_key, webenv=WebEnv)
+        query_params = "{webenv}&query_key={key}".format(key=query_key, webenv=WebEnv)
         fetch_url_query_list.append(query_params)
 
 # Create workbook to output data
@@ -67,69 +68,55 @@ data_sheet["H2"] = WebEnv_raw
 count = 2
 for fetch_url in fetch_url_query_list:
     fetch_request = requests.get(base_ESummary + fetch_url)
-    print(fetch_request)
-    doc_sums = json.loads(fetch_request.content)
-    print(doc_sums)
+    doc_sums = ElementTree.fromstring(fetch_request.content)
 
     time.sleep(.4)  # Avoids making more than 3 requests per second
 
-    for item in doc_sums["result"]:
-        if item == doc_sums["results"]["uids"]:
-            continue
-        else:
-            pmuid = item["uid"]
-            title = item["title"]
-            authors = ",".join([i["name"] for i in item["authors"]])
-            year = re.findall(r"\d{4}", item["pubdate"])  # Only extract year due to inconsistent format & data
-            journal = item["source"]
-            doi = None  # To avoid doi being undefined when writing to Excel file
-            for x in item["articleids"]:
-                if x["idtype"] == "doi":
-                    doi = x["value"]
-                    break
-            query_key_output = fetch_url[-1]
+    for item in doc_sums:  # equivalent to med_dev_dom.iterfind("./DocSum")
+        pmuid = item.find("Id").text
+        title = item.find('./Item[@Name="Title"]').text
+        authors = ", ".join(author.text for author in item.find('./Item[@Name="AuthorList"]'))
+        year = re.findall(r"\d{4}", item.find('./Item[@Name="PubDate"]').text)  # Only extract year
+        journal = item.find('./Item[@Name="Source"]').text
+        doi = item.find('./Item[@Name="DOI"]').text
+        query_key_output = fetch_url[-1]
 
-            a_column, b_column, c_column, d_column, e_column, f_column, g_column = "A{}".format(str(count)),\
-                                                                                   "B{}".format(str(count)),\
-                                                                                   "C{}".format(str(count)),\
-                                                                                   "D{}".format(str(count)),\
-                                                                                   "E{}".format(str(count)),\
-                                                                                   "F{}".format(str(count)),\
-                                                                                   "G{}".format(str(count))
-            data_sheet[a_column] = pmuid
-            data_sheet[b_column] = title
-            data_sheet[c_column] = authors
-            data_sheet[d_column] = year
-            data_sheet[e_column] = journal
-            data_sheet[f_column] = doi
-            data_sheet[g_column] = query_key_output
+        a_column, b_column, c_column, d_column, e_column, f_column, g_column = "A{}".format(str(count)),\
+                                                                               "B{}".format(str(count)),\
+                                                                               "C{}".format(str(count)),\
+                                                                               "D{}".format(str(count)),\
+                                                                               "E{}".format(str(count)),\
+                                                                               "F{}".format(str(count)),\
+                                                                               "G{}".format(str(count))
+        data_sheet[a_column] = pmuid
+        data_sheet[b_column] = title
+        data_sheet[c_column] = authors
+        data_sheet[d_column] = year
+        data_sheet[e_column] = journal
+        data_sheet[f_column] = doi
+        data_sheet[g_column] = query_key_output
 
-            count += 1
+        count += 1
 
-    while len(doc_sums["results"].keys()) > 9999:  # trigger a retstart/retstart iteration if num obj exceed API limit
-        retstart = 10000
-        retmax = 20000
+    retstart = 10000
+    retmax = 20000
+
+    while count >= 10002:  # trigger a retstart/retmax iteration if num obj exceed API limit
         retrieval_params = "&retstart={retstart}&retmax={retmax}".format(retstart=str(retstart), retmax=str(retmax))
 
         fetch_request = requests.get(base_ESummary + retrieval_params + fetch_url)
-        doc_sums = json.loads(fetch_request.content)
+        doc_sums = ElementTree.fromstring(fetch_request.content)
 
         time.sleep(.4)
 
-        for item in doc_sums["results"]:
-            if item == doc_sums["results"]["uids"]:
-                continue
-            else:
-                pmuid = item["uid"]
-                title = item["title"]
-                authors = ",".join([i["name"] for i in item["authors"]])
-                year = re.findall(r"\d{4}", item["pubdate"])  # Only extract year due to inconsistent format & data
-                journal = item["source"]
-                doi = None
-                for x in item["articleids"]:
-                    if x["idtype"] == "doi":
-                        doi = x["value"]
-                query_key_output = fetch_url[-1]
+        for item in doc_sums:
+            pmuid = item.find("Id").text
+            title = item.find('./Item[@Name="Title"]').text
+            authors = ", ".join(author.text for author in item.find('./Item[@Name="AuthorList"]'))
+            year = re.findall(r"\d{4}", item.find('./Item[@Name="PubDate"]').text)  # Only extract year
+            journal = item.find('./Item[@Name="Source"]').text
+            doi = item.find('./Item[@Name="DOI"]').text
+            query_key_output = fetch_url[-1]
 
                 a_column, b_column, c_column, d_column, e_column, f_column, g_column = "A{}".format(str(count)), \
                                                                                        "B{}".format(str(count)), \
@@ -150,6 +137,8 @@ for fetch_url in fetch_url_query_list:
 
         retstart += 10000
         retmax += 10000
+
+        if count ==  # Find a way to break the while loop. Keep everything in search_info so can reference count.
 
 data_output.save(r"C:\Users\Briceno\Desktop\pubmed_API_output.xlsx")
 data_output.close()
