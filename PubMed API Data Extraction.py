@@ -15,15 +15,15 @@ def search(search_query, inner_search_description, create_web_env=False):
     global WebEnv
     global WebEnv_raw
     dom = requests.get(base_ESearch + search_query + WebEnv)  # After initial search, there will be a WebEnv to concat
-    dom = ElementTree.fromstring(dom.content)  # med_dev_dom is now the root object
+    dom = ElementTree.fromstring(dom.content)
 
     search_info[inner_search_description] = {"Count": dom.find("./Count").text,
                                              "Query Key": dom.find("./QueryKey").text}
 
     # Creates a new WebEnv based on initial search for further searches and fetch request
     if create_web_env is True:
-        WebEnv = "&WebEnv={}".format(dom.find("./WebEnv").text)
         WebEnv_raw = dom.find("./WebEnv").text
+        WebEnv = "&WebEnv={}".format(WebEnv_raw)
 
 
 def scrape_and_output(inner_article, inner_search_info, inner_data_sheet):
@@ -31,13 +31,13 @@ def scrape_and_output(inner_article, inner_search_info, inner_data_sheet):
     pm_uid = inner_article.find("Id").text
     title = inner_article.find('./Item[@Name="Title"]').text
     authors = ", ".join(author.text for author in inner_article.find('./Item[@Name="AuthorList"]'))
-    year = "".join(re.findall(r"\d{4}", inner_article.find('./Item[@Name="PubDate"]').text))  # Only extract year
+    # Only extract the year from date. If two years (ex: 2004-2005), gets the first
+    year = "".join(re.findall(r"\d{4}", inner_article.find('./Item[@Name="PubDate"]').text)[0])
     journal = inner_article.find('./Item[@Name="Source"]').text
     try:
         doi = inner_article.find('./Item[@Name="DOI"]').text
     except AttributeError:
         doi = None
-    query_key_output = inner_search_info[item]["Fetch URL"][-1]
 
     a_column, b_column, c_column, d_column, e_column, f_column, g_column = "A{}".format(str(count)), \
                                                                            "B{}".format(str(count)), \
@@ -52,27 +52,29 @@ def scrape_and_output(inner_article, inner_search_info, inner_data_sheet):
     inner_data_sheet[d_column] = year
     inner_data_sheet[e_column] = journal
     inner_data_sheet[f_column] = doi
-    inner_data_sheet[g_column] = query_key_output
+    inner_data_sheet[g_column] = int(inner_search_info[item]["Query Key"])
 
     print(count)
     count += 1
 
 
 # Bases
-base_ESearch = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed"
+base_ESearch = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&field=title/abstract&usehistory=y"
 base_ESummary = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed"
 
 # Initial search
-med_dev_search = '&term="medical+device"+OR+"medical+devices"&field=title/abstract&usehistory=y'
+med_dev_search = '&term="medical+device"+OR+"medical+devices"'
 search(search_query=med_dev_search, inner_search_description="medical device", create_web_env=True)
 
 # Other searches
+joint_replacement_search = '&term="joint+replacement"'
+search(search_query=joint_replacement_search, inner_search_description="joint replacement")
 
 # Fetch request construction
 for search_description in search_info:
-    for query_key in search_info[search_description]["Query Key"]:
-        query_params = "{webenv}&query_key={key}".format(key=query_key, webenv=WebEnv)
-        search_info[search_description]["Fetch URL"] = query_params
+    query_key = search_info[search_description]["Query Key"]
+    query_params = "{webenv}&query_key={key}".format(key=query_key, webenv=WebEnv)
+    search_info[search_description]["Fetch URL"] = query_params
 
 # Prints search info to json file for logs
 search_info["_comment"] = {"Date": str(datetime.datetime.now()),
@@ -89,15 +91,16 @@ data_sheet.title = "Data"
 
 # Labels
 header_list = ["PMUID", "Title", "Authors", "Year", "Journal", "DOI", "Query Key"]
-column_letters = ["a", "b", "c", "d", "e", "f", "g"]
+column_letters = ["A", "B", "C", "D", "E", "F", "G"]
 
 for header in header_list:
     letter_index = header_list.index(header)
-    cell = "{}1".format(column_letters[letter_index].upper())
+    cell = "{}1".format(column_letters[letter_index])
     data_sheet[cell] = header
 
-data_sheet["H1"] = str(datetime.datetime.now())  # For record keeping purposes
-data_sheet["H2"] = WebEnv_raw
+data_sheet["H1"] = "Log"  # For record keeping purposes
+data_sheet["H2"] = str(datetime.datetime.now())
+data_sheet["H3"] = WebEnv_raw
 
 # Get DocSums from API
 count = 2
