@@ -67,11 +67,8 @@ med_dev_search = '&term="medical+device"+OR+"medical+devices"'
 search(search_query=med_dev_search, inner_search_description="medical device", create_web_env=True)
 
 # Other searches
-other_searches = [{"search_query": '&term="joint+replacement"', "inner_search_description": "joint replacement"},
-                  {"search_query": '&term="pacemaker"', "inner_search_description": "pacemaker"}]
-
-for item in other_searches:
-    search(**item)
+joint_replacement_search = '&term="joint+replacement"'
+search(search_query=joint_replacement_search, inner_search_description="joint replacement")
 
 # Fetch request construction
 for search_description in search_info:
@@ -83,7 +80,7 @@ for search_description in search_info:
 search_info["_comment"] = {"Date": str(datetime.datetime.now()),
                            "Web Environment String": WebEnv_raw}
 
-with open(r"D:\Pycharm Projects\Medical-Device-Project\(Log)PubMed API Data Extraction.json", "w") as log:
+with open(r"C:\Users\Briceno\PycharmProjects\Workspace\(Log)PubMed API Data Extraction.json", "w") as log:
     json.dump(search_info, fp=log, indent=6)
     log.close()
 
@@ -147,5 +144,5 @@ for item in search_info:
         retmax += 10000
         iter_check = num_articles - (count - 2)
 
-data_output.save(r"D:\Pycharm Projects\Medical-Device-Project\API_output.xlsx")
+data_output.save(r"C:\Users\Briceno\Desktop\pubmed_API_output.xlsx")
 data_output.close()

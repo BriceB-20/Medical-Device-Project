@@ -1,11 +1,21 @@
 {
       "medical device": {
-            "Count": "15200",
+            "Count": "15590",
             "Query Key": "1",
-            "Fetch URL": "&WebEnv=NCID_1_7562245_130.14.22.76_9001_1595794767_97204774_0MetA0_S_MegaStore&query_key=1"
+            "Fetch URL": "&WebEnv=MCID_5f7f975bbfbacd1925346d31&query_key=1"
+      },
+      "joint replacement": {
+            "Count": "7208",
+            "Query Key": "2",
+            "Fetch URL": "&WebEnv=MCID_5f7f975bbfbacd1925346d31&query_key=2"
+      },
+      "pacemaker": {
+            "Count": "33357",
+            "Query Key": "3",
+            "Fetch URL": "&WebEnv=MCID_5f7f975bbfbacd1925346d31&query_key=3"
       },
       "_comment": {
-            "Date": "2020-07-26 16:19:27.968640",
-            "Web Environment String": "NCID_1_7562245_130.14.22.76_9001_1595794767_97204774_0MetA0_S_MegaStore"
+            "Date": "2020-10-08 18:49:00.249107",
+            "Web Environment String": "MCID_5f7f975bbfbacd1925346d31"
       }
 }
