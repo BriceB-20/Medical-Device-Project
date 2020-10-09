@@ -1,21 +1,21 @@
 {
       "medical device": {
-            "Count": "15590",
+            "Count": "2488",
             "Query Key": "1",
-            "Fetch URL": "&WebEnv=MCID_5f7f975bbfbacd1925346d31&query_key=1"
+            "Fetch URL": "&WebEnv=MCID_5f80c65e72d6ad1d755e9769&query_key=1"
       },
       "joint replacement": {
-            "Count": "7208",
+            "Count": "1768",
             "Query Key": "2",
-            "Fetch URL": "&WebEnv=MCID_5f7f975bbfbacd1925346d31&query_key=2"
+            "Fetch URL": "&WebEnv=MCID_5f80c65e72d6ad1d755e9769&query_key=2"
       },
       "pacemaker": {
-            "Count": "33357",
+            "Count": "15164",
             "Query Key": "3",
-            "Fetch URL": "&WebEnv=MCID_5f7f975bbfbacd1925346d31&query_key=3"
+            "Fetch URL": "&WebEnv=MCID_5f80c65e72d6ad1d755e9769&query_key=3"
       },
       "_comment": {
-            "Date": "2020-10-08 18:49:00.249107",
-            "Web Environment String": "MCID_5f7f975bbfbacd1925346d31"
+            "Date": "2020-10-09 16:21:51.839543",
+            "Web Environment String": "MCID_5f80c65e72d6ad1d755e9769"
       }
 }

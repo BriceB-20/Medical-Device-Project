@@ -27,7 +27,7 @@ def search(search_query, inner_search_description, create_web_env=False):
 
 
 def scrape_and_output(inner_article, inner_search_info, inner_data_sheet):
-    global count
+    global row_count
     pm_uid = inner_article.find("Id").text
     title = inner_article.find('./Item[@Name="Title"]').text
     authors = ", ".join(author.text for author in inner_article.find('./Item[@Name="AuthorList"]'))
@@ -103,7 +103,7 @@ data_sheet["H2"] = str(datetime.datetime.now())
 data_sheet["H3"] = WebEnv_raw
 
 # Get DocSums from API
-count = 2
+row_count = 2
 retstart = 0
 retmax = 10000
 
@@ -127,7 +127,7 @@ for item in search_info:
 
     # Construction of retstart/retmax iteration variables
     num_articles = int(search_info[item]["Count"])
-    iter_check = num_articles - (count - 2)
+    iter_check = num_articles - (row_count - 2)
 
     while iter_check > 0:  # trigger a retstart/retmax iteration if num obj exceed API limit of 10000 items
         retrieval_params = "&retstart={retstart}&retmax={retmax}".format(retstart=str(retstart), retmax=str(retmax))
@@ -142,7 +142,7 @@ for item in search_info:
 
         retstart += 10000
         retmax += 10000
-        iter_check = num_articles - (count - 2)
+        iter_check = num_articles - (row_count - 2)
 
 data_output.save(r"C:\Users\Briceno\Desktop\pubmed_API_output.xlsx")
 data_output.close()

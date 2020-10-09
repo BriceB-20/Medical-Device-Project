@@ -112,30 +112,30 @@ edges_sheet["A1"] = "Source"
 edges_sheet["B1"] = "Target"
 
 # Produce ID sheet
-count = 2
+row_count = 2
 for category in edges_dict:
-    a_column = "A{}".format(str(count))
-    b_column = "B{}".format(str(count))
+    a_column = "A{}".format(str(row_count))
+    b_column = "B{}".format(str(row_count))
     ID_sheet[b_column] = ""  # Must fill in manually on spreadsheet
     ID_sheet[a_column] = category
-    count += 1
+    row_count += 1
 
 for author in UUID_dict:
-    a_column = "A{}".format(str(count))
-    b_column = "B{}".format(str(count))
+    a_column = "A{}".format(str(row_count))
+    b_column = "B{}".format(str(row_count))
     ID_sheet[b_column] = author
     ID_sheet[a_column] = UUID_dict[author]
-    count += 1
+    row_count += 1
 
 # Produce edges sheet
-count = 2
+row_count = 2
 for category in edges_dict:
     for target_author in edges_dict[category]:
-        a_column = "A{}".format(str(count))
-        b_column = "B{}".format(str(count))
+        a_column = "A{}".format(str(row_count))
+        b_column = "B{}".format(str(row_count))
         edges_sheet[a_column] = category
         edges_sheet[b_column] = target_author
-        count += 1
+        row_count += 1
 
 
 data_output.save(r"C:\Users\Briceno\Desktop\(truncated)topic_search-output.xlsx")

@@ -27,7 +27,8 @@ def search(search_query, inner_search_description, create_web_env=False):
 
 
 def scrape_and_output(inner_article, inner_search_info, inner_data_sheet):
-    global count
+    global row_count
+    global article_count
     pm_uid = inner_article.find("Id").text
     title = inner_article.find('./Item[@Name="Title"]').text
     authors = ", ".join(author.text for author in inner_article.find('./Item[@Name="AuthorList"]'))
@@ -39,13 +40,13 @@ def scrape_and_output(inner_article, inner_search_info, inner_data_sheet):
     except AttributeError:
         doi = None
 
-    a_column, b_column, c_column, d_column, e_column, f_column, g_column = "A{}".format(str(count)), \
-                                                                           "B{}".format(str(count)), \
-                                                                           "C{}".format(str(count)), \
-                                                                           "D{}".format(str(count)), \
-                                                                           "E{}".format(str(count)), \
-                                                                           "F{}".format(str(count)), \
-                                                                           "G{}".format(str(count))
+    a_column, b_column, c_column, d_column, e_column, f_column, g_column = "A{}".format(str(row_count)), \
+                                                                           "B{}".format(str(row_count)), \
+                                                                           "C{}".format(str(row_count)), \
+                                                                           "D{}".format(str(row_count)), \
+                                                                           "E{}".format(str(row_count)), \
+                                                                           "F{}".format(str(row_count)), \
+                                                                           "G{}".format(str(row_count))
     inner_data_sheet[a_column] = pm_uid
     inner_data_sheet[b_column] = title
     inner_data_sheet[c_column] = authors
@@ -54,13 +55,29 @@ def scrape_and_output(inner_article, inner_search_info, inner_data_sheet):
     inner_data_sheet[f_column] = doi
     inner_data_sheet[g_column] = int(inner_search_info[item]["Query Key"])
 
-    print(count)
-    count += 1
+    if row_count % 5000 == 0:
+        print(row_count)
 
+    row_count += 1
+    article_count += 1
+
+
+'''
+Perhaps I should modify to search for the Mesh term Equipment Design, Equipment Safety, Device Approval, and 
+Equipment Failure
+
+Ex: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?
+&db=pubmed&field=mesh&term=Equipment+Design&datetype=pdat&mindate=1850&maxdate=2002"
+
+Also, should be sure to include everything published in J Med Eng Technol. and Med Device Technol. 
+'''
 
 # Bases
-base_ESearch = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&field=title/abstract&usehistory=y"
-base_ESummary = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed"
+base_ESearch = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?" \
+               "tool=pubmed_api_network_extraction&email=blbowrey@gmail.com" \
+               "&datetype=pdat&mindate=1850&maxdate=2002&db=pubmed&field=title/abstract&usehistory=y"  # Year 2002 limit
+base_ESummary = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?" \
+                "tool=pubmed_api_network_extraction&email=blbowrey@gmail.com&db=pubmed"
 
 # Initial search
 med_dev_search = '&term="medical+device"+OR+"medical+devices"'
@@ -72,6 +89,7 @@ other_searches = [{"search_query": '&term="joint+replacement"', "inner_search_de
 
 for item in other_searches:
     search(**item)
+    time.sleep(.5)
 
 # Fetch request construction
 for search_description in search_info:
@@ -106,16 +124,20 @@ data_sheet["H2"] = str(datetime.datetime.now())
 data_sheet["H3"] = WebEnv_raw
 
 # Get DocSums from API
-count = 2
-retstart = 0
-retmax = 10000
+row_count = 2  # Keeps track of row in spreadsheet
 
 for item in search_info:
+    article_count = 0  # Tracks number of articles from each query set that have been processed (reset at each iter)
+    retstart = 0
+    retmax = 10000
+
     if item == "_comment":  # Skips my comment data in the log
         continue
 
     retrieval_params = "&retstart={retstart}&retmax={retmax}".format(retstart=str(retstart), retmax=str(retmax))
+
     print(base_ESummary + retrieval_params + search_info[item]["Fetch URL"])
+    print(article_count)
 
     fetch_request = requests.get(base_ESummary + retrieval_params + search_info[item]["Fetch URL"])
     doc_sums = ElementTree.fromstring(fetch_request.content)
@@ -130,12 +152,15 @@ for item in search_info:
 
     # Construction of retstart/retmax iteration variables
     num_articles = int(search_info[item]["Count"])
-    iter_check = num_articles - (count - 2)
+    iter_check = num_articles - article_count
 
     while iter_check > 0:  # trigger a retstart/retmax iteration if num obj exceed API limit of 10000 items
         retrieval_params = "&retstart={retstart}&retmax={retmax}".format(retstart=str(retstart), retmax=str(retmax))
         fetch_request = requests.get(base_ESummary + retrieval_params + search_info[item]["Fetch URL"])
+
         print(base_ESummary + retrieval_params + search_info[item]["Fetch URL"])
+        print(article_count)
+
         doc_sums = ElementTree.fromstring(fetch_request.content)
 
         time.sleep(.4)
@@ -145,7 +170,9 @@ for item in search_info:
 
         retstart += 10000
         retmax += 10000
-        iter_check = num_articles - (count - 2)
+        iter_check = num_articles - (row_count - 2)
+
+print(row_count)
 
 data_output.save(r"D:\Pycharm Projects\Medical-Device-Project\API_output.xlsx")
 data_output.close()

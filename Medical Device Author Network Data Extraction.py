@@ -76,25 +76,25 @@ ID_sheet["C1"] = "Weight"
 edges_sheet["A1"] = "Source"
 edges_sheet["B1"] = "Target"
 
-count = 2
+row_count = 2
 for author in UUID_dict:
-    a_column = "A{}".format(str(count))
-    b_column = "B{}".format(str(count))
-    c_column = "C{}".format(str(count))
+    a_column = "A{}".format(str(row_count))
+    b_column = "B{}".format(str(row_count))
+    c_column = "C{}".format(str(row_count))
     ID_sheet[a_column] = UUID_dict[author]
     ID_sheet[b_column] = author
     ID_sheet[c_column] = repetitions_dict[author]
 
-    count += 1
+    row_count += 1
 
-count = 2
+row_count = 2
 for source_author in edges_dict:
     for target_author in edges_dict[source_author]:
-        a_column = "A{}".format(str(count))
-        b_column = "B{}".format(str(count))
+        a_column = "A{}".format(str(row_count))
+        b_column = "B{}".format(str(row_count))
         edges_sheet[a_column] = source_author
         edges_sheet[b_column] = target_author
-        count += 1
+        row_count += 1
 
 data_output.save(r"C:\Users\Briceno\Desktop\medicaldev-output.xlsx")
 data_output.close()
