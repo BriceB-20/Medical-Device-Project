@@ -1,1 +1,1 @@
-The folder contains old and obsolete bits of code for this project.
+This folder contains old and obsolete bits of code for this project.
