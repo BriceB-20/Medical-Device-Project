@@ -1,0 +1,69 @@
+def get_word_count(date_group=date_group, start_year=1952, end_year=1997):
+    year_title_list = date_group["Title"].unique()
+    
+    Exclude adpositions and auxiliary verbs
+    exclude = ["a", "an", "the", "that", "of", "for", "and", "nor", "but", "or", "yet", "so", "to", 
+           "by", "any", "on", "with", "as", "in", "at", "from", "medical", "device", "devices"]
+    t_dict = {}
+    
+    for year in range(start_year, end_year + 1):
+        t_dict[year] = {}
+        try:
+            for title in year_title_list[year]:
+                title = title.strip(".? ")
+                title = title.replace(";", "")
+                title = title.replace(":", "")
+                title = title.replace(r"(", "")
+                title = title.replace(r")", "")
+                title = title.replace("--", " ")
+                title = title.split()
+                for word in title:
+                    word = word.lower()
+                    word = word.replace(".", "")
+                    if word in exclude:
+                        pass
+                    elif word in t_dict[year].keys():
+                        t_dict[year][word] += 1
+                    else:
+                        t_dict[year][word] = 1
+        except KeyError:  # If there were no publication in a year in the range
+            pass
+    
+    return t_dict
+    
+    
+def most_frequent(data_dict, most_common_n, start_year, end_year):
+    top_dict = {}
+    year_range = range(start_year, end_year+1)
+    
+    for year in year_range:
+        if data_dict[year] == {}:
+            pass
+        else:
+            for word in data_dict[year]:
+                if word in top_dict.keys():
+                    top_dict[word] += 1
+                else:
+                    top_dict[word] = 1
+                    
+    top_final = [(k,v) for k,v in Counter(top_dict).most_common(most_common_n)]
+    
+    return top_final
+
+def plot_words(data_dict, title):
+    fig, ax = plt.subplots()
+    fig.set_size_inches(4, 7.5)
+    plt.style.use("fast")
+    
+    width = [x[1] for x in data_dict]
+    words = [x[0] for x in data_dict]
+    
+    plt.barh(y=words, width=width)
+
+    plt.ylabel("Word")
+    plt.xlabel("Frequency")
+    plt.title(title)
+    
+    ax.tick_params(labelrotation=0)
+    
+    return plt.show()

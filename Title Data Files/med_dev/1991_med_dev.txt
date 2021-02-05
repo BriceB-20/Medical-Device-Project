@@ -1,0 +1,89 @@
+The Changing Economics of Medical Technology
+Implant retrieval, analysis, and database: a challenge for the medical devices industry.
+European Community Medical Device Directives.
+Tissue regeneration by use of collagen-glycosaminoglycan copolymers.
+Immunoassay techniques for the detection of circulating antibodies to collagen following the use of collagen medical devices.
+Prevalence of artificial hips in the United States.
+Laboratory information system test environment: validate upgrades, prevent disasters, and assist training.
+The laboratory information system as a medical device: inspection and accreditation issues.
+Regulation of clinical laboratory information systems after the 1990 amendments to the Food and Drug Act.
+Protection against endocarditis due to Staphylococcus epidermidis by immunization with capsular polysaccharide/adhesin.
+Ada software for cytometry.
+New medical devices reporting requirements.
+Treatment of Infections Associated with Implanted Medical Devices.
+The Wentworth Center for Clinical Engineering: a collaborative and interactive venture.
+The cost of needle-stick injuries: the impact of safer medical devices.
+Electron microscopic studies of endotracheal tubes used in neonates: do microbes adhere to the polymer?
+Strategies for effective corporate participation in standards development and implementation.
+Medical devices; medical device, user facility, distributor, and manufacturer reporting, certification, and registration FDA. Tentative final rule.
+Delegations of authority and organization; Office of the Commissioner FDA. Final rule.
+Hospitals wary of interpretation of medical device reporting law.
+Order for transitional class III devices; submission of safety and effectiveness information under section 520(1)(5)(A) of the Federal Food, Drug, and Cosmetic Act FDA. Notice.
+A strategy for the cost containment of surgical implant purchases.
+Injecting a little automation into needle packaging.
+Design quality the key to product success.
+Safe Medical Devices Act: what you need to know now to comply with the new law.
+User reporting under the Safe Medical Devices Act.
+A "consumer's report" for medical devices.
+Selective photothermolysis and removal of cutaneous vasculopathies and tattoos by pulsed laser.
+Photochemical coatings for the prevention of bacterial colonization.
+Modern strategies in the prevention of polymer-associated infections.
+Objective measures prove value of risk management.
+Human immunodeficiency virus transmission in health care settings: risk and risk reduction.
+Inactivation of Mycobacterium tuberculosis and Mycobacterium bovis by 14 hospital disinfectants.
+Adaptation of the Centers for Disease Control guidelines for the prevention of nosocomial infection in a pediatric intensive care unit in Jakarta, Indonesia.
+Delegations of authority and organization; Center for Devices and Radiological Health FDA. Final rule.
+The safe Medical Devices Act of 1990 a look at the implications. Interview by Larry Tanner.
+Finapres: a noninvasive device to monitor blood pressure.
+The continuing importance of staphylococci as major hospital pathogens.
+Medical devices; reclassification and codification of absorbable poly(glycolide/L-lactide) surgical suture FDA. Final rule.
+Biologically active heparin coating in medical devices.
+Equivalency of hydrochloric acid and distilled water extraction media for determining residual ethylene oxide in medical devices.
+Orthopedic implant devices: prevalence and sociodemographic findings from the 1988 National Health Interview Survey.
+The medical information bus: overview of the medical device data language.
+Staphylococcus aureus nasal carriage in patients with rhinosinusitis.
+Solid-phase extraction of a carcinogen, 4,4'-methylenedianiline, in serum.
+The safety of medical devices and the role of the FDA.
+Enhancing efficiency: step by step.
+Medical device and laboratory product problem reporting from physicians' offices.
+Selection of medical devices.
+Considerations when using ethylene oxide for the sterilization of medical devices.
+Device user regulations, not user friendly.
+Testing for neutral-to-ground connections in new construction.
+The Safe Medical Device Act may not be safe for nurses.
+Identification of the innate human immune response to surface-exposed proteins of coagulase-negative staphylococci.
+The electromagnetic compatibility standard for medical devices.
+Reporting dangerous and unsafe medical devices.
+Medical device failures and adverse effects.
+Infection control and the future. Continuing and emerging trends.
+Biomaterials science, medical devices, and artificial organs. Synergistic interactions for the 1990s.
+The Safe Medical Devices Act of 1990 FDA. Notice.
+Design control the ultimate protection?
+Applying the interaction design approach to medical devices.
+Preproduction quality assurance: quality intrinsic to design.
+Paracentesis: a new needle for an old technique.
+Reuse of disposable medical devices.
+Safe Medical Devices Act of 1990.
+Outcomes research affecting devices.
+Packaging matters part II:  material selection.
+Private sector approach to health care reform. Interview by Thomas G. Goodwin.
+Medical devices act means more paperwork.
+Use of selected medical device implants in the United States, 1988.
+Implanted medical devices in workers exposed to radio-frequency radiation.
+FDA regulation of computerized cytology devices.
+Polyurethanes in medical devices.
+Coreless DC motors for sterilizable medical devices.
+Electrical safety in patient care areas.
+The control of medical devices in Canada. Canadian Society of Laboratory Technologists.
+Medical devices alert. Subject: Transmission of blood-borne pathogens via spring-loaded lancet devices.
+The Safe Medical Devices Act of 1990: are hospitals ready to deal with the FDA?
+Corrosion and fracture of a silver tracheostomy tube.
+Status of cochlear implantation in children. American Academy of Otolaryngology-Head and Neck Surgery Subcommittee on Cochlear implants.
+Understanding the regulatory requirements for dialysate.
+Performance characteristics for an immunoassay.
+Factors influencing bacterial adherence to biomaterials.
+Allergic reactions to latex in medical devices.
+Allergic reactions to latex-containing medical devices.
+Software quality regulation under the Safe Medical Devices Act of 1990: hospitals are now the canaries in the software mine.
+Connection of electronic medical devices in ICU according to the standard 'MIB'.
+Morphological and electrophysiological changes produced by electrical stimulation in cultured neuroblastoma cells.
