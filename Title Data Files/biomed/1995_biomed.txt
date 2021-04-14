@@ -1,0 +1,236 @@
+Technology, the consistent ethic and assisted suicide.
+15th Southern Biomedical Engineering Conference. Dayton, Ohio, March 29-31, 1996. Abstracts.
+Making human life captive to biomedical technology: Christianity and the demise of human values.
+Embryos created for research purposes.
+Human gene therapy and slippery slope arguments.
+The thin line: gas-phase polymeric coatings.
+Taking control: the Validation Master Plan.
+Randomized controlled trials of innovative therapies: are they ethical?
+The application of the criteria of the just war theories in the resolution of medical-ethical dilemmas at the bedside.
+No to genetic engineering of humans!
+Computerized maintenance management systems: how to match your department's needs with commercially available products.
+Scheduled inspection of electromedical equipment. Planning and assessment.
+The application of engineering and technology in the management of diabetes.
+The application of an Actel field programmable gate array in the design of an ECG RR interval recorder.
+Skin irritation in man: a comparative bioengineering study using improved reflectance spectroscopy.
+Ethical and regulatory issues in gene therapy.
+Every child a perfect child?
+Designer tissues take hold.
+Future scope: what will it take to manage new technology?. Interview by Karen Sandrick.
+The top 10 trends in clinical engineering.
+Future scope. Interview by Karen Sandrick.
+Joseph Fletcher's situation ethics, once again.
+The Tuskegee syphilis experiment: medical ethics, constitutionalism, and property in the body.
+Tissue-engineered cartilage for implantation and grafting.
+Bioethics in medically assisted conception in the Muslim world.
+Public attitudes towards the selection of desirable characteristics in children.
+A new experimental model for studying the response of periodontal ligament cells to hydrostatic pressure.
+Prefabricated flaps: experimental and clinical review.
+Fuzzy logic and medical device technology.
+Working draft of the FDA GMP final rule (Part I).
+Biotechnology patenting: the wicked animal must defend itself.
+An improved future? Medical advances challenge thinking on living, dying and being human.
+The role of appropriate medical technology procurement and user maintenance instructions in developing countries.
+Airborne transmission of respiratory diseases.
+Advancing biomedical engineering in developing nations: Project HOPE and the potential impact of nongovernmental organizations.
+Focus on: ORBIS International Flying Eye Hospital, Department of Technical Services.
+Development of a low cost microP-based blood gas monitor.
+OKAS-3D: optoelectronic jaw movement recording system with six degrees of freedom.
+Application of a new tactile sensor to thoracoscopic surgery: experimental and clinical study.
+Wavelets in biomedical engineering.
+A new clinical engineering curriculum.
+The challenges and opportunities of creating an integrated global market for medical devices.
+A remote method for simultaneous measurement of corneal thickness and curvature at a single point.
+Group processes of decision making for hospital-based technology assessment committees.
+Near-infrared spectrophotometry data collection faults due to fiberoptic failure.
+Effective use of robots as mechanized couriers at Stanford University Hospital.
+1995 Annual fall meeting of the Biomedical Engineering Society. Boston, Massachusetts, October 6-8, 1995. Abstracts.
+Living with HUGO.
+Know how to manage your service contracts. The view from a single facility.
+Know how to manage your service contracts. The view from a multihospital system.
+Clinical engineering helps reduce equipment costs.
+Canada calls for moratorium on IVF technologies.
+Patenting medical and surgical procedures.
+The new genetics: facts, fictions and fears.
+"Playing God" and germline intervention.
+"Playing God" and invoking a perspective.
+Trapping of branched DNA in microfabricated structures.
+Setting limits in the dying zone: assisted suicide, scarce resources, and hard cases.
+In a different voice: technology, culture, and post-modern bioethics.
+Equal opportunity and genetic intervention.
+"How dare you sport thus with life?": Frankensteinian fictions as case studies in scientific ethics.
+A systems engineering approach to technology assessment.
+Role of the Biomedical Engineering Department in William Beaumont Hospital's technology assessment process.
+1995 survey of salaries & responsibilities for hospital biomedical/clinical engineering & technology personnel.
+Equipment available for bioengineering of the skin.
+Bioengineering and the skin: standardization.
+Bioengineering in dermatology: general aspects and perspectives.
+The search for standards.
+Prosthetic heart valves the integration of analysis with design.
+An approach to reducing hemolysis in an axial-flow blood pump.
+Development of a new endotoxin sensor with intermittent injection of limulus reagent for continuous monitoring of dialysate fluid.
+A gait-powered autologous battery charging system for artificial organs.
+A two stage axial flow pump. New approach to reduction of hemolysis.
+End organ function with prolonged nonpulsatile circulatory support.
+Mechanical advantage of skeletal muscle as a cardiac assist power source.
+Double chamber ventricular assist device with a roller screw linear actuator driven by left and right latissimus dorsi muscles.
+A microchip glucose sensor.
+In vitro characterization of a magnetically suspended continuous flow ventricular assist device.
+Improvement in antithrombogenicity in a centrifugal pump with self wash-out structure for long-term use.
+A magnetically suspended centrifugal pump. In vitro and in vivo assessment.
+An intraventricular axial flow blood pump integrated with a bearing purge system.
+Development and in vivo evaluation of an implantable left ventricular assist system with an impedance based monitoring and control system.
+Heat generation and hemolysis at the shaft seal in centrifugal blood pumps.
+A transcutaneous energy and information transfer system for implanted medical devices.
+Development of an electrohydraulic total artificial heart at the National Cardiovascular Center, Osaka, Japan.
+Progress in the development of the ABIOMED total artificial heart.
+Characterization, scaling, and partial representation of neural junctions and coordinated firing patterns by dynamic similarity.
+John Paul Stapp Award 1995 presented to James W. Brinkley.
+Profession in crisis? Redefining clinical engineering.
+"Silent" malfunction of a critical-care device caused by electromagnetic interference.
+Productivity improvement in the community hospital.
+Benchmark indicators for medical equipment repair and maintenance.
+The battery enigma: are third-party rechargeable batteries as good as OEMs'?
+Designing medical devices for conformance with harmonized standards: a case study of non-active implants.
+Designing medical devices for conformance with harmonized standards. The European Community's Medical Devices Directives and their effect on the product development process.
+Determination of the in situ forces and force distribution within the human anterior cruciate ligament.
+Looking around: 35 years of oculomotor modeling.
+Lawrence Stark, M.D., biomedical engineer.
+Starkfest '94. 1st International Conference on Vision and Movement in Man and Machines. June 24-26, 1994, Berkeley, California. Proceedings.
+Why is this surgeon suing?
+Biomaterials in tissue engineering.
+Have a heart. Tissue-engineered valves may offer a transplant alternative.
+External cardiac defibrillation reply to Leo Barnes.
+Current and energy in external cardiac defibrillation.
+A robust transcutaneous electro-muscle stimulator (RTES): a multi-modality tool.
+Two-dimensional elastic properties of human skin in terms of an incremental model at the in vivo configuration.
+A virtual five-link model of the thumb.
+Is stem length important in uncemented endoprostheses?
+Reduction of ocular artefacts in source current density brain mappings by ARX2 filtering.
+Dynamic characteristics of prosthetic heart valves.
+Investigation of the arterial and venous upper arm vascular bed.
+Preliminary experimental evaluation of an inverse source imaging procedure using a decoupled coil detector array in magnetic resonance imaging.
+Reduction of evoked potential measurement time by a TMS320 based adaptive matched filter.
+A flexible pressure pump for cardiovascular studies.
+International perceptions and approval of gene therapy.
+The tyranny of technology.
+The goodness of fragility: on the prospect of genetic technologies aimed at the enhancement of human capacities.
+Shaping priorities in genetic medicine.
+Human growth hormone: a case study in treatment priorities.
+Public priorities for genetic services.
+Allocation of scarce resources.
+Innovative communication in a biomedical engineering department.
+The evolution of biomedical equipment technology.
+In vivo comparison between two tip pressure transducer systems.
+Blood flow velocity profiles in pulmonary branch arteries in lambs.
+Flow structures at the proximal side-to-end anastomosis. Influence of geometry and flow division.
+The effect of pulsatile frequency on wall shear in a compliant cast of a human aortic bifurcation.
+An automated three-dimensional particle tracking technique for the study of modeled arterial flow fields.
+Characterization of a sudden expansion flow chamber to study the response of endothelium to flow recirculation.
+Analysis of the inverse problem of freezing and thawing of a binary solution during cryosurgical processes.
+A molecular model of proteoglycan-associated electrostatic forces in cartilage mechanics.
+Membrane model of endothelial cells and leukocytes. A proposal for the origin of a cortical stress.
+The fibroblast-populated collagen microsphere assay of cell traction force Part 2: Measurement of the cell traction parameter.
+The development of a high impedance all ceramic thermistor resistant to microwave irradiation: its possible medical application.
+Development of metabolically engineered Saccharomyces cerevisiae cells for the production of lactic acid.
+A new forum for clinical engineering issues.
+A systematic approach to electronic troubleshooting for medical equipment.
+AAMI's influence on the design of user-friendly medical devices.
+Support for biomedical equipment decision making.
+Medical ethics: Code of Medical Ethics: Current Opinions With Annotations.
+Equipment maintenance: moving beyond insurance to self-managed programs.
+MIT links biologists to engineers.
+Health care rationing and disability rights.
+Assessing the legal and ethical dimensions of delivering high-tech home health care.
+Advance medical directives: policy perspectives and practical experiences.
+High risk infants: thirty years of intensive care.
+Improved late potential analysis in frequency domain.
+Fading characteristics of a 2.3 GHz radio telemetry channel in a hospital building.
+Non-invasive identification of gastric contractions from surface electrogastrogram using back-propagation neural networks.
+A mathematical analysis of intestinal peristaltic waves.
+A dynamic Fourier series for the compression of ECG using FFT and adaptive coefficient estimation.
+Iterative method to derive an approximate matched filter template for fetal electrocardiogram signals.
+Initial stability of uncemented hip stems: an in-vitro protocol to measure torsional interface motion.
+Industrial application of immobilized biocatalysts in Japan.
+Enzymes from Zymomonas mobilis and their application to glucose determination.
+A new strategy for generating selenium-containing abzyme. Chemical mutation of monoclonal antibodies with substrate-binding sites.
+The design, synthesis, and activity of a ribozyme that specially cleaves rat 28S rRNA.
+Time course of glutamine in a culture medium during high-density culture of mouse C127 transformants.
+Stereoselective microbial reduction of 2-keto-3-(N-benzoylamino)-3-phenyl propionic acid ethyl ester. Synthesis of taxol side-chain synthon.
+In vitro protein biosynthesis using ribosome and foreign mRNA. An approach to construct a protein biosynthesizer.
+The Catholic hospital today: mission impossible?
+'A treatise on optics' by Giovanni Christoforo Bolantio.
+Focus on: Washington Hospital Center, Biomedical Engineering Department.
+CAD/CAM/CAE in the medical engineering lab.
+Clinical information systems: considerations in selecting the hospital department with primary responsibility.
+Managing assertively: specific tactics for clinical engineering managers.
+Joint Commission update: equipment management in the environment of care.
+Arrhythmia recognition strategies and hardware decisions for the implantable cardioverter-defibrillator a review.
+Deceleration vs. acceleration: a haemodynamic parameter in the assessment of vascular reactivity. A preliminary study.
+An examination of procedures for determining body segment attitude and position from noisy biomechanical data.
+Real time microcontroller implementation of an adaptive myoelectric filter.
+Dynamic performance model of an isometric muscle-joint unit.
+A regression model of ultrasound reflectivity from normal myocardium.
+A mathematical model of flow through the terminal lymphatics.
+Three-dimensional finite element modelling of non-invasively assessed trabecular bone structures.
+Four channel foetal ECG data collection system.
+A multi-sample denaturation temperature tester for collagenous biomaterials.
+An intramedullary aligned bone cutting jig for elbow replacement.
+An empirical technique to compensate for melanin when monitoring skin microcirculation using reflectance spectrophotometry.
+Engineering of cartilage tissue using bioresorbable polymer fleeces and perfusion culture.
+1994 Whitaker Lecture: polymers for drug delivery and tissue engineering.
+Bio-chromatography and bio-engineering. Vth symposium of the European Society for Bio-chromatography. May 17-19, 1994, Nancy, France. Proceedings.
+The emerging federalism of U.S. biotechnology policy.
+Of patents and patients: new monopolies in medical methods.
+Engineering principles of mechanical stimulation of the middle ear.
+Current status and future of implantable electromagnetic hearing aids.
+Can human genetic enhancement be prohibited?
+Preventive ethics, professional integrity, and boundary setting: the clinical management of moral uncertainty.
+The importance of accurate terminology in the field of human gene transfer.
+The dangers of discovery.
+The status of the human genome.
+Medical, ethical and legal aspects of somatic gene therapy.
+Gene therapy in mental retardation: ethical considerations.
+Liver transplantation and alcoholic patients: when is it justified to just say no?
+Spirituality in health-care reform.
+The health care proxy and the narrative of death.
+Physicians and surgeons as inventors: reconciling medical process patents and medical ethics.
+Reconciling property law with advances in reproductive science.
+Ethical issues in discharge planning for vulnerable infants and children.
+Eugenics returns.
+Not compassion alone: on euthanasia and ethics   interview with Hans Jonas.
+The new gene technology and the difference between getting rid of illness and altering people.
+Of genes, embryos, human individuals and future persons.
+Designing babies: morally permissible ways to modify the human genome.
+Using bioengineering as a tool for dental case planning.
+The spectrum of irritancy and application of bioengineering techniques.
+Food and drug administration regulations and computer-controlled infusion pumps.
+Study of the tensile properties of living skin equivalents.
+Influence of the test area on the mechanical properties of skin.
+Genetics and ethics.
+Engineering the right membranes for electrodes at the biological interface; solvent cast and electropolymerised.
+From neural chip and engineered biomolecules to bioelectronic devices: an overview.
+Cost-savings case study: clinical engineering management maintenance of sterilizers and operating room and procedure tables.
+Benchmarking hospital-based technical services. Interview by John Hanpeter.
+A quantitative technique for reporting surface degradation patterns of UHMWPE components of retrieved total knee replacements.
+Effectiveness of cleaning surgical implants: quantitative analysis of contaminant removal.
+Keeping 'body' and 'soul' together.
+Stress stabilisation behaviours in skin under small tensile loads in vitro.
+The effects of noise and errors in heart size on numerical techniques for the inverse problem of electrocardiography.
+The mobility analog for modeling the intra-arterial pressure wave parameters.
+Techniques in anthropometry applied to disabled and elderly populations.
+Development of an inexpensive environmental remote control system for a quadriplegic individual.
+Synthesis, analysis, and optimization of cam-link prosthetic knee mechanism.
+Enumeration of human knee prostheses an overview.
+Inexpensive complex hand model.
+Modeling and optimising dextrose fermentation using a fluorosensor.
+DSP based enhanced data acquisition system.
+The evolution of the implanted pacemaker's window to the world.
+Non-invasive approach for body composition measurement: differential buoyancy method and correction for water loss.
+32nd Annual Rocky Mountain Bioengineering Symposium (RMBS). Copper Mountain, Colorado, April 7-9, 1995. Proceedings.
+Should we hold the (germ) line?
+Dethroning choice: analogy, personhood, and the new reproductive technologies.
+Comparative analysis of power-line interference between two- or three-electrode biopotential amplifiers.
+Report from the World Congress on medical physics and biomedical engineering.
+Germ-line therapy to cure mitochondrial disease: protocol and ethics of in vitro ovum nuclear transplantation.
+Quantum and biological computation.

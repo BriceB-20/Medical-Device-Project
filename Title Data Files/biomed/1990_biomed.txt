@@ -1,0 +1,128 @@
+Degree or not degree.
+College membership standards.
+Biomedical engineering: recognition and representation.
+The assessment of dynamic foot-to-ground contact forces and plantar pressure distribution: a review of the evolution of current techniques and clinical applications.
+Shoes for the insensitive foot: the effect of a "rocker bottom" shoe modification on plantar pressure distribution.
+Moral distinctions.
+The ethics of equivalent treatment.
+The view from the trenches.
+The Jewish entailments of valuing life.
+Tips for better management of technology.
+Clinical engineering in Italy: the activity of the National Research Council.
+Biomedical signal processing (in four parts). Part 1. Time-domain methods.
+Intracavitary hyperthermia applicators for treating nasopharyngeal and cervical cancers.
+BSI certification.
+Designing and implementing a performance-based employee evaluation system.
+Establishing the priority of equipment inspections.
+Disaster planning and the role of the BMET.
+Technology management in the health care environment yesterday, today, and tomorrow: Part 2.
+New cost-cutting strategy impacts CE departments.
+Human gene therapy: an ethical advance?
+Genetics, ethics, and human values: human genome mapping, genetic screening and gene therapy.
+Sacred or for sale? The human body in the age of biotechnology.
+Human nature technologically revisited.
+Setting floating limits: functional status care categories as national policy.
+Heads, feds, and beds: ethical dilemmas in the delivery of medical care.
+The physician-societal relationship: autonomy not paternalism.
+The ethics of health care as a business.
+A proposal for health care: revolution not reform.
+From the editors.
+The ethics of ex utero research on spare 'non-viable' IVF human embryos.
+Ligamentous laxity across C0-C1-C2 complex. Axial torque-rotation characteristics until failure.
+Why gene therapy is considered scary but cell therapy isn't.
+Bioethics attacked in Germany.
+Earth benefits from space life sciences.
+Microcomputer-based coronary care unit central station.
+Organizing a study program for BMETs.
+Surviving and growing in the '90s: managerial methods for the hospital-based BME/CE department.
+Technology management in the health care environment yesterday, today, and tomorrow: Part 1.
+The artificial substitution of missing hands with myoelectrical prostheses.
+Strategies for improving clinical engineering in-service instruction.
+Genetics and the law: bibliography.
+Patenting the human genome.
+Mapping the human genome and the meaning of monster mythology.
+The right to die at the end of your life.
+The resource-based relative value scale: an ethical assessment.
+A Protestant view of new reproductive technologies.
+The BMET (biomedical engineering technician) Internship Program at University Hospital Stony Brook, New York.
+Contamination of the medical air supply with oxygen: a clinical engineering incident investigation.
+1990 survey of hospital salaries & job responsibilities for clinical engineers & biomedical technicians.
+The clinical engineering profession: a new society.
+High-frequency chest compression system to aid in clearance of mucus from the lung.
+Clinical equipment replacement planning.
+Administrators and computerized maintenance management systems: a case study.
+In-house service contracts.
+Evaluating your facility's biomedical program.
+Should transplantation be a part of a health care system?
+Oregon lists illnesses by priority to see who gets Medicaid care.
+A pathology of medical ethics: economic medical rationing in a morally incoherent society.
+Education of clinical engineers in the 1990s.
+Noninvasive microwave phased arrays for local hyperthermia: a review.
+Interstitial microwave hyperthermia applicators having submillimetre diameters.
+Performance of a multi-sector ultrasound hyperthermia applicator and control system: in vivo studies.
+Heating characteristics of a 430 MHz microwave heating system with a lens applicator in phantoms and miniature pigs.
+Heating system with a lens applicator for 430 MHz microwave hyperthermia.
+Product liability aspects of bioengineering.
+Engineering for health. 29th annual scientific meeting of the Biological Engineering Society. Bristol, 4-6 September 1989. Proceedings.
+Myoelectric control systems research at the Bio-Engineering Institute, University of New Brunswick.
+The allocation of scarce medical resources: a philosophical analysis of the halakhic sources.
+Justice, HMOs, and the invisible rationing of health care resources.
+Death and life decisions: who is in control?
+Development of bioartificial liver: bilirubin conjugation in Gunn rats.
+Controlling health care costs by controlling technology: a private contractual approach.
+Ethics in bioengineering.
+Management of rented medical equipment.
+Hospital technology management: the Tao of clinical engineering.
+Results of an international survey of clinical engineering departments. Part 2. Budgets, staffing, resources and financial strategies.
+Results of an international survey of clinical engineering departments. Part 1. Role, functional involvement and recognition.
+Ask nurses about medical devices.
+Transferring technology into the health care delivery system: the clinical engineering responsibility.
+Survey: teaching facilities pay top CE salaries.
+Intensive care units (ICUs), and ordinary means: turning virtue into vice.
+A commentary on four papers on surrogate motherhood.
+Reproductive technologies and surrogacy: policy concerns for women.
+Rehabilitation R&D progress reports 1989.
+From equipment control to technology management: why clinical engineering is undergoing a transformation.
+Completing the transition from clinical engineering to technology management.
+The transition from equipment control to today's clinical engineering department.
+The constitution in a brave new world: a century of technological change and constitutional law.
+Delivery room resuscitation of the high-risk infant: a conflict of rights.
+Allocation of scarce medical resources.
+Fragmenting and reassembling the world: of flying squirrels, augmented persons, and other monsters.
+The marketing of the new reproductive technologies: medicine, the media, and the idea of progress.
+Pressure sores: more than meets the eye.
+Biomedical engineering management of Novacor left ventricular assist system (LVAS) patients.
+19th annual UCLA symposium: Tissue engineering. Abstracts.
+Fractal dynamics of polarized bioelectrodes.
+Fractals in biomedical research.
+Introduction to fractals in biomedical research.
+Design methodology for aids for the disabled.
+NDSU undergraduate design projects for the disabled.
+AURA: a new respiratory monitor.
+Proceedings of the twenty-seventh annual Rocky Mountain Bioengineering Symposium and the twenty-seventh International ISA Biomedical Sciences Instrumentation Symposium. April 6-7, 1990, Denver, Colorado.
+Biomedical standards: what do they offer clinical engineering?
+Personality characteristics of biomedical equipment technicians.
+Crosstalk resistant adaptive noise cancellation.
+The central axis prosthetic cardiac valve: an in vitro study of pressure drop assessment under steady-state flow conditions.
+Microbial aggregates in anaerobic wastewater treatment.
+Large-scale animal cell cultures: design and operational considerations.
+Non-stationary analysis of electromyographic activity prior to a ballistic voluntary contraction.
+Optimal afterload for the heart vs. optimal heart for the afterload.
+Evaluation of left ventricular function by application of external minute vibration.
+Assessment of left ventricular regional work under ischemia.
+Isotonic myocardial segment dynamics during barium contracture as a useful index of the cross-bridge kinetics: effect of adrenaline.
+Fluid flow in a strongly curved pipe.
+Analysis of gas transport in high-frequency ventilation.
+Inelastic constitutive modeling for blood vessels based on viscoplasticity.
+Mechanical properties of cultured endothelial cells exposed to shear stress.
+Elasto-mixed lubrication in total hip prostheses.
+Difficulties and hope in artificial organ research.
+Bioreactors in medicine.
+Rehabilitation engineering in pediatrics.
+Neutron capture therapy beams at the MIT Research Reactor.
+Alterations in left ventricular filling in hypertensive patients with left ventricular hypertrophy as assessed by Doppler echocardiography.
+Modelling more than the favorite toy of engineers?
+A tubular bioreactor for high density cultivation of microorganisms.
+On the establishment of the Japanese Industrial Standard (JIS) T1011 Glossary of Terms used in Medical Electrical Equipment (General Terms).
+Programming eccentricities of an activity sensing pacemaker.
+Transient response of a solid-liquid model biological fluidised bed to a step change in fluid superficial velocity.

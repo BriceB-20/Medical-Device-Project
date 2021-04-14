@@ -1,0 +1,212 @@
+Neural networks for signal processing applications: ECG classification.
+Whitaker Foundation funds genome-related research.
+Gerontechnology in higher engineering education.
+Biomedical Engineering Society annual fall meeting. San Diego, California, October 2-5, 1997. Abstracts.
+A capillary method to measure water transmission through polyurethane membranes.
+Model for a one-step plasma treatment device: feasibility of cholesterol removal.
+Power spectrum analysis of human femoral rotations during gait.
+The reengineering of clinical engineering.
+Progress in the development of a transcutaneously powered axial flow blood pump ventricular assist system.
+Establishing a protocol to quantify leaflet fibroblast responses to physiologic flow through a viable heart valve.
+Clinical evaluation of the HeartPak. A new pneumatic portable driver for use with the HeartMate Implantable Pneumatic Left Ventricular Assist System.
+A computer simulation study of isometric contraction of latissimus dorsi muscle used for cardiac assistance.
+Flow analysis of the Cleveland Clinic centrifugal pump.
+Blood flow analysis for the secondary impeller of an IVAS heart pump.
+Tissue engineering of skeletal muscle. Highly dense, highly oriented hybrid muscular tissues biomimicking native tissues.
+Development of a low flow resistance intravenous oxygenator.
+Design of an oxygenator with enhanced gas transfer efficiency.
+A new method for quantitation of platelet microthrombi and microemboli from cardiopulmonary bypass in organs using 111In labeled platelets.
+An implantable centrifugal blood pump for long term circulatory support.
+Method of noninvasive and continuous hemolysis/thrombogenesis measurement by laser photometry during artificial heart development.
+Characteristics of mixed venous oxygen saturation and physical activity as parameters for artificial heart control.
+A solar cell system for extension of battery run time in a moving actuator total artificial heart.
+In vivo studies of an implantable energy convertor for skeletal muscle powered cardiac assist.
+Establishment of flow estimation for an implantable centrifugal blood pump.
+Power generation from four skeletal muscle configurations. Design implications for a muscle powered cardiac assist device.
+Development of a custom designed TAH using rapid prototyping.
+Condition monitoring of rotary blood pumps.
+Fluid dynamic characteristics of monopivot magnetic suspension blood pumps.
+Portable pneumatic biventricular driver for the Thoratec ventricular assist device.
+Development of a 6 x 18 inch rheology tunnel for experimental fluid dynamics investigation.
+In vitro and in vivo evaluation of a left-right balancing capacity of an interatrial shunt in an electrohydraulic total artificial heart system.
+Design of a DSP controller for an innovative ventricular assist system.
+Selection and evaluation of blood- and tribologically compatible journal bearing materials.
+Magnetic suspension controls for a new continuous flow ventricular assist device.
+In vitro and in vivo heat dissipation of an electrohydraulic totally implantable artificial heart.
+Intelligent Li ion battery management based on a digital signal processor for a moving actuator total artificial heart.
+Heat from an implanted power source is mainly dissipated by blood perfusion.
+In vivo and in vitro evaluation of the pulsatile mode of a magnetically suspended centrifugal pump.
+The cool seal system: a practical solution to the shaft seal problem and heat related complications with implantable rotary blood pumps.
+Continued development of the Nimbus/University of Pittsburgh (UOP) axial flow left ventricular assist system.
+Analysis of a new PM motor design for a rotary dynamic blood Pump.
+The analysis, design, and testing of a blood lubricated hydrodynamic journal bearing.
+Control of the pressure flow relationship with a magnetically suspended centrifugal pump in a chronic animal experiment.
+Coupling of skeletal muscle to a prosthesis for circulatory support.
+Comparison of the closing dynamics of mechanical prosthetic heart valves.
+Hydrodynamics of a long-body bileaflet mechanical heart valve.
+Dynamic characterization of a new accelerated heart valve tester.
+From science fiction to ethics quandary.
+Engineering a concept: the creation of tissue engineering.
+Theoretical study of the effects of tooth and implant mobility differences on occlusal force transmission in tooth/implant-supported partial prostheses.
+Maternal and foetal ECG separation using blind source separation methods.
+Tracking the historical development of biomedical engineering: the 1960s and 1970s.
+Health care.
+Growing a new field.
+Economic considerations for device design and development.
+Polypeptide growth factors: targeted delivery systems.
+Estimation of blood flow heterogeneity distribution in human skeletal muscle from positron emission tomography data.
+Can cardiac catheterization accurately assess the severity of aortic stenosis? An in vitro pulsatile flow study.
+A hypothesis regarding vascular acoustic emission accompanying arterial injury induced by balloon angioplasty.
+Stress reduction by geometric compliance matching at vascular graft anastomoses.
+The paired-pulse index: a measure of hippocampal dentate granule cell modulation.
+Countercurrent extraction of sparingly soluble gases for membrane introduction mass spectrometry.
+Detection and deletion of motion artifacts in electrogastrogram using feature analysis and neural networks.
+Coil optimization for magnetic brain stimulation.
+Whole-body vibration in the skeleton: development of a resonance-based testing device.
+Modeling energy expenditure associated with isometric, concentric, and eccentric muscle action at the knee.
+Parameter estimation in distributed models of blood-tissue exchange: a Monte Carlo strategy to assess precision.
+Generalized eigenvector algorithm for nonlinear system identification with non-white inputs.
+Application of fast orthogonal search to linear and nonlinear stochastic systems.
+Effects of the tissue-bath interface on the induced transmembrane potential: a modeling study in cardiac stimulation.
+Simulations of postvagal tachycardia at the single cell pacemaker level: a new hypothesis.
+Recurrent wavefront morphologies: a method for quantifying the complexity of epicardial activation patterns.
+A quantitative framework for analyzing epicardial activation patterns during ventricular fibrillation.
+Synthesis of alpha-gal epitopes on influenza virus vaccines, by recombinant alpha 1,3galactosyltransferase, enables the formation of immune complexes with the natural anti-Gal antibody.
+Listening for prophetic voices in medicine.
+Court ruling highlights a burden of faith: rejection of assisted suicide puts focus on care for the dying.
+Natural ways are better: adolescents and the "anti-obesity gene.
+The clone age.
+Public preferences for health care: prioritisation in the United Kingdom.
+Intensive care ethics in evolution.
+Transporting values by technology transfer.
+Was the UK collaborative ECMO trial ethical?
+Directory of CE and biomedical organizations.
+Establishment of a clinical engineering department in a Venezuelan national reference hospital.
+1997 survey of salaries & responsibilities for hospital biomedical clinical engineering & technology personnel.
+Computerized mechanical validation of custom-made stems.
+Edlich drive: a metaphor for the Edlich tradition.
+Technology acquisition strategies for clinical engineering.
+Thinking twice about "tissue engineering".
+The modulation transfer function. A simplified procedure for computer-aided quality evaluation in mammography.
+Acoustic analysis of pathological voices. A voice analysis system for the screening of laryngeal diseases.
+3-D imaging and stereotactic radiosurgery.
+A new approach to medical image reconstruction.
+Detecting myocardial ischemia with 2-D spectrum analysis of VCG signals.
+Extraction of 40 Hz EEG bursts for chaos analysis of brain function.
+Compression of ECG data by vector quantization.
+Modeling and decomposition of HRV signals with wavelet transforms.
+Dynamics of complex systems.
+Whitaker Lecture 1996: microcirculation, biomedical engineering, and artificial blood.
+Genetic engineering: moral aspects and control of practice.
+Presentation on ethical issues associated with in utero gene therapy.
+Management maestro. New software for health facilities can help bring harmony to all operations.
+The wisdom of repugnance: why we should ban the cloning of humans.
+FIGO News. Report of the FIGO Committee for the Study of Ethical Aspects of Human Reproduction. International Federation of Gynecologists and Obstetrics.
+Applying fuzzy logic to control cycling movement induced by functional electrical stimulation.
+A low-cost instrumented glove for monitoring forces during object manipulation.
+A system for converting print into braille.
+Biomedical applications of nanotechnology implications for drug targeting and gene therapy.
+Push for royalties threatens use of Down syndrome test.
+Autonomy and physician-assisted suicide.
+High-tech boosts costs of clinical engineering.
+Richard Skalak 1923-1997.
+Low-frequency ultrasonic velocity measurements in human calcaneal trabecular bone.
+Clinical engineering cannot do benchmarking.
+International standards: a smaller (and easier) world.
+Current health care trends and their impact on clinical engineering.
+Cleaning techniques for medical devices: biofilms.
+Medical device reprocessing: research and practice.
+HMOs and medical technology.
+A small portable proton exchange membrane fuel cell and hydrogen generator for medical applications.
+The AIMBE President's session: medical device innovation and the public interest.
+The characterization of broadband ultrasound attenuation and fractal analysis by biomechanical properties.
+Evaluating technology service options.
+The birth of bioethics: the origins and evolution of a demi-discipline.
+Clinical engineers: a vanishing hospital resource.
+Ag/AgCl/Cl- coated silver-stripe reference electrode.
+A data-logging system to monitor bone fracture movement continuously.
+A comparison of ECG cancellation techniques applied to the surface recording of somatosensory evoked potentials.
+Clinical assessment of the low-cost VariCom isokinetic knee exerciser.
+A high-speed gated baseline restorer and its implementation in a blood cell volume analyser.
+Society and the not-so-new genetics: what are we afraid of? Some future predictions from a social scientist.
+Can enhancement be distinguished from prevention in genetic medicine?
+Bioethics, metaphysical involvements, and biomedical practice.
+Altering humans the case for and against human gene therapy.
+To care for the dying.
+Human cloning? Don't just say no.
+Ban cloning? Not a chance.
+Whose right to die?
+A Just Share: Justice and Fairness in Resource Allocation.
+Future health, future choices.
+FDA sets safety framework for cell and tissue therapies: rules would cover attempted human cloning.
+Compression guidelines for diagnostic telepathology.
+A nurse rostering system using constraint programming and redundant modeling.
+A direct multi-volume rendering method aiming at comparisons of 3-D images and models.
+Programmable ultrasound imaging using multimedia technologies: a next-generation ultrasound machine.
+Biomedical information technology: medicine and health care in the digital future.
+A scoliosis correction device based on memory metal.
+A dual coordinate system finite difference method for forward and inverse solutions of the volume conductor problem in neurology.
+Liquid ventilation: a mathematical model of gas diffusion in the premature lung.
+Spatial resolution in plantar pressure measurement.
+A multivariate time-variant AR method for the analysis of heart rate and arterial blood pressure.
+Germ warfare.
+Simple self-tuned notch filter in a bio-potential amplifier.
+Parenting in an era of genetics.
+Potential for use of a House of Quality Matrix technique in rehabilitation engineering.
+Assembling medical devices: the essential steps for success.
+On the limits of enhancement in human gene transfer: drawing the line.
+The management of instability and incompleteness: clinical ethics and abstract expressionism.
+The evolving health-care environment: new arguments for closer collaboration between cardiac surgical intensive-care nurses and clinical engineers.
+The clonal child: procreative liberty and asexual reproduction.
+Ensuring a good death.
+Patients v. patents?: policy implications of recent patent legislation.
+The human embryo/fetus and genetics.
+The conceptual foundations of the ethical evaluation of gene therapy.
+The rhetoric and counter-rhetoric of a "bionic" technology.
+Directory of CE & biomedical organizations.
+Technical papers composing the proceedings of the 34th annual Rocky Mountain Bioengineering Symposium and the 34th International ISA Biomedical Sciences Instrumentation Symposium. Dayton, Ohio, USA.April 11-13, 1997.
+The World Wide Web a new tool for biomedical engineering education.
+The materials specialists education and features of biomaterials study and analysis.
+A WEB based approach in biomedical engineering design education.
+Microfilters for biomedicine obtained by swift ion processing.
+Microscopical imaging of hydroxyapatite/mica composite and packed hydroxyapatite structure an atomic force microscopy investigation.
+A cell-based immunobiosensor with engineered molecular recognition Part III: Engineering molecular recognition.
+Biomedical ethics and the biomedical engineer: a review.
+Ethical consciousness in bioengineering.
+Professions, professional ethics, and bioengineering.
+Man-machine interfaces in computer assisted surgery.
+Technological aspects of minimal access surgery.
+A cell-based immunobiosensor with engineered molecular recognition Part I: Design feasibility.
+Tissue engineering, morphogenesis, and regeneration of the periodontal tissues by bone morphogenetic proteins.
+Preliminary experience with medical applications of rapid prototyping by selective laser sintering.
+Automatic location of vertebrae in digitized videofluoroscopic images of the lumbar spine.
+Reproducibility of techniques using Archimedes' principle in measuring cancellous bone volume.
+Comparison between two techniques for modeling interface conditions in a porous coated hip endoprosthesis.
+Force, velocity and energy dynamics of nine load-moving muscles.
+Analytical study on the kinematic and dynamic behaviors of a knee joint.
+Two artificial neural systems for generation of gait swing by means of neuromuscular electrical stimulation.
+Parallel principal component neural networks for classification of event-related potential waveforms.
+An instrument for the non-invasive objective assessment of velar function during speech.
+Development and evaluation of an inexpensive sensor system for use in measuring relative finger positions.
+Medical equipment planning.
+Strengthening bioengineering research: the public policy challenge.
+"Planned parenthood".
+Electrical dental pulp testing. Defining parameters for proper instrumentation.
+The Supreme Court rules on medical device liability or does it?
+Using wavelet transforms for ECG characterization. An on-line digital signal processing system.
+Medical flow measurement with drop counters. Methods for improving accuracy.
+Applying time-frequency analysis to seizure EEG activity.
+Bispectrum analysis of visually evoked potentials.
+Pressure wave propagation in arteries. A model with radial dilatation for simulating the behavior of a real artery.
+Real-time visual servoing for laparoscopic surgery. Controlling robot motion with color image segmentation.
+Making the graduate school choice.
+Improved differentiation of renal tubular epithelium in vitro: potential for tissue engineering.
+Applications of quantum mechanics in biomedical technology.
+Engineers in clinical engineering: does the need remain?
+Validity and clinical engineering indicators.
+Validating medical equipment repair and maintenance metrics: a progress report.
+The future of imaging support by clinical engineering departments. Interview by John Hughes.
+Nanotechnology for biomaterials engineering: structural characterization of amphiphilic polymeric nanoparticles by 1H NMR spectroscopy.
+Using automated continual performance assessment to improve health care.
+Anaesthesia technology: friend and foe.
+The calcar femorale: a tale of historical neglect.

@@ -1,0 +1,139 @@
+Functional status of bio-medical engg. departments in tertiary care hospitals a comparative study.
+Value issues in biomedical science: public concerns and professional complacency.
+Efficacy of engineering controls in reducing occupational exposure to aerosolized pentamidine.
+Ethicists struggle to judge the 'value' of life.
+"Squatter's rights in the ovum": the unborn as patient.
+"American College of Physician Inventors" formed.
+Biomch-L: an electronic mail discussion forum for biomechanics and movement science.
+"A time to be born and a time to die": a Jewish medical directive for health care.
+The right to die: state courts lead where legislatures fear to tread.
+Combining the best of two medical worlds: Canadian universality and United States' freedom.
+Restructuring health care: rationing and compromise.
+A processing strategy for automated Papanicolaou smear screening.
+Improving biomedical engineering documentation skills: a case study.
+A coaxial gas delivery system for laser bronchoscopy.
+Silicone genital prosthesis for female-to-male transsexuals.
+The clinical engineer as medical laser safety officer.
+Pain management: engineering successful outcomes.
+Material help.
+Biomedical engineering. A means to add new dimension to medicine and research.
+Netherlands: rational choices in health care.
+Ethical issues at the interface between orthopedics and bioengineering.
+Life-systems ethics and physician-engineer interactions.
+That lonesome grail: The Code of Codes: Scientific and Social Issues in the Human Genome Project.
+Ethical issues in genetic engineering: a survey.
+Ethical conflicts in health care technology.
+Gorovitz, Samuel. Drawing the Line: Life, Death, and Ethical Choices in an American Hospital.
+Two responses to "Physician refusal of requests for futile or ineffective interventions," by John J. Paris and Frank E. Reardon: Medical futility   communication between doctors and patients  Applying the concept of futility at the bedside.
+Decisions near the end of life: resource allocation implications for hospitals.
+Beyond futility: commentary.
+Technical note: preventive maintenance quality assurance.
+Becoming an effective clinical engineering or biomedical technology manager.
+Career opportunities in clinical engineering.
+The role of simulation in the design of control systems.
+Closed-loop control of arterial pressure during cardiac surgery.
+Electric field induced in a spherical volume conductor from arbitrary coils: application to magnetic stimulation and MEG.
+Tissue engineering in the USA.
+Opportunities for the cellular approach in biomedical engineering.
+In vitro assessment of the Milwaukee Heart and right to left balance.
+The second and third model of the flow transformed pulsatile total artificial heart.
+Development of a totally implantable artificial heart.
+Thermal, operational, and storage stability of immobilized carbonic anhydrase in membrane lungs.
+Initial in vivo tests of an electrohydraulic actuated total artificial heart.
+Does a porcine hepatocyte hybrid artificial liver prolong the survival time of anhepatic rabbits?
+The spring-driven implantable pump. A low-cost alternative.
+A blood pump with an interatrial shunt for use as an electrohydraulic total artificial heart.
+Surface fixation of hydrogels. Heparin and glucose oxidase hydrogelated surfaces.
+Tissue viability measurement by in situ fluorometry.
+Laboratory experience with a novel, non-occlusive, pressure-regulated peristaltic blood pump.
+Two-dimensional orientational response of smooth muscle cells to cyclic stretching.
+Development of an implantable centrifugal blood pump.
+Electrohydraulic ventricular assist device development.
+Baylor multipurpose circulatory support system for short- to long-term use.
+Development of an axial flow blood pump LVAS.
+Two-dimensional cell manipulation technology. An artificial neural circuit based on surface microphotoprocessing.
+Fabrication of a jellyfish valve for use in an artificial heart.
+A motor integrated regenerative pump as the actuator of an electrohydraulic totally implantable artificial heart.
+Novel instrumentation monitoring in situ platelet adhesivity with a quartz crystal microbalance.
+BSD 2000 multi-applicator hyperthermia system using scattering- or S-parameters.
+Automated mechanical thermometry probe mapping systems for hyperthermia.
+Military clinical engineering: the Israel Defense Forces experience.
+What is a clinical engineer? Issues in definition.
+Ethics education at the engineering/medicine interface.
+The bioengineer's obligations to patients.
+Innovation and change in medical technology: interactions between physicians and engineers.
+Judaism and the health care crisis.
+Artificial respiration and AHN : some similarities and differences.
+Consumer expectations and access to health care.
+Older Americans and the rationing of health care.
+Should ethical and legal standards for physicians be changed to accommodate new models for rationing health care?
+Professional judgment and the rationing of medical care.
+Just health care rationing: a democratic decisionmaking approach.
+Regulatory rationing: a solution to health care resource allocation.
+Cutting waste by making rules: promises, pitfalls, and realistic prospects.
+Rationing health care: the unnecessary solution.
+Technology assessment: the missing human dimension.
+1992 survey of salaries & responsibilities for hospital biomedical/clinical engineering & technology personnel.
+Technology assessment and equipment planning in Kaiser Permanente, Northern California Region.
+Computerized maintenance management systems for clinical engineering.
+Commentary regarding ECRI response to the use of the Gaymar T-pump in ECMO.
+Neonatal ECMO praise.
+Wheelchair-mounted integrated control systems for multiply handicapped people.
+HSE scientist wins 1992 Beilby Award.
+Changing your genes.
+The problems of being bioethical.
+Ethics, genetics and science policy.
+The cognitive politics of professional conflict: law reform, mental health treatment technology, and citizen self-governance.
+Instructions for the Valley of the Shadow: a medical directive (living will)
+Codes of ethics, professions, and conflict of interest: a case study of an emerging profession, clinical engineering.
+Mock hospital ethics committee: the role of ethics committees in resource distribution.
+Rationing or resource allocation in health care?
+Confluence of ethical and economic issues in the development and adoption of high technology approaches in clinical care.
+Living within limits: the future of health care.
+The "ethics of evidence" and randomized controlled trials.
+Ethics and evidence.
+As quadruplets hang on, a welfare fight rages.
+Rationing life.
+Considering experimentation and elusive truth: informed consent made difficult.
+Hospital bioethics: a beginning knowledge base for the neonatal social worker.
+Current sheet applicator arrays for superficial hyperthermia of chestwall lesions.
+An apparatus to measure in vivo biomechanical behavior of dorsi- and plantarflexors of mouse ankle.
+Searching and citing clinical engineering literature.
+FFT-based digital tactile vocoder system for real-time use.
+On/off control in FES-induced standing up: a model study and experiments.
+Closed-chest cardiac stimulation with a pulsed magnetic field.
+Heart rate and body temperature sensitive diaphragm pacing.
+Engineering and physiological approaches to the study of cardiovascular function.
+Resource allocation in the intensive care unit.
+Technology in medicine   ethics, politics and reality.
+Temperature selective deposition of Parylene-C.
+An experimental system for auditory image representations.
+Molecular bioengineering of biomaterials in the 1990s and beyond: a growing liaison of polymers with molecular biology.
+Artificial and bioartificial replacement of the endocrine pancreas.
+Dedication to Dr. Willem Johan Kolff.
+Design of a clinical engineering management information system.
+Justice, community dialogue, and health care.
+A legal research agenda for the Human Genome Initiative.
+"He wants to do what?" Cryonics: issues in questionable medicine and self-determination.
+The issue of personal choice: the competent incurable patient and the right to commit suicide?
+Medicine's future: technology or a person-centred profession?
+The patient's story and the right to refuse treatment: are we listening?
+Collaboration between nurse researchers and biomedical engineers.
+Immunochemically based assays for process control.
+Use of regulated secretion in protein production from animal cells: an overview.
+Use and engineering aspects of immobilized cells in biotechnology.
+A human genome analysis system (HUGA-I) developed in Japan.
+Artificial neural networks in bioprocess state estimation.
+System biomedicine: a new paradigm in biomedical engineering.
+The human genome project as social policy: implications for clinical medicine.
+Towards a biomolecular computer.
+Job roles of assistive technology service providers in the United States.
+Biomedical engineering basis of traditional Chinese medicine.
+Engineering design of vascular prostheses.
+An introduction to the special issue on vascular haemodynamics.
+Bioengineering activities in the Department of Mechanical and Production Engineering at the University of Limerick.
+Conceptual design and cost estimate for a modified hemoglobin production plant.
+Autologous graft engineering.
+Graft engineering: the evolution of hematopoietic transplantation.
+9th annual meeting of the Skin Pharmacology Society, Cleveland, Ohio, October 14-16, 1992. 9th International Symposium on Bioengineering and the Skin, Sendai, Japan, October 19-20, 1992. Abstracts.
+Bioengineering: the fifth traditional engineering discipline?

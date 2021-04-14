@@ -1,0 +1,205 @@
+Focus on: SUNY Health Center at Brooklyn Scientific & Medical Instrumentation Center.
+Decisions to forgo life-sustaining therapy: the limits of ethics.
+Comments on "Digital filters for real-time ECG signal processing using microprocessors".
+A simulation study of intracranial pressure increment using an electrical circuit model of cerebral circulation.
+RF energy deposition in a heterogeneous model of man: far-field exposures.
+RF energy deposition in a heterogeneous model of man: near-field exposures.
+PUPA: a pulse programming assistant for NMR imaging.
+Information modeling and analysis of event related potentials.
+HIDRA: a hierarchical instrument for distributed real-time analysis of biological signals.
+The EEG and MEG, using a model of eccentric spheres to describe the head.
+Cycle time control of an onboard oxygen generation system.
+Angle independent ultrasonic detection of blood flow.
+A 64-solenoid, four-level fingertip search display for the blind.
+The Biomedical Engineering Department. Part 1 Medical electronics equipment maintenance.
+Examining the limits of life.
+Rules of safety.
+Three-dimensional motion behavior of the human spine a question of terminology.
+Theory on thermal probe arrays for the distinction between the convective and the perfusive modalities of heat transfer in living tissues.
+Developing oscillatory flow in a circular pipe: a new solution.
+The physical dimensions of the human neonatal cardiovascular system.
+A self-heated thermistor technique to measure effective thermal properties from the tissue surface.
+The effects of RPM and recycle on separation efficiency in a clinical blood cell centrifuge.
+Kinematic and passive resistive properties of human elbow complex.
+A theoretical model for water flux through the artery wall.
+A structural model for molded thermoplastic ankle-foot orthoses.
+On constitutive relations and finite deformations of passive cardiac tissue: I. A pseudostrain-energy function.
+Load sharing among spinal elements of a motion segment in extension and lateral bending.
+Upper limb loadings of gait with crutches.
+Comments on "Roundoff errors in signal averaging systems".
+Phase shifter for a 915 MHz phased array hyperthermia system.
+A method to estimate local skull resistance in living subjects.
+An improved perturbation technique for electrical impedance imaging with some criticisms.
+Reduction of electrical interaction in auditory prostheses.
+Current distributions produced inside and outside the cochlea from a scala tympani electrode array.
+A speech processor with lateral inhibition for an eight channel cochlear implant and its evaluation.
+A study of prosthetic heart valve sounds.
+Comparing reconstruction algorithms for electrical impedance tomography.
+Fourier imaging of electrical currents in the human brain from their magnetic fields.
+A master's degree program in occupational therapy with a rehabilitation technology focus.
+Special issue on technology.
+Technology applications in occupational therapy.
+Current density profiles of surface mounted and recessed electrodes for neural prostheses.
+The response of the seated human to sinusoidal vibration and impact.
+Focus on: Southern Baptist Hospital Biomedical Electronics Department.
+Ectogenesis, justice and utility: a reply to James.
+A clinical gait analysis system.
+A review of some of the rheumatological problems and engineering capabilities.
+Rethinking health care for the aged.
+An ethical challenge in critical care: the severely injured patient.
+Feasibility study of batteryless temperature transponders using miniature microwave cavity resonators.
+Application of a neuroelectric model to electrocutaneous sensory sensitivity: parameter variation study.
+Simulations and sensitivity analysis of the vestibulo-ocular reflex.
+Optimal electrode configurations for external cardiac pacing and defibrillation: an inhomogeneous study.
+Programmable pneumatic generator for manipulation of intrathoracic pressure.
+An emulator system for developing improved elbow-prosthesis designs.
+An evaluation of methods for neuromagnetic image reconstruction.
+The EMG-force model of electrically stimulated muscles: dependence on control strategy and predominant fiber composition.
+A prototype inverse solution in one-dimension to find the origin of excitation, strand radius, intracellular resistivity, or distance from the surface.
+The rectification properties of an electrode-electrolyte interface operated at high sinusoidal current density.
+Electrical characteristics of chronically implanted platinum-iridium electrodes.
+Vibration of polarographic oxygen electrodes by piezoelectric elements: a method of reducing flow artifacts.
+A computerized system for measuring cerebral metabolism.
+Laser Doppler technique for absolute measurement of blood speed in retinal vessels.
+Productivity, cost and quality control.
+Focus on: Biomedical Engineering Department, Saint Therese Medical Center.
+Radiology engineering at the Albany Medical Center: five year's experience.
+Salary survey summary.
+On not compensating for bad outcomes to biomedical innovations: a response and modest proposal.
+Bioethics and applied biomaterials.
+A compact centrifugal blood pump for extracorporeal circulation: design and performance.
+Orthogonal bone cutting: saw design and operating characteristics.
+A simple unconstrained dynamic knee simulator.
+Modeling the rate of premature ventricular contractions and its response to lidocaine infusion.
+Computer simulation of adaptive drug infusion.
+Clinical applications of pharmacokinetics and adaptive control.
+Adaptive multivariable drug delivery: control of arterial pressure and cardiac output in anesthetized dogs.
+Multiple-model adaptive control of blood pressure using sodium nitroprusside.
+Closed-loop regulation of a physiological parameter by an IPFM/SDC (integral pulse frequency modulated/Smith delay compensator) controller.
+Does physiological blood glucose control require an adaptive control strategy?
+Improvement in arterial oxygen control using multiple-model adaptive control procedures.
+Automatic regulation for administration of therapeutic agents.
+Continuous drug delivery system design using nonlinear decoupling: a tutorial.
+An adaptive controller for closed-loop management of blood pressure in seriously ill patients.
+An open-loop computer-based drug infusion system.
+A model-based self-adjusting two-phase controller for vecuronium-induced muscle relaxation during anesthesia.
+Knowing when not to treat.
+Medical risks, disclosure, and liability: slouching toward informed consent.
+A report from Australia: which babies are too expensive to treat?
+Treating the public with risk communications: a public health perspective.
+Force plate studies of Duchenne muscular dystrophy.
+The thermal properties of human cortical bone: an in vitro study.
+The causes of femoral head roughening in explanted Charnley hip prostheses.
+A leg positioning and holding mechanism for use during knee surgery.
+A mathematical model of the locomotor apparatus.
+Mathematical models of musculo-skeletal systems.
+Validity of some methods of estimating circumferential elastance of vascular prostheses.
+Spectrophotometric determination of meconium concentration in amniotic fluid.
+Stochastical interpretation of retinal tear.
+Cardiac volume and its relationship with field plethysmogram.
+Analogue tachometer for measuring heart rates in small mammals.
+Control of a single degree of freedom artificial hand.
+Tentacle regeneration in Hydra: a quantitative methodological approach.
+Quantum noise in X-ray image intensifiers.
+Computer-aided oesophageal manometry: prospects and problems.
+Experimental study in rat metatarsals to determine whether callus vascularity is an indicator of the mechanical strength of healing fractures.
+Relationship between lordosis and the position of the centre of reaction of the spinal disc.
+Measurement of cardiac output by electrical impedance plethysmography.
+Physical modelling of the arterial wall. Part 2: Simulation of the non-linear elasticity of the arterial wall.
+Intrinsic indices of the left ventricle as a blood pump in normal and infarcted left ventricles.
+Comparative distribution of petechial haemorrhages as a function of aircraft cockpit geometry.
+Portable system for the measurement of heart rate.
+Power for neurological prostheses: a simple inductive R.F. link with improved performance.
+Symbolic keyboard for computer aided instruction of deaf children.
+1987 Survey of hospital salaries & job responsibilities for clinical engineers & biomedical technicians.
+Focus on: Johnson City Medical Center Hospital Biomedical Engineering Department.
+Act on establishment of an ethical council and regulation of certain forms of biomedical experiments. Act. No. 353.
+Canada: conflict as well as consensus.
+Implantable ventricular assist systems.
+Personal view:
+Determining risk to subjects: exposure to ultrasound.
+Ethical considerations in the patenting of medical processes.
+Evaluation report: heat and moisture exchangers.
+An instrument for testing external cardiac pacemakers.
+Current developments in oxygen concentrator technology.
+Circuit for monitoring the median frequency of the spectrum of the surface EMG signal.
+A whole body thermal model of man during hyperthermia.
+Estimation of myoelectric conduction velocity distribution.
+Computer analysis of heart motion from two-dimensional echocardiograms.
+An analytical descriptor of three-dimensional geometry: application to the analysis of the left ventricle shape and contraction.
+A comparison of one- and two-dimensional classification of hemagglutination reactions in microplates.
+A left ventricular function analyzer and its application.
+The Automatic Implantable Cardioverter Defibrillator (AICD) a clinical and technical review.
+A computerized method for processing of spectrally analysed Doppler-shifted signals from insonated arteries.
+A computer model of acoustic wave scattering in soft tissue.
+Spectral broadening in ultrasonic Doppler flowmeters due to unsteady flow.
+Focus on: Biomedical Technology Department, Lutheran Medical Center.
+Energy transfers in the spinal engine.
+Novel respiratory gas volume and flow monitor.
+Measurement of gastric emptying rate.
+Soft-talker: a sound level monitor for the hard-of-hearing using an improved tactile transducer.
+Twenty-four hour monitoring of deep body temperature with a novel flexible probe.
+Mass spectrometer system for continuous skin-surface and intravascular blood gas measurement of maternal-fetal respiration in labour.
+Physical modelling of the arterial wall. Part 1: Testing of tubes of various materials.
+Simple physical model of coronary vasodilation.
+Model of the haemodynamic reactions to intermittent coronary sinus occlusion.
+Preload-independent index of contractility for the assessment of left ventricular function.
+Results of a comparative in vitro study of Duromedics and Björk-Shiley monostrut mitral heart valve prostheses.
+Theoretical evaluation of energy loss methods in the analysis of prosthetic heart valves.
+Microcomputer-based low-cost method for measurement of spatial and temporal parameters of gait.
+Laser Doppler velocimetry: the problem of fibre movement artefact.
+Flow analysis for optimal configuration of hemoperfusion device.
+Cardiac valve prostheses: pathological and bioengineering considerations.
+Bioethical shock.
+Are productivity and cost-effectiveness comparisons between in-house clinical engineering departments possible or useful?
+Cost-effective clinical engineering programs: an expanding role in hospitals.
+Management and control of clinical engineering productivity: a case study.
+Quality assurance.
+Use of a spreadsheet to develop and track budget performance.
+Normal and pathological human gait analysis using miniature triaxial shoe-borne load cells.
+Automatic control systems for the artificial heart and ventricular assist device.
+Development of autonomous paracorporeal and implanted artificial heart and circulatory assist systems.
+Design of a new pulse duplicator system for prosthetic heart valves.
+Age rationing and the just distribution of health care: is there a duty to die?
+Philosophical and moral aspects of manipulation and of risk.
+The ambiguity of progress and medical ethics.
+Informed consent in obstetrics: some special problems.
+What does life support support?
+State variable approach to the function of the muscular system supporting the hip joint during normal walking.
+Measurement of the temporal and spatial parameters of gait using a microcomputer based system.
+Microcomputer system for the analysis of muscle function.
+Computer-based system for continuous on-line measurements of tissue blood perfusion.
+Analysis of visual evoked potentials through Wiener filtering applied to a small number of sweeps.
+Non-invasive technique for examining the respiratory proprioceptor system in man.
+Functional mechanisms of polymer-based in vivo reference electrodes.
+Model selection for ventricular mechanics: a sensitivity analysis approach.
+Design and analysis of quantised coefficient digital filters: application to biomedical signal processing with microprocessors.
+Biorheology and fluid flux in swelling tissues, II. Analysis of unconfined compressive response of transversely isotropic cartilage disc.
+Biorheology and fluid flux in swelling tissues. I. Bicomponent theory for small deformations, including concentration effects.
+Medical engineering in Japan. Research and development.
+Proceedings of the Twenty-fourth Annual Rocky Mountain Bioengineering Symposium and the Twenty-Fourth International ISA Biomedical Sciences Instrumentation Symposium. April 27-28, 1987, Fargo, North Dakota.
+A vaporizer controller.
+Nickel cadmium batteries in defibrillators.
+Three separation-insensitive radiofrequency inductive links.
+An instrument for measuring endometrial blood flow in the uterus, using two thermistor probes.
+A low-power multichannel electromyographic signal data acquisition system.
+Increased aortic root stiffness associated with osteogenesis imperfecta.
+A Monte Carlo technique for signal level detection in implanted intracranial pressure monitoring.
+Holographic interferometry: a critique of the technique and its potential for biomedical measurements.
+A microcomputer-based prosthetic limb controller: design and implementation.
+Relationship between chamber mechanical properties and mean pressure-mean flow diagram of the left ventricle.
+Automatic control of anesthesia using two feedback variables.
+A programmable-delay line.
+Line frequency rejection for biomedical application.
+Quantitative approach to osteoarthritic gait assessment.
+Ambulance transport: a question of patient comfort.
+Perspectives in non-traditional biofluid mechanics.
+An automated technique for in vitro assessment of the susceptibility of urinary catheter materials to encrustation.
+Body surface measurement and replication by photogrammetry and computer aided design.
+Curve and surface representation by iterative B-spine fit to a data point set.
+Some experimental results concerning the mechanical coupling in endoprosthetics.
+Indentation study of the biochemical properties of articular cartilage in the canine knee.
+Sensory control of a multifunction hand prosthesis.
+A distension control device useful for quantitative studies of hollow organ sensation.
+Rehabilitation R&D progress reports 1986.
+Oxygen transfer in the corneal-contact lens system.

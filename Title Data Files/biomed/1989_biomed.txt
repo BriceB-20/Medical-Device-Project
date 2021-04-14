@@ -1,0 +1,133 @@
+Medical device service: past and prologue.
+The ultimate decision.
+The biomedical model and just health care: reply to Jecker.
+Ken Clarke festschrift.
+Biomedical/clinical engineering.
+General planning of an artificial organ center.
+A new system to produce intraoperatively custom femoral prosthesis from measurements taken during the surgical procedure.
+Shape the implant to the patient. A rationale for the use of custom-fit cementless total hip implants.
+Developments in biotechnology: ethical perspectives.
+Institutionalized ambiguity: conflict and continuity in the American hospital.
+Measurement of the turning, rolling and obstacle resistance of wheelchair castor wheels.
+The postgraduate medical informatics programme at the University of Cape Town.
+Teaching medical informatics to biomedical engineering students: experiences over 15 years.
+Biomedical engineering fundamentals of the intra-aortic balloon pump.
+The biomedical engineering technician as a member of the clinical research team.
+Current issues in clinical engineering and biomedical technology certification.
+Clinical engineering department staffing: analysis of two surveys.
+The bioengineered competitor? Steroids, hormones, and individual rights.
+High technology health care.
+Private virtues, public detriment: allocating scarce medical resources to the elderly.
+Death induction, active euthanasia by omission, and protecting the vulnerable.
+Finality of death: the underlying issue.
+Model Aid-in-Dying Act.
+A computerized kinematic diagnostic system.
+Infection control, decontamination, and the clinical engineer.
+The circulatory assist device program at University Medical Center. Clinical training and technical support.
+Team approach to circulatory support.
+The professionalization of clinical engineering.
+The challenge of building quality into clinical engineering programs.
+Quality assurance from the clinical engineering perspective. Interview by Ethan Hertz.
+Evaluation report: ECG recorders.
+Remote Control Systems' Radiotelemetry Receiver 7060: its use in clinical colonic motility measurement.
+A microcomputer-based system for the accurate continuous measurement of ventilation and blood pressure parameters under anaesthesia.
+In vitro testing of heart valves: evolution over the past 25 years.
+Memoirs of an early heart-valve engineer.
+A stress analysis of the proximal tibia after insertion of the endoprosthesis.
+The future of clinical engineering in the 1990's.
+Clinical engineering programs in Dallas and Fort Worth hospitals.
+Occupational biohazards affecting clinical engineers & BMETs. Part V: Skin and urogenital diseases.
+Troubleshooting repairs of biomedical equipment.
+A simple remote-controlled power switch for internalized bioelectronic instrumentation.
+Biomedical engineering in the early U.S. aerospace program.
+Separating death from mind and morals.
+Justice, health care, and the elderly.
+Ethical responsibility in the German Democratic Republic.
+France: a focus on the new reproduction.
+Enhancing clinical engineering credibility and visibility in a medical center.
+The clinical engineering budget.
+The clinical engineering budget: how to tell the boss where the dollars went. Interview by Michael J Miller.
+Changes in heating patterns of interstitial microwave antenna arrays at different insertion depths.
+Expert system approach to detection of epileptiform activity in the EEG.
+The inductorium: the stimulator associated with discovery.
+Noninvasive microwave phased arrays for local hyperthermia: a review.
+Tests on a shocking device the stun gun.
+Experimental determination of the frequency response characteristics of physiological pressure measurement systems.
+Novel FIFO computer interface for gamma cameras.
+Combined water bath and rocking tilt table stimulator to test autonomic function by a thermal and postural entrainment method.
+Testing of heat exchanging capacity and effect of the subject's position on thermal entrainment in a water bath stimulator.
+Transthoracic resistance changes during cardiac defibrillation.
+New noninvasive piezoelectric transducer for recording of respiration, heart rate and body movements.
+Incremental network analogue model of the coronary artery.
+Model study of the spread of electrotonic potential in cardiac tissue.
+Noninvasive heart rate monitoring system for avian embryos based on the ballistocardiogram.
+Cross-sectional area measurement in collapsed tubes using the transformer principle.
+Ag/AgCl electrode assembly for thin smooth muscle electromyography.
+Frequency response model of skeletal muscle: effect of perturbation level, and control strategy.
+Thermal clearance blood flow sensor sensitivity, linearity and flow depth discrimination.
+Occupational biohazards affecting clinical engineers & BMETs. Part IV: Respiratory and gastrointestinal systems.
+An open forum on: a national clinical engineering society.
+1989 Survey of hospital salaries & job responsibilities for clinical engineers & biomedical technicians.
+Central equipment control department.
+Biotechnology and the commercial use of human cells: toward an organic view of life and technology.
+Attitudes of hospitalized patients toward life support: a survey of 200 medical inpatients.
+Commercialising biomedical technology.
+Thermodynamic consequences of the dispersion relation in nonlinear biomechanical materials and systems.
+Clinical applications of biomechanics. Papers presented at the 28th annual scientific meeting of the Biological Engineering Society. Salford, UK, 7-9 September 1989.
+Fast integer coefficient FIR filters to remove the AC interference and the high-frequency noise components in biological signals.
+Electrical properties of tissues involved in the conduction of foetal ECG.
+Simultaneous measurement of surface EMG and movements for clinical use.
+Improved photomultiplier tube for positron emission tomography.
+Principles and appraisal of combined images in NMR.
+Mathematical model for interpretation of Doppler velocity waveform indices.
+Model of respiratory sinus arrhythmia in man.
+Quantitative analysis of the insulating effect of silicone oil on the electroretinogram.
+Microprocessor-controlled vector scan display system for generation of real-time visual stimuli.
+Dual-pathway model of the human vestibulo-ocular reflex.
+Bottom-up approach to the ECG pattern-recognition problem.
+The Pocket Speech Aid.
+Spectral analysis of EEG responses.
+Occupational biohazards affecting clinical engineers & BMETs. Part III: Blood and other body fluids.
+The amicus curiae brief: public policy versus personal freedom.
+Reproductive laws, women of color, and low-income women.
+Equitable access to biomedical advances: getting beyond the rights impasse.
+Age-based rationing of medical care: a legal and policy critique.
+Age-based rationing and technological development.
+Setting limits: a realistic assignment for the Medicare program?
+Medical implications of setting limits: using age as a criterion.
+Predicting the future of privacy in pregnancy: how medical technology affects the legal rights of pregnant women.
+Noninvasive bioengineering assessment of psoriasis.
+Health care in the United States: rights and reality.
+Privacy and personhood revisited: a new framework for substitute decisionmaking for the incompetent, incurably ill adult.
+Do we have the standards we need? Do we need the standards we have?
+Occupational biohazards affecting clinical engineers & BMETs. Part II: Common biohazard questions.
+Occupational biohazards affecting clinical engineers & BMETs. Part I: Preliminary survey of perceived hazards.
+Rehabilitation R & D Progress Reports 1988.
+IPSM annual conference: selected abstracts. Institute of Physical Sciences in Medicine. Canterbury, 14th-16th September 1988.
+Racial differences found in kind of medical care Americans get.
+Challenges of the new biotechnology.
+Designer genes: an ethical perspective on genetic manipulation.
+Biology and the future: a doctrinal agenda.
+Should there be governmental guidelines in bioethics? The French approach.
+Medicare's End-Stage Renal Disease Program: its development and implications for health care policy.
+Public-private partnerships in biomedical research: resolving conflicts arising under the Federal Technology Transfer Act of 1986.
+Contemporary bioethics and the demise of modern medicine.
+Wanted   the ethical in Jewish bio-ethics.
+Science and values.
+Clinical engineering in clinical departments: a different point of view.
+Should there be a formal mechanical-optic-electronic biomedical-engineering program?
+Selected papers from the 6th University of California-at-Davis Biomedical Engineering Symposium. May 1986.
+A quantitative comparison of a position measurement system and accelerometry.
+The theory and design of piezoelectric/pyroelectric polymer film sensors for biomedical engineering applications.
+Proceedings of the twenty-sixth annual Rocky Mountain Bioengineering Symposium and the twenty-sixth International ISA Biomedical Sciences Instrumentation Symposium. April 21-22, 1989, Ames, Iowa.
+Bioengineering systems research in the United States: an overview report of the Engineering Research Board, National Research Council.
+The Internal Human Conditioning System: a multipurpose programmable biomedical system.
+Advances in rehabilitation technology. NSC-88. North Sea Conference on Biomedical Engineering. Maastricht, The Netherlands, April 13-15, 1988. Proceedings.
+Recent advances in biomaterials and medical devices. Selected papers presented at the fifth Southern Biomedical Engineering Conference. Shreveport, Louisiana, October 20-21, 1986.
+Work of IEEE P1157 Medical Data Interchange committee.
+Design for an ultrasound-based instrument for measurement of tissue blood flow.
+The rational construction of new enzymes: design and synthesis of a dehydrogenase which accepts an unnatural substrate.
+Development of a microwave-induced hyperthermia system with multiple applicators.
+Eighth Southern Biomedical Engineering Conference. Richmond, Virginia, October 15-16, 1989. Abstracts.
+Knowledge exchange between medicine and engineering.
+Clinical engineering in Japan and the Bill for the Clinical Engineering Technician Law.

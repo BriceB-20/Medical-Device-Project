@@ -1,0 +1,196 @@
+Prenatal genetic screening: the enigma of selective abortion.
+PRONET services for distance learning in mammographic image processing.
+BEAM@Net: telematic services for clinical engineers and medical physicists.
+Colin McLaurin a tribute to a quiet giant.
+Everest and Jennings Distinguished Lecture. Continue to be good. Aspire to be great.
+The voice of the customer: consumers define the ideal battery charger.
+Use of the virtual instrumentation laboratory for the assessment of human factors in surgery and anesthesia.
+The tradeoffs of successful simulation.
+Ultrasonic wave propagation in porous media: determination of acoustic parameters and high frequency limit of the classical models.
+Educating the rehabilitation engineer as a service provider.
+High school teaching of bioethics in New Zealand, Australia and Japan.
+Death: a persistent controversial state.
+Dermatological engineering.
+Death in technological time: locating the end of meaningful life.
+The patient's vocation:  Christian responses to bioethics.
+Decision-making by default: experiences of physicians and nurses with dying patients in intensive care.
+Death with dignity: a Roman Catholic perspective.
+Protecting the immunocompromised patient: the role of the hospital clinical engineer.
+Health technology assessment and the NHS R&D initiative.
+Steam sterilization.
+BMETs in equipment repair depots: does the need remain?
+The future of clinical engineering practice: ACCE's Vision 2000.
+Consolidation and downsizing: a new paradigm for clinical engineering.
+Porous hydroxyapatite reinforced with collagen protein.
+Tissue-engineered heart valves. Autologous valve leaflet replacement study in a lamb model.
+In search of the perfect child: genetic testing and selective abortion.
+Fit to equip? You've just ordered the latest million-dollar clinical contraption. Now what?
+Communitarian bioethics: a pious hope?
+A reply to Joseph Bernstein.
+The artificial womb is born.
+Making a machine instrumental: RCA and the wartime origins of biological electron microscopy in America, 1940-1945.
+Exploring the international role of clinical engineers. Part II.. Interview by Joe Dyro.
+Recent progress in engineering the Pittsburgh intravenous membrane oxygenator.
+Biomedical Engineering Society 1996 annual fall meeting. University Park, Pennsylvania, October 3-6, 1996. Abstracts.
+Norms for patents concerning human and other life forms.
+High-efficiency shock-wave generator for extracorporeal lithotripsy.
+Development of an integrated artificial heart-lung device for long-term cardiopulmonary support.
+A single pulsatile pump for total biventricular cardiac support using patient lung ventilation.
+Development of a new blood pump using a shape memory alloy actuator.
+Reconstruction of loads in the fibrosa and ventricularis of porcine aortic valves.
+Computational simulation of flow in the end-to-end anastomosis of a rigid graft and a compliant artery.
+Validation study of a new transit time ultrasonic flow probe for continuous great vessel measurements.
+Development of a high permeability cored transintegumental power transformer.
+Pulsatile operation of a centrifugal ventricular assist device with magnetic bearings.
+New design for a pumping artificial lung.
+Acute in vivo studies of the Pittsburgh intravenous membrane oxygenator.
+Development of a precise controller for an electrohydraulic total artificial heart. Improvement of the motor's dynamic response.
+Transient pressure signals in mechanical heart valve cavitation.
+Ferromagnetic artificial cells for artificial circulation.
+Progressive pressure expansion in skeletal muscle ventricle conditioning.
+A design improvement strategy for axial blood pumps using computational fluid dynamics.
+EEG spectral topography in neurology: II. A new system and a theoretical comparison of interpolation techniques.
+EEG spectral topography in neurology: I. A review of techniques.
+Ethical issues of perinatal human gene therapy.
+Data recovery from reduced electrode connection in electrical impedance tomography.
+The development of the Port-a-Bidet: a portable bidet for people with minimal hand function.
+A minimal parametric model of the femur to describe axial elastic strain in response to loads.
+A new in vitro measurement technique for small three-dimensional joint motion and its application to the sacroiliac joint.
+Dynamic analysis and geometry models for the design of bi-leaflet prosthetic mechanical heart valves.
+The integrated design of mechanical bi-leaflet prosthetic heart valves.
+Modelling nanoscale fluid dynamics and transport in physiological flows.
+Tangled lifeline.
+Genetic engineering of immunotoxins.
+Tissue engineering.
+Perspectives on the future of clinical engineering. Consolidations, outsourcing, and opportunities the new paradigm.
+Teach your technicians to share (their expertise).
+Statutory and ethical barriers in the patenting of medical and surgical procedures.
+Do no harm.
+Germ-line genetic engineering and moral diversity: moral controversies in a post-Christian world.
+Biotechnology and the utilitarian argument for patents.
+Coming soon to the "genetic supermarket" near you.
+Can chaos theory be used to increase preventive maintenance effectiveness?
+Biomedical engineering education in Canada, 1996.
+Technical note: Rationale, development, use and evaluation of an equipment management and image storage system.
+Developing an in-house software system for medical equipment inventory management.
+1996 survey of salaries & responsibilities for hospital biomedical/clinical engineering & technology personnel.
+Accreditation & clinical engineering.
+In-shoe biaxial shear force measurement: the Kent shear system.
+Multistep pressure platform as a stand-alone system for gait assessment.
+Auditing for compliance with quality systems requirements: the prospects for harmonization.
+Simulator training in anesthesiology: an answer?
+Application of the Deming management method to equipment-inspection processes.
+Tissue engineered bone-regeneration using degradable polymers: the formation of mineralized matrices.
+Periodontal tissue engineering by growth factors.
+A comparative analysis of various EMG pattern recognition methods.
+Monitoring of heart and respiratory rates by photoplethysmography using a digital filtering technique.
+Model prediction of vibration effects on human subject seated on various cushions.
+Mechanical testing of isolated senile human eye lens nuclei.
+Biomedical equipment and medical services in India.
+Technology assessment and equipment management: a practical approach to cost reduction.
+Genetic selection of offspring characteristics.
+Linear hydraulic pressure-pulse actuator (LHPA): a versatile instrument that produces a simulated blood pressure pulse wave for small sized vessels.
+Femoral shaft reconstruction using tissue-engineered growth of bone.
+Spectral analysis of an acoustic respiratory signal with a view to developing an apnoea monitor.
+An engineer's perspective.
+Comparative testing of pulsatile impeller total heart and sarns nonpulsatile roller as biventricular assist device in pigs.
+Development of a home ankle exerciser.
+Glucose monitoring: state of the art and future possibilities.
+Conduit-mounted cardiac valve prostheses: a review of their uses, design and in vivo performance.
+The fourth scientific revolution.
+Calling scientific ideology to account.
+Independent commercial IRBs.
+Development of a clinical internship program.
+There's no such thing as "safe equipment".
+New standard for medical equipment management programs.
+Electromagnetic interference testing of somatosensory and near-infrared devices used in the microgravity and hospital environments.
+Service documentation and the biomedical engineer: results of a survey.
+Requiem or renaissance for the law reform commission of Canada?
+Should we patent God's creation?
+Emerging technologies and medical coverage.
+Negative eugenics and ethical decisions.
+A case of futility or patient autonomy.
+Patient actuation of PCA.
+Surface engineering: optimization of antigen presentation in self-assembled monolayers.
+Cellular engineering prospects for sensing and processing.
+Genetic testing and early diagnosis and intervention: boon or burden?
+A numerical model of an intensive care ventilator-humidifier system.
+Clarification of the mechanical behaviour of spinal motion segments through a three-dimensional poroelastic mixed finite element model.
+Frictional action at lower limb/prosthetic socket interface.
+An integrated approach to Smart House technology for people with disabilities.
+Integrating assistive technologies: current practices and future possibilities.
+Providing rehabilitation integrated systems using existing rehabilitation technology.
+From SAW to Comspec.
+Clinical laboratories are laboratories for re-engineering.
+Drawing the line on genetic intervention in humans.
+Quality in management of biomedical equipment.
+Why bad things happen to good clinical engineers.
+Bone morphogenetic proteins and tissue engineering.
+Determination of the proximity tolerance for measurement of surface contact areas using a magnetic tracking device.
+In vitro testing of a left ventricular assist device. Study of the effect of its control strategy on energetic relationships inside the left ventricle.
+The inferior boundary condition of a continuous cantilever beam model of the human spine.
+Monitoring surface shape variations on the human body.
+Experimental determination of the effective point of measurement of a parallel-plate ionisation chamber.
+Patient monitoring system for load measurement with spinal fixation devices.
+A fluid dynamics study of the Trac catheter.
+Design of an FECG scalp electrode fetal heart rate monitor.
+Fixation of femoral allograft/prosthesis composites after 25%, 50% and 75% resection.
+Vaginal temperature sensing using UHF radio telemetry.
+A non-invasive continuous method of measuring blood volume during haemodialysis using optical techniques.
+Should clinical engineering departments charge for their services?
+Engineers in clinical engineering: does the need remain?
+IEEE standards for physical and data communications.
+Total quality in biomedical technician training. University of Michigan Quality Improvement Teams.
+Confronting the angel of death.
+Legal and ethical challenges in gene therapy.
+An engineering challenge: incontinence.
+Germline gene therapy: its time is near.
+Sensing platform for acoustic startle responses from rat forelimbs and hindlimbs.
+John E. Abele. Interview by Karen Sandrick.
+Interfering with nature.
+Should patenting of surgical procedures and other medical techniques by physicians be banned?
+Sophie's choices: medical and legal responses to suffering.
+Medical technology transfer and physician-patient conversation.
+Destructuring disability: rationing of health care and unfair discrimination against the sick.
+Bioethics and public policy: will liberal nihilism be our future?
+Pathways to immortality in the new millenium: human responsibility, theological direction, or legal mandate.
+Paying physicians more to do less: financial incentives to limit care.
+Judaism.
+The Hippocratic example of the neutrality and universality of medicine.
+Technology and human dignity.
+Images of death and dying in the intensive care unit.
+Experiment Perilous: forty-five years as a participant observer of patient-oriented clinical research.
+The special health care needs of the elderly.
+The changing environment for technological innovation in health care.
+Problems, perils, precautions and rewards in overseas clinical engineering training.
+Clinical engineering in South Africa.
+Thermomechanical analysis of shape memory devices.
+NIH's John Watson battles bureaucracy for research.
+Safety management: expanding the role of clinical engineers.
+Response to "Germ-line therapy to cure mitochondrial disease: protocol and ethics of in vitro ovum nuclear transplantation" by Donald S. Rubenstein, David C. Thomasma, Eric A. Schon, and Michael J. Zinaman (CQ Vol 4, No 3)
+Computation of neuromagnetic fields using finite-element method and Biot-Savart law.
+Descriptive multidimensional statistical methods for analysing signals in a multifactorial biomedical database.
+The future of clinical engineering is "appropriate".
+Rwanda: hope and healing for a nation in post-traumatic shock.
+How to prepare for the biomedical equipment technician certification exam.
+Investigation of video techniques for dynamic measurements of relative vertebral-body motion in vitro.
+A glucose biosensor based on an oxygen electrode: in-vitro performances in model buffer solution and in blood plasma.
+Automated in-vivo measurement of quasi-static lung compliance in the rat.
+Development of a continuing education program for biomedical engineering technicians.
+Measuring quality and continuous improvement in a biomedical engineering department.
+Risk-oriented maintenance.
+Capital equipment support: a new era in technical service.
+Peripheral blood progenitor cell transplantation: where do we stand? Chairman's Summary of the European School of Oncology Task Force meeting Peripheral Blood progenitor cell's held September 29-30, 1995.
+Empirical modeling for oxygen transport processes and related physiological and bioprocess systems.
+Sensitivity of femoral strain pattern analyses to resultant and muscle forces at the hip joint.
+Haematological variations of experimental pigs during biventricular assistance with impeller total heart.
+Pulsatile impeller heart: a viable alternative to a problematic diaphragm heart.
+Real time frequency domain fibreoptic temperature sensor using ruby crystals.
+Separation of cardiac conduction system and atrial activities by spatial regression.
+A transputer-based physiological signal processing system. Part 2 System testing and investigation of flow through models of very small arterial stenoses.
+Accuracy of telemetry signals in the post-implantation monitoring of electrograms sensed by pacemakers.
+Neural network analysis of the EMG interference pattern.
+A review of parametric modelling techniques for EEG analysis.
+Nanocontrollers for biomedical applications.
+Technical papers composing the proceedings of the 33rd Annual Rocky Mountain Bioengineering Symposium and the 33rd International ISA Biomedical Sciences Instrumentation Symposium. Colorado Springs, Colorado, April 12-13, 1996.
+A major Italian force in the ENT diagnostic field and in hearing rehabilitation.

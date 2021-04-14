@@ -1,0 +1,193 @@
+Method for recording the time, magnitude and orientation of forces applied to walking sticks.
+Inexpensive solid-state averager for interference pattern electromyography.
+Techniques of flash photolysis.
+Rotating membrane cell.
+Engineers design limbs.
+Hospitals, manufacturers need greater awareness of electrical hazards.
+Automatic developer, "Pentakon Ear". (German Democratic Republic).
+Production of spectacles in Czechoslovakia.
+Improved injection needles.
+Filter-dosimeter for blood preservatives.
+Laboratory centrifuge TsL-1.
+Card index system for medical diagnostic instruments.
+New method for cooling (or heating) of the body and an apparatus for craniocerebral hypothermia.
+Method for calculating the stability of extramedullary plates.
+Theory and calculation of ejection atomizers.
+Discrepancies in results obtained with activity cages and by observation.
+An Apgar timer.
+Transducer alignment device for A-scan echoencephalography.
+Effect of the skull in degrading the display of echoencephalographic B and C scans.
+Evaluation of intensity-modulated recording for ultrasonic diagnosis.
+The calibration of bicycle ergometers.
+An instrumentation harness assembly for long-term use on miniature swine.
+Modern materials, their contribution and use in the human body.
+Ultrasonic visualization system employing new scanning and presentation methods.
+A calibration device for the earpiece dichromatic densitometer.
+Materials in medicine.
+Occupancy principle for radioactive tracers in steady-state biological systems.
+A pressure generator for testing the frequency response of catheter-transducer dystems used for physiological pressure measurements.
+Medicine and the challenge of technology.
+The economics of innovation.
+Tomorrow's laboratory.
+The trouble with patient monitoring.
+The pressure-sensitive radiotelemeter.
+The electron probe microanalyser and its applications in medicine.
+Some aspects of spectacle production in the Czechoslovakian SSR.
+Difficulties in spectacle production.
+New operating tables.
+Apparatus for mammary gland radiography.
+Standardization of shaking apparatus and their designations.
+Equipment for optical workshops.
+Calculations for a direct-action pneumatic recording apparatus with pressure transmitter.
+Device for producing aerosols.
+Ophthalmoplethysmograph.
+Some design problems of ultrasonic transducers.
+Late results with Starr valve replacement of the aortic valve.
+A U.S. federation for medical engineering.
+Machining of tungsten alloy for nucleonic instruments.
+The design of biomedical instrumentation made easy through the use of operational amplifiers.
+Myoelectric control of orthotic devices: for the severely paralyzed.
+Complete ventricular atrialization by an implantable heart support device.
+Bioengineering in MRMP.
+Instruments for biopsy of the uterine cervix.
+Contracting policies of artificial heart program.
+Synchronized counterpulsation in the management of ventricular fibrillation following coronary artery ligation.
+A hinged prosthetic cardiac valve fabricated of rigid components. Experimental evaluations in vitro and in vivo.
+A fast-response oxygen analyzer with high accuracy for respiratory gas measurement.
+A simple, inexpensive method of evaluating circulation in pedicled tissues.
+High-impedance electrocardiogram amplifier-transmitter for use with dry electrodes. SAM-TR-68-55.
+Removable adapter for syringes.
+Mechanization of stowage operations in medical engineering production.
+Calculation of heat exchangers for cardiopulmonary bypass apparatus.
+Theory of gas-exchange units in artificial heart apparatuses: some problems. II. Some aspects of the control of the operation of foam-film type oxygenators determining their priming volume.
+Some problems connected with the development and production of medical instruments and apparatuses.
+Status of research in biomedical engineering.
+Automated multitesting laboratories: their use in community preventive health services.
+A Venturi circulator for anesthetic systems.
+An engineering approach to the training of surgical scientists.
+A new pediatric circle valve.
+A non-return valve for continuous use with the Emerson postoperative ventilator.
+New model of a pneumatic dental drill.
+Progress in medical instrumentation over the past fifty years.
+Bioengineering contracts slight universities.
+Dental research: the past two decades. National Institute of Dental Research interdisciplinary programs have broadened the base of dental science.
+Purchase specifications for biomedical materials. I. Sheet or film of polytetrafluoroethylene plastic.
+Semipermeable aqueous microscapsules. Artificial cells. V. Permeability characteristics.
+Isotonic response to a step input of a 'muscle-motor' actuator.
+Applications of a new technique for system identification to dolphin temperature regulation and rabbit intraocular pressure control.
+Medical aspects of Gemini extravehicular activities.
+An air lock for feeding animals in a small environmental chamber.
+A biopsy drill permitting rapid freezing.
+A chronic percutaneous lead system employing a skin-prosthesis graft.
+Developmental evaluation of miniature biological sensing transducers. BNWL-715. 1.
+Dermographism: its definition, demonstration, and prevalence.
+Surgical suture-canine tissue interaction for six common suture types.
+Bibliography.
+Electrical hazards in hospitals.
+Testing of a simple chemical gas analyzer (GUKh-1).
+Specifications of steam boilers for disinfection chambers and apparatuses.
+Instrument for investigating external respiration (PFVD-4).
+New design of heat exchanger for foam-film type oxygenators.
+Design of magazine slots and thruster plates in surgical suturing apparatuses.
+Experimental investigation of the operation of aerosol bombs.
+Methods of increasing the life of surgical instruments.
+Methodical peculiarities of investigations of various aerosols.
+Ventilatory volume computer for on-line data processing.
+The recording and the analysis of gait in relation to the surgery of the hip joint.
+Cavitation at catheter tips: a possible cause of air embolus.
+Engineering principles in the control of external power by myoelectric signals.
+The physico-mathematical era of radiology the impact of modern technology on radiology the big machines.
+Research and development of an incremental microflowmeter for biological liquids. AMRL-TR-68-88.
+Alternating anesthesia by means of a combination of anesthetic apparatus UNA-1 and artificial respiration apparatus DP-2.
+A modified respiration integrator system.
+New apparatus in industrial production.
+Sweden: new institute to focus on applied microbiology.
+The laser in pediatric surgery.
+A blood pressure recorder.
+Computer studies of auditory perception.
+Neural correlates of acoustic signals.
+Electronics: integrated circuits.
+Medical engineering at Imperial College. Biomechanics.
+Medical engineering at Imperial College. Electrical engineering applied to medicine.
+An introduction to biotelemetry.
+Biotelemetry.
+Infant ventilator systems.
+Engineering in mechanical man.
+Determination of the parameters of gratings used in x-ray and gamma therapy.
+Residual stresses in drawn tubes for tubular parts of medical instruments (communication). II. Analysis of axial elastoplastic tension and expansion of tubes with residual stresses in them.
+Approximate calculation of the maximum allowable error of medical photoelectric colorimeters.
+Automatic monitoring of physiological functions during surgical operations.
+A new standard for spectacle lenses.
+Set of cannulas and connectors for the articial circulation apparatus.
+A new model of filter-trap for the artificial circulation apparatus.
+A rational system for organizing the maintenance of medical instrumentation.
+Experiment in changing to the new system of planning and economic stimulation in the biomedical engineering industry.
+Total prosthetic replacement of atrioventricular valves in the dog. II. Development of a tilting cone mitral prosthesis.
+Total prosthetic replacement of atrioventricular valves in the dog. I. Development of a free-floating cone valve for the right atrioventricular ostium.
+A new magnet system for 'intravascular navigation'.
+Biomedical engineering: a critical re-appraisal.
+A new mitral valve.
+Factors in coordination of the natural aortic pulse with an external pump-induced pulse.
+An instrument to prevent calcium embolism in open-heart surgery.
+Multipurpose adaptor for electronic tonometers.
+An artificial placenta: the development of an extracorporeal system for maintenance of immature infants with respiratory problems.
+Recording and signal-conditioning techniques and equipment used in a 1,000-flight biomedical study. NASA TND-4487.
+Observations on biomedical engineering.
+Use of USU-type dental engines.
+The feasibility of using pulsed ultrasound to detect the presence of in vivo tissue gas bubbles. SMC, SMRL. Rep. No. 508.
+Government, medical research, and education.
+Ethical issues in biological engineering.
+An interdisciplinary approach to research in biology and medicine and the research and development of biomedical systems.
+Tiny flaws in medical design can kill.
+Reliability of the physician's work in a system "physician-apparatus".
+Detection of foetal heart action by ultrasound transformed into audible signals. A comparative study with visual method.
+Placental localization by combined visual and auditory ultrasound techniques. A comparative study.
+Submaximal exercise as a measure of physical working capacity.
+The development of a diafiltration system for blood purification.
+A new no-prime, no-blood-loss, efficient and inexpensive hemodialysis system, potentially useful for home dialysis.
+Theoretical and experimental analysis of the intra-aortic balloon pump.
+Partial extracorporeal gas exchange in alert newborn lambs with a membrane artificial lung perfused via an A-V shunt for periods up to 96 hours.
+Complete atrialization of left ventricle with a new heart assist pump.
+Physiological consequences of acutely and chronically implanted left ventricular-aortic assist devices.
+Technical considerations in the design of a clinical system for external left ventricular assist.
+Control systems for artificial hearts.
+An artificial heart sensitive to atrial volume.
+Artificial ventricle with permanent internal flow - "whirl-heart": description and application for left ventricular assistance.
+A shell and tube oxygenator.
+The capillary membrane blood oxygenator: in vitro and in vivo gas exchange measurements.
+A membrane combined oxygenator and pump - principles.
+Methods for increasing the efficiency of a new dialyzer-membrane oxygenator.
+A truly portable, fully automatic, fluid preparation and control unit for hemodialysis.
+A new compact automatic home hemodialysis system.
+A new device for recording cardiac motion.
+A control system for an artificial heart.
+Instrument to measure tissue softness of the uterine cervix in pregnancy.
+Auto-perfused cannula to facilitate measurement of coronary flow.
+Technique for automatic in vivo regulation of blood sugar.
+Simulator for demonstration of some bioelectric properties of biological transducers.
+An externally actuated subcutaneous exteriorized "in-series" prosthetic pumping ventricle.
+Some experiences with artificial hearts inside the chest, driven with a simple inexpensive servo-system.
+A permanent mechanical auxiliary ventricle: experimental and clinical experience.
+Implantable mechanical cardiac substitute.
+Medical engineering program planning and systems analysis.
+Quality control.
+A design study of a hydraulically operated artificial arm powered by normal walking.
+The clinician's requirements for physiological monitoring systems.
+An instrumented pencil for psychomotoric studies.
+Tissue culture techniques for screening of prosthetic materials.
+The effect of various metal interfaces on blood and other living cells.
+Survey of biomedical materials and some relevant problems.
+Materials and heart valve prostheses.
+Medical application of the velour fabrics.
+Prosthetic heart valve replacement.
+Problems with materials used in the intrathoracic artificial heart.
+Problems in the use of polymeric materials in medical and biomedical applications.
+Graphite-benzalkonium-heparin coatings on plastics and metals.
+Static and dynamic stress considerations in the design and use of polymeric materials in prosthetic applications.
+The silicones as subdermal engineering materials.
+Blood-compatible plastics.
+Research in prosthetics in New Brunswick.
+Telemetry in medicine and biology.
+The late Samuel A. Talbot: the man and the scientist.
+Biomedical polymers.
+Rehabilitation.

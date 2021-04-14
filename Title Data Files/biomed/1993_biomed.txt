@@ -1,0 +1,148 @@
+A matter of life and death.
+Abstracts of the thirteenth Southern Biomedical Engineering Conference. Rockville, Maryland. April 16-17, 1994.
+Teaching of ethics in biomedical engineering.
+STADEERS: a software package for the statistical design of experiments pertaining to the estimation of parameters in rate expressions that describe enzyme-catalyzed processes.
+The genetic revolution: despite perfection of elegant techniques, ethical answers still elusive.
+Critical issues debates: intervention for infants with fatal heart disease, xenografting, and brain death criteria for anencephalic infants. Debate I. Resolved: a fetus or infant diagnosed with fatal heart disease should be referred for transplantation or palliative surgery.
+Thirty years ago.
+What bioethics brought to the public.
+Three views of history: view the third.
+Three views of history: view the second.
+Three views of history: view the first.
+Hard cases really aren't that important: reflections on Lisa Belkin's First, Do No Harm.
+At the Center: a tale of two stories.
+Development of a computerized equipment management program at Children's Hospital "Bambino Gesù" of Rome, Italy.
+Focus on: Thomas Jefferson University Hospital, Department of Biomedical Instrumentation.
+Focus on: The Methodist Hospital, Houston, Texas, Biomedical Instrumentation Department.
+MedWatch: FDA's new medical products reporting program.
+Using laptop computers as a BMET field service tool.
+Preventing stagnation of a CE department.
+Degradation of biomaterials by phagocyte-derived oxidants.
+Tomorrow's prenatal genetic testing. Should we test for 'minor' diseases?
+Society's views on ethics in scientific research.
+Human gene therapy: down the slippery slope?
+Quality and sanctity of life in the Talmud and the Midrash.
+New genetic medicine and public opinion.
+Expanding the scope of nursing ethics: cost containment, justice and rationing.
+Medical devices for military use.
+Robots for health care.
+All rights reserved: how the gene-patenting race is affecting science.
+Medical imaging equipment service in Kaiser Permanente, Northern California.
+Developmental history, early use, and implementation of the Automatic Implantable Cardioverter Defibrillator.
+Engineering considerations in the development of the automatic implantable cardioverter defibrillator.
+Engineering modifications for dynamic stereotactically assisted radiotherapy.
+Should we change the human genome?
+EquipTeach: a computer-aided instruction to teach users how to operate specific medical equipment.
+The clinical engineer's role in incident investigation.
+New approaches to technology assessment: opportunities and trends.
+Mass customization of prosthetic and orthotic devices.
+Initiatives in the biomedical industry.
+Biomedical engineering in Hong Kong the Scottish connection.
+Strathclyde-Rostock cooperation.
+Development of prosthetic/orthotic education and training.
+Bioengineering at the University of Strathclyde.
+It seemed a good idea at the time.
+Bioengineering in Edinburgh.
+Application of art, science and gumption in the care of the disabled.
+Historical aspects of biomedical engineering: a perspective from recent work in the sociology of technology.
+Samuel Haughton (1821-1897).
+Metabolic engineering methodologies and future prospects.
+"Listening" to nature: the significance of Leon Kass for Catholic moral theology.
+An algorithm for approximate crinkle artifact compensation in pressure-sensitive film recordings.
+Developing and delivering new medical technologies: issues beyond access.
+Life-sustaining technologies: value issues.
+Assistive technology policy: a road to independence for individuals with disabilities.
+Cultural lag, economic scarcity, and the technological quagmire of "Infant Doe".
+Premature adoption and resolution of medical technology: illustrations from childbirth technology.
+Rationing medical care to the elderly revisited: futility as a just criterion.
+Accumulating resources in perinatal intensive care centers: market strategies and ethical issues.
+"No margin, no mission": challenge to institutional ethics.
+Access to health care for the elderly.
+Section IX: Ethical and legal issues in specialized nutrition support.
+Pursuing a peaceful death.
+Reflections on playing God engendered by a chat with L.
+Biomedical engineering education & industry: an Australian perspective.
+The BMET (biomedical equipment technician) career.
+"Agenda for change".
+Three-dimensional visualization of air flow in infant incubators using computational fluid mechanics.
+An equipment systems laboratory for the biomedical equipment technology curriculum.
+Evolution of a successful quality management program for biomedical engineering.
+Strategic planning in clinical engineering.
+Reportability of incidents.
+New ideas in biomaterials science a path to engineered biomaterials.
+Clinical engineering support for the critical care unit.
+World Congress on Medical Physics and Biomedical Engineering. Proceedings. Kyoto, 7-12 July 1991.
+Biomedical engineering: relevant or not?
+Potential applications of microsystems engineering in minimal invasive surgery.
+Value variables in the health-care reform debate.
+Tissue engineering.
+The search for ethical symmetry in health care reform: individual preference vs. societal need.
+1993 survey of salaries & responsibilities for hospital biomedical/clinical engineering & technology personnel.
+A flexible information management system. Better information management means increased productivity.
+A proposed model for designing clinical engineering department protocols. Some ideas for implementing and augmenting your hospital's policies and procedures.
+Responsibilities and training needs of BMETs in Veterans Affairs and large private-sector hospitals. BMET job descriptions vary widely.
+Status of clinical engineering title.
+Ocular microtremor measurement system: design and performance.
+Development of steerable instruments for minimal invasive surgery in modular conception.
+Edlich's academical village.
+Rationing: national or global?
+Professional integrity and global budgeting: a study of physician gatekeeping in the British National Health Service.
+International challenges and opportunities in health.
+The rationing of health care: a doctor's dilemma.
+What has bioethics to offer the developing countries.
+Some ways that technology and terminology distort the euthanasia issue.
+Biomedicine and bioethics: de lege lata, de lege ferenda. "... the law today, as laid down, and what tomorrow may bring.".
+Measurement of angular displacements using Hall effect transducers.
+Mechanical methods of controlling ataxia.
+Medicus and technicus.
+Public disagrees with professionals over NHS rationing.
+Response to Roger W. Hunt.
+How to locate & hire clinical/biomedical engineers, supervisors, managers & biomedical equipment technicians.
+Focus on: University Hospital & Health Sciences Center SUNY at Stony Brook Biomedical Engineering Department.
+Review of scheduled performance assurance inspections.
+Strategies for technology management in clinical engineering.
+Creating an effective clinical engineering team.
+Equipment performance testing: frequency & detail.
+Micromachining technology and biomedical engineering.
+The blood compatibility catastrophe.
+Biomaterials in medicine a bioengineering perspective.
+The challenge of efficient clinical engineering.
+The high cost of living.
+Health care providers, insurers, and individual patients; the right to treatment; economic and policy issues.
+Human gene therapy research: technological temptations and social control.
+Ethics and the public health.
+Case vignette: inside information.
+Perceptions concerning research integrity and the practice of data audit in the biotechnology industry.
+"Medical futility" and physician refusal of requested treatment.
+Modelling aperture antennas in the near- and far-field regions using subarrays of equivalent uniformly illuminated apertures.
+A clinical engineering information system incorporating ECRI-HECS, HECSLINK, and dBase.
+Biomedical equipment considerations for aeromedical transports.
+Cellular and metabolic engineering. An overview.
+Is VXIbus for your biomedical measurement problem?
+VXIbus: a modern alternative for instrumentation.
+Biomedical engineering education in Europe.
+Technology assessment and biomedical engineering education.
+Technology assessment in healthcare: a means for pursuing the goals of biomedical engineering.
+Technology evaluation in a US hospital: the role of clinical engineering.
+Who, what, where, when, why and how: technology assessment in a hospital setting.
+Assessment of medical technology: the role of engineers.
+Do biomedical engineers have a role in healthcare technology assessment?
+Non-discrete biomolecular computing: an approach to computational complexity.
+Human germ-line gene therapy: new territory?
+Biomedical engineering research programs in Nagoya Institute of Technology.
+Biomedical Engineering Society, 25th Anniversary, 1993 annual fall meeting. Memphis, Tennessee, October 21-24, 1993. Abstracts.
+Hybrid concept on the mechanical test method of small caliber blood vessel.
+Control engineering for planning drug therapy.
+A comparative study of the quantification of REM occurrence patterns via REM density and REM time-connectivity.
+Correlation dimension of heart rate variability: a new index of human autonomic function.
+How much work is expended for respiration?
+Blood flow and vascular endothelial cell function.
+The ethics of germ-line gene therapy: challenges to mainstream approaches by a feminist critique.
+Control strategies in FNS systems for the upper extremities.
+30th Annual Rocky Mountain Bioengineering Symposium and 30th International ISA Biomedical Sciences Instrumentation Symposium. Proceedings. San Antonio, Texas, April 2-3, 1993.
+Reproductive autonomy and evolutionary biology: a regulatory framework for trait-selection technologies.
+Cultivation of recombinant, insulin-secreting AtT-20 cells as free and entrapped spheroids.
+Early detection of cell metabolism with a silicon microsensor.
+Biological paradigms of molecular electronics.
+Engineering of animal and human red blood cells: state of the art.
+The role of an engineering oriented medical research group in developing improved methods and devices for achieving ventricular defibrillation: the University of Missouri experience.

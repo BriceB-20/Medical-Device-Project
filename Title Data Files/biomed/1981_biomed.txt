@@ -1,0 +1,86 @@
+Condemned to live.
+A biomedical engineer's library.
+Clinical engineering and hospital accreditation in Canada.
+A hospital's role in training biomedical electronics technicians.
+Clinical engineering strategies for career development.
+Science, technology, and the limits of judicial competence.
+Human engineering and the law.
+Tinkering with life.
+Rationing "normal" health care: the hidden legal issues.
+The burned-out clinical engineer.
+The use of Laguerre functions for parameter identification in a distributed biological system.
+A microP-controlled sliding integrating-type differentiator for biomedical signal processing: application to dc ocular rheography.
+Clinical engineering in the Southeast.
+A moral allocation of scarce lifesaving medical resources.
+Biotechnology and university ethics: the new paradise and the potential fall.
+The politics of biomedical technology.
+Bioethical decisions: the political context and challenges.
+Biomedical engineering in China - a general description.
+Active and carrier-tool prostheses for upper limb amputations.
+Engineering of upper limb prostheses.
+Biomedical engineering priorities for research in external aids.
+Thermoplastics for prosthetic applications.
+The smallest patients.
+Role of the biomedical engineer in nuclear medicine.
+Bioengineering: the advent of metabiology (part II).
+Analysis & recommendations for a medical engineering department.
+Clinical engineering's involvement with a computerized hospital information system.
+NHS reorganisation and prospects in bioengineering.
+Regulation of technological activities: a new approach.
+A patient is a person.
+Effects of subject position on balance platform measurements.
+Proceedings of the IEEE Engineering in Medicine and Biology Society Conference, September 19-21, 1981, Houston, Texas. Abstracts.
+A technology for implantable hermetic packages. Part 2: An implementation.
+Education and training for biomedical engineering- a changing pattern.
+Veterans administration biomedical engineer training program.
+Bioengineering: the advent of metabiology (part I).
+Evaluating the impact of medical care and technologies on the quality of life: a review and a critique.
+Clinical hyperthermia systems engineering.
+Biomedical engineering department in a US 500-bed acute care hospital: staffing and operations.
+The artificial heart program.
+Crisis within many companies manufacturing medical apparatus.
+Parapodium redesigned for sitting.
+Reflections on the history of heat and mass transfer in bioengineering.
+The allocation of limited medical resources: an ethical perspective.
+Achieving the promise of clinical engineering.
+IV UCD Biomedical Engineering Symposium.
+Clinical engineering in NB: the regional experience.
+Clinical engineering in NB: the provincial experience.
+The biomedical engineering department.
+Medical progress and national health care.
+Diffusion of high technology medical care and cost control a public policy dilemma.
+Academic focus: graduate study and research in bioengineering at Clemson University.
+Acoustic determinants of respiratory system properties.
+The respiratory system: analysis of function and applications.
+Engineers and the respiratory system: a perspective.
+First Southern Biomedical Conference. Shreveport, Louisiana, June 7-8, 1982. Abstracts.
+Errors in derived kinematic variables determined from a fixed accelerometer configuration.
+Design of a portable powerline-operated ECG recorder   a student-faculty project.
+Proceedings of the Eighteenth Annual Rocky Mountain Bioengineering Symposium and the Eighteenth International ISA Biomedical Sciences Instrumentation Symposium April 20-21, 1981, Laramie, Wyoming.
+The comparative stiffness of external fixation frames.
+Biomedical engineering education: enrollment, courses, degrees, and employment.
+Microwave hyperthermia for cancer therapy.
+Bionics in spare parts medicine: management and clinical issues.
+Left ventriculometry: the Minnesota experience with a bioengineering approach.
+Bioengineering analysis of head and spine injuries.
+Metal electrodes in bioengineering.
+Biomedical engineering aspects of spinal cord stimulation.
+Control of PaCO2 during mechanical ventilation: monitoring and feedback techniques.
+Species transport dynamics for clinical pulmonary evaluation.
+Control of breathing in the newborn.
+The chemical control of respiration.
+Respiratory assistance: a review of techniques, rationale, and problems with a glimpse at the future.
+Automated pulmonary function testing: interpretation and standardization.
+A conceptual framework for pulmonary function testing.
+Computer-assisted medical decision making: a critical review.
+Aerosol deposition and clearance in the human upper airways.
+Settling and diffusion of aerosol particles in small airways during breath holding.
+Characterization and interpretation of forced expiration.
+Mechanisms of expiratory flow limitation.
+Characterizing respiratory mechanics with forced excitation techniques.
+Elasticity analysis of lung deformation problems.
+Mechanics of the pressure-volume curve of the lung.
+Mechanical factors in breathing pattern regulation in humans.
+Estimation of distributions of ventilation/perfusion ratios.
+Gas mixing in the pulmonary airways.
+Particle deposition and clearance in the bronchial tree.

@@ -1,0 +1,202 @@
+Considerations in implementing shared clinical engineering services in New Brunswick.
+Life-and-death spectaculars.
+Judicial decision making and biological fact: Roe v. Wade and the unresolved question of fetal viability.
+Design and optimization of multi-stepped waveguide applicators for medical applications.
+The emerging field of clinical engineering and its accomplishments.
+Science and standards. RF-hazards and standards: an historical perspective.
+The development of biomedical engineering: historical comments and personal observations.
+The misguided quest for the artificial heart.
+Evaluation of infusion pumps and controllers: fourth report.
+A spatial arrangement memory testing unit.
+Equipment management in practice.
+The financial management of hospital equipment.
+On the damping properties of the shoulder complex.
+Semi-automatic reconstruction of the spatial trajectory of an impacted pedestrian surrogate using high-speed cinephotogrammetry and digital image analysis.
+Entry flow in a circular tube of aortic arch dimensions.
+Three-dimensional finite element analysis of a simplified compression plate fixation system.
+Torsion and bending imposed on a new anterior cruciate ligament prosthesis during knee flexion: an evaluation method.
+Evaluation of light-emitting diodes for whole blood oximetry.
+R-wave detection in the presence of muscle artifacts.
+Data reduction of body surface potential maps by means of orthogonal expansions.
+Estimation of QRS complex power spectra for design of a QRS filter.
+Multi-district equipment management.
+Carl Walter: a pioneer in shaping the medical device industry.
+Conference report on S. 540, a bill to amend the Public Health Service Act to establish a National Institute of Arthritis and Musculoskeletal and Skin Diseases, and for other purposes.
+Patents for life forms: an inappropriate response to biotechnological advancement.
+Whither the rehabilitation equipment industry?
+The inertial and geometrical properties of helmets.
+A mechanical device for leg disturbance during gait.
+Osteoarthritic gait dynamics from force-plate measurements.
+Thermal entrainment and human ovulation.
+A controllable artificial afterload for isolated heart studies.
+Computer-controlled temperature multiplexer for thermal dosimetry studies.
+Equivalence between one step kinetics and Hill's equation.
+A device for generation of electromagnetic fields of extremely low frequency.
+A force sensor and peak-reading recorder for measurement of cervical dilatation force.
+Transventricular simple-capacitor discharge defibrillation thresholds after coronary ligation and body hypothermia.
+Bone blood flow measurement.
+The interpretation of continuous wave ultrasonic Doppler blood velocity signals viewed as a problem in pattern recognition.
+Interrupted reflection fibre optic communication device for the severely disabled.
+Statistical clustering procedures applied to low-cost speech recognition.
+Clinical engineering education in the high technology hospital.
+International standards for surgical implants.
+Optical endpoint sensing in an automatic whole blood clotting timer.
+Technology and the diabetic patient.
+The use of microcomputers for psychological assessment of physically disabled adults.
+A non-invasive CSF flowmeter.
+Long time dying: when 'miracle cures' don't cure.
+The artificial heart. A study in myopia.
+The life sciences and the public: is science too important to be left to the scientist?
+Measurement of the laser exposure levels for burn threshold in biological tissue.
+Determination of muscle orientations and moment arms.
+Patterns of flow in the left coronary artery.
+Electro-mechanical behavior of wet bone Part II: Wave propagation.
+Electro-mechanical behavior of wet bone Part I: Theory.
+A crack model of a bone cement interface.
+The intraaortic balloon pump: a nonlinear digital computer model.
+Kinematic and force data collection in biomechanics by means of sonic emitters II: Force data collection and application to the human shoulder complex.
+Kinematic and force data collection in biomechanics by means of sonic emitters I: Kinematic data collection methodology.
+Parameter estimation using the quasi-linear viscoelastic model proposed by Fung.
+The simultaneous measurement of thermal conductivity, thermal diffusivity, and perfusion in small volumes of tissue.
+An isolated rat liver model for the evaluation of thermal techniques to quantify perfusion.
+An optoelectronic device to read and spell braille braillect.
+Psychophysical response to electrocutaneous stimulation.
+Ceramic electrodes for ELF bioeffects studies.
+A comparison between Walsh and Fourier analysis of the electroencephalogram for tracking the effects of anesthesia.
+Finding the site of origin and velocity of propagation in a short one-dimensional strand from two extracellular waveforms.
+Diffraction effects in reflected ultrasound spectral estimates.
+Engineering a trouble-free life for medical equipment.
+What is biomedical engineering?
+Fibre reinforcement and mechanical stability in articular cartilage.
+Transient elastohydrodynamic lubrication models for the human ankle joint.
+Cartilage bone interface.
+Conference report. Biomechanical aspects of cartilage and related structures.
+An idealized element model of human skin.
+Rheumatoid hand weakness characterising indices and clinical data acquisition.
+The cervical and lumbar vertebrae an anthropometric model.
+Rehabilitation engineering.
+Opening address 1984 Conference Engineering and Physics in the Life Sciences.
+Rehabilitation engineering: the perceived needs from a physician's viewpoint.
+Vibrating Reed method.
+A noble spring-clip: fatigue-resistant electrical connection for implant use.
+Natural frequency of fracture fragments in the assessment of tibial fracture healing.
+Vibration analysis of human tibia: the effect of soft tissue on the output from skin-mounted accelerometers.
+The lifting stress calculator.
+A microcomputer-based binaural measurement system.
+Maintenance, training and functional use of denervated muscles.
+A solid-state instrument for measuring dynamic changes in the pupil of the human eye.
+Infrared diameter gauge for in vitro mechanical testing of vascular grafts.
+Sensitivity analysis for an improved estimation of respiratory mechanics parameters.
+Electrochemical transducers for the measurement of biological compounds.
+Lasers in medicine and surgery.
+A communication aid for the physically handicapped.
+Will the USSR take genes to war?
+Nuclear magnetic resonance: the state of the art from the clinical engineer's viewpoint.
+Comments on "Upper extremity limb function discrimination using EMG signal analysis".
+A graphic method for estimating equivalent dipole of localized EEG discharge.
+Power spectrum density analysis of electrical noise in glass microelectrodes.
+A flash kinetic spectrophotometer employing photodiode array sensors.
+A computer-based system for automated quantitation of neurologic function.
+Continuous thermal measurement of cardiac output.
+Evaluation of lung ventilators.
+The assessment of arteriovenous fistulae created for haemodialysis from pressure and thermal dilution measurements.
+Quality assurance for implants in bone surgery.
+The double magnetic induction method for measuring eye movement results in monkey and man.
+Biotechnology: low risks at a premium.
+Study of 26 biomedical engineering programs.
+Ten ways to provide technician training.
+Choice and chance in the allocation of medical resources: a response to Kilner.
+Therapy or engineering: Jewish responses to genetic research.
+The clinical context of technology assessment.
+An inexpensive eye movement monitor using the scleral search coil technique.
+Comparing spectra of a series of point events particularly for heart rate variability data.
+An information-theoretic analysis of cutaneous receptor responses.
+Special-purpose orthonormal basis functions application to motor unit action potentials.
+Dielectric properties of fluid-saturated bone the effect of variation in conductivity of immersion fluid.
+Modeling of the transfer function of the flow transducer used in ventilatory impedance measurements.
+Time domain and spectral analysis of electrograms in man during regular ventricular activity and ventricular fibrillation.
+Some theoretic results on a digital EMG signal processor.
+Computer simulated analysis for assessment of ovarian function.
+A general-purpose microprocessor system for medical instrumentation and electrical stimulation.
+Electromagnetic generator.
+Instrumentation for measurement of dental plaque thickness in situ.
+Arthropump with peristaltic effect and pulsatile flow.
+Venous occlusive RN plethysmography: comparison with electrical admittance plethysmography.
+Laser method for recording displacement of the heart and chest wall.
+Spectral analysis of heart sounds: relationships between some physical characteristics and frequency spectra of first and second heart sounds in normals and hypertensives.
+Forces in the knee joint whilst rising from a seated position.
+Tri-axial graphics as an aid to understanding left ventricular function in conscious dogs.
+A stochastic signal method for measuring mechanical consequences of adrenaline in intact rat ventricular muscle.
+Wear tests on alumina for application in heart valve prostheses.
+The bond strength and ageing of plasma-sprayed coatings of alumina on metal substrates.
+A study of the wear characteristics of ultra-high molecular weight polyethylene sliding against glass.
+Syntactic pattern recognition of fetal stress.
+A magnet system for urethral closure in females.
+Sensitivity, resolution and contrast of film-screen combinations.
+A dynamic load-transducer for investigating non-linear characteristics of mammalian skeletal muscle.
+Biomedical engineering a reappraisal.
+A miniature infuser for the pulsatile administration of LHRH.
+Flowmeter for high frequency ventilation on the pneumotach principle.
+Eye Operated Keyboard.
+The application of pattern recognition techniques to the contingent negative variation for the differentiation of subject categories.
+Gov. Lamm asserts elderly, if very ill, have 'duty to die'
+Medical care rationing looms on the horizon, experts warn.
+Development of an inservice educational program for clinical staff.
+Termination of treatment in the persistent vegetative state.
+Results of a clinical engineering programme in the Federal Republic of Germany.
+The clinical engineering/health care mismatch: its effect on personnel management.
+Considerations in the development of a regional clinical engineering service.
+Biotechnology in Canada.
+The scope and potential of biotechnology.
+Clinical engineering in Italy: two local experiences.
+Biotechnology in medicine.
+California Blues will pay for heart transplants but only at Stanford.
+Medical ethics in life and death.
+Life and death.
+Promoting patient autonomy: looking back.
+A pulsed wire probe for the measurement of velocity and flow direction in slowly moving air.
+Advantages of a simple contact switch for human locomotion.
+Quality of life, sanctity of creation: palliative or apotheosis?
+Health care and the prospective Pareto principle.
+Rehabilitation engineering and the growth of prosthetics/orthotics practice.
+New low-profile applicators for local heating of tissues.
+Special issue on hyperthermia and cancer therapy.
+A simple pacemaker inhibitor.
+Proceedings of the Twenty-First Annual Rocky Mountain Bioengineering Symposium and the Twenty-First International ISA Biomedical Sciences Instrumentation Symposium. April 16-17, 1984, Boulder, Colorado.
+Benefits of helmet-mounted display image stabilisation under whole-body vibration.
+Pendulum testing of spasticity.
+Dual diode transducer for laser Doppler skin blood velocimeter.
+Imaging mammalian tissues and organs using laser collimated transillumination.
+Direct and indirect determination of tibial natural frequency a comparison of frequency domain analysis and fast Fourier transform.
+Correlation study of arterial blood pressure level to the amplitude of the pressure pulse waveform.
+Evaluation of AK prostheses comparing conventional with adaptive knee control devices.
+Paraplegic ambulation: a systems point of view.
+The many facets of bioengineering.
+Research priorities in medical engineering.
+In vivo strain patterns in the four major canine knee ligaments.
+Effects of low-modulus coatings on pin-bone contact stresses in external fixation.
+A simulation method for the study of laser transillumination of biological tissues.
+A new method for continuous intraoperative measurement of Harrington rod loading patterns.
+Informational analysis of left-ventricle/systemic-arterial interaction.
+Impedance matching between ventricle and load.
+Ventricular interaction with the loading system.
+Interaction of heart and arterial system.
+A new test circulatory system for research in cardiovascular engineering.
+The contribution of medical physics and engineering in health care. Medical instrumentation the digital revolution.
+Physiological and pathophysiological implications of ventricular/vascular coupling.
+The use of hemoglobin solutions in kidney perfusions.
+Automatic monitoring of breath-to-breath occlusion pressure and ventilatory parameters during CO2 rebreathing.
+Adhesion in the biologic environment.
+Mathematical modeling and simulation of the postural control loop. Part III.
+Biomechanics of running gait.
+Impact of bioengineering on noninvasive diagnostics.
+The neonatal oxycardiorespirogram.
+Mathematical modeling and simulation of the postural control loop Part II.
+Cardiac pacing from then to now.
+High-frequency ventilation.
+Biomechanics of human movement with applications to the study of human locomotion.
+Critical problems in spatial vision.
+The design of automated analysis machines.
+Medical applications of NMR spectroscopy. I. Clinical applications of phosphorus-31 NMR.
+A pulsed phase measurement ultrasonic flowmeter for medical gases.
+Physical methods for the study of the dynamics of axonal transport.

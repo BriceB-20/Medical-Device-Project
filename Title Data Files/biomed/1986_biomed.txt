@@ -1,0 +1,224 @@
+Bioengineering education, 1986 Part VII.
+Focus on: Good Samaritan Hospital Biomedical Services Department.
+GMDH correction modeling of distorted signals recorded by mandibular kinesiograph.
+Current source density estimation using microelectrode array data from the hippocampal slice preparation.
+Passive neuronal membrane parameters: comparison of optimization and peeling methods.
+Uterine EHG processing for obstetrical monitoring.
+Short time Fourier analysis of the electromyogram: fast movements and constant contraction.
+Rhythm analysis of arterial blood pressure.
+Quantitative investigation of QRS detection rules using the MIT/BIH arrhythmia database.
+Power spectral analysis of heart rate variability in sudden cardiac death: comparison to other methods.
+Reduction of heart sounds from lung sounds by adaptive filtering.
+High-frequency electrocardiogram analyzer.
+An efficient formula for estimating the generalized moments of the power spectral density (PSD) without computing the Fourier transform.
+The analysis of noisy signals by nonparametric smoothing and differentiation.
+A multichannel signal processor for the detection of epileptogenic sharp transients in the EEG.
+Testing correlated "EEG-like" data for normality using a modified Kolmogorov-Smirnov statistic.
+Enhancement of event related potentials by iterative restoration algorithms.
+Classification and detection of single evoked brain potentials using time-frequency amplitude features.
+A maximum likelihood method for estimating EEG evoked potentials.
+Classification of EEG spatial patterns with a tree-structured methodology: CART.
+Multichannel, single trial event related potential classification.
+The Personal Acoustics Lab (PAL): a microcomputer-based system for digital signal acquisition, analysis, and synthesis.
+A microprocessor-based signal processing system for measurement of vascular and urethral parameters.
+Classifier-directed signal processing in brain research.
+How to doctor the media.
+Computer control of a Braun Infusomat pump.
+A plethysmograph for the measurement of digital blood flow.
+Cardiac gating in nuclear magnetic resonance imaging.
+A microcomputer-based data acquisition system for a prosthetic heart valve test apparatus.
+Clinical engineering participation in problem-reporting programs.
+Design of a portable artificial heart drive system based on efficiency analysis.
+Mass transfer to fluids flowing through rotating nonaligned straight tubes.
+A flow system for the study of shear forces upon cultured endothelial cells.
+An apparatus to study the response of cultured endothelium to shear stress.
+Slow viscous flow in a syringe.
+Bio-medico-mechanical behavior of natural artery blood vessel under constant and variable internal pulsatile pressure flow test in vitro.
+Intracranial pressure: a review of clinical problems, measurement techniques and monitoring methods.
+The impact of pending technologies on a universal connector standard.
+Engineers + physicians = technological advances.
+Bioengineering education, 1986 Part VI.
+Clinical engineering program productivity and measurements.
+A needy world   a needed world: scarce medical resources and the Christian story.
+Is one allowed to stop artificial organs, allowing patients to die? Opposing physicians' and philosophers' views.
+Some aspects of medical ethics from the perspective of bioengineering.
+Materials for medicine.
+Microprocessor-based system for monitoring spinal evoked potentials during surgery.
+Analysis of models for external stimulation of axons.
+Recognition of the shape of the ST segment in ECG waveforms.
+Investigation of sounds produced by healthy and diseased human muscular contraction.
+Criteria for optimal averaging of cardiac signals.
+Performance and measures of performance for estimators of brain potentials using real data.
+SAMICOS a sleep analyzing microcomputer system.
+A simple technique to measure the rate and magnitude of shortening of single isolated cardiac myocytes.
+Evaluation of esophageal electrodes for recording His-Purkinje activity based upon signal variance.
+Capabilities of a toroid-amplifier system for magnetic measurement of current in biological tissue.
+Passive biotelemetry by frequency keying.
+Simple device for regulating the inflation of a balloon-tip catheter.
+Miniature load cells for the measurement of foot-ground reaction forces and centre of foot pressure during gait.
+Low power multichannel electromyographic data acquisition system.
+Biomechanical testing of an anatomically contoured fixation plate for the tibia.
+Bone marrow pressure chamber: a permanently inserted titanium implant for intramedullary pressure measurements.
+Pressure distribution under the ischium of normal subjects.
+Validity of some methods of estimating circumferential elastance of vascular prostheses.
+Trachea noise biofeedback device to help reduce bronchospasm in asthmatics.
+Scanning fluorometer for the rapid assessment of pyridine nucleotide and flavoprotein fluorescence changes in tissues in vivo.
+Semi-automatic image-analysis applied to the quantification of bone microstructure.
+Application of the Pisarenko Harmonic Decomposition method to physiological data.
+Role of the collar on the femoral stem of cemented total hip replacements.
+A microprocessor-based system for diagnosis of cognitive dysfunction.
+Foot pressure measurement: a review of clinical findings.
+Precision programmable constant direct current electrical stimulator for fracture healing.
+Technique for assessing the response of the respiratory controller to hypoxia and hypercapnia.
+A prototype portable electronic speaking aid for the nonvocal handicapped.
+Communication by eye closure a microcomputer-based system for the disabled.
+CCD line-scan image sensor for the measurement of red cell velocity in microvessels.
+Engineers: standards and routes to registration.
+Cardiac assist devices.
+Biomechanical analysis of needle holding security.
+Dynamic torquemeter calibration of bicycle ergometers.
+Influence of tissue compressibility on calibration for strain-gauge plethysmography.
+A pulsed diagonal-beam ultrasonic airflow meter.
+Bioengineering education, 1986 Part V.
+Focus on: Deaconess Hospital Biomedical Services Department.
+Teaching biomedical policy to undergraduates.
+In vivo electrical stimulation using multichannel photolithographic electrode arrays.
+Conversion between plethysmograph and perturbational airways resistance measurements.
+Comments on "Dielectric properties of solid tumors during normothermia and hyperthermia".
+Noninvasive measurement of the volume elastic modulus in finger arteries using photoelectric plethysmography.
+Comparison of a set of power distribution parameters for intraoperative EEG monitoring.
+Time domain resolution of forward and reflected waves in the aorta.
+Interpretation of the coherence function when using pseudorandom inputs to identify nonlinear systems.
+Currents induced in a human being for plane-wave exposure conditions 0-50 MHz and for RF sealers.
+Quantification of interaction between ELF-LF electric fields and human bodies.
+The myoelectric signal of electrically stimulated muscle during recruitment: an inherent feedback parameter for a closed-loop control scheme.
+Role of light scattering in spectrophotometric measurements of arteriovenous oxygen difference.
+A perinatal monitoring display based on the fetal topogram.
+A universal and inexpensive servomotor for vestibular research.
+Design and construction of a pulsed ultrasonic air flowmeter.
+The engineering of an ileostomy bag. Application of aerospace technology allied to medicine.
+Engineering in medicine.
+A standard pressure source for calibrating physiological pressure transducers.
+Initiative on medical decision-making of the Biomedical Engineering Group (COMAC-BME) of the European Community.
+The development of a mobile resuscitation unit.
+A simple device for the direct measurement of mean arterial pressure and for calibration of arterial pressure monitors.
+Assessment of fracture healing by spectral analysis.
+Audiology state of the art.
+Bioengineering activities in the Department of Mechanical Engineering, University of Newcastle Upon Tyne.
+Detection of myocardial scars in neonatal infants from computerized echocardiographic texture analysis.
+Engineering design considerations of the ORLAU Parawalker and FES hybrid system.
+The use of spectral analysis to assess the performance of shock absorbing footwear.
+Anatomical definition and modelling.
+An ultrasensitive transducer for measurement of isometric contractile force from single heart cells.
+A stereotaxic device for the closed exchange of intramedullary rods, using image-intensified X-rays, in children with osteogenesis imperfecta.
+Interfacing the BBC microcomputer for use with profoundly handicapped children.
+Bioengineering education, 1986 Part IV.
+Medical technology innovation continues but government policies cloud the future.
+Focus on: Multicare Medical Center Biomedical Engineering Department.
+"Academic capitalism" helping create Bionic Valley in Utah.
+Artificial organ pioneer says Star Wars siphoning funds, creating a brain drain.
+An automated system for ST segment and arrhythmia analysis in exercise radionuclide ventriculography.
+A method of calculation for simulation of action potentials.
+Noninvasive determination of central blood pressure by impedance plethysmography.
+An automated device for aseptically aspirating serum from blood collection tubes.
+Parametric changes in an intracranial pressure model during plateau waves.
+Automated extraction of activity features in linear envelopes of locomotor electromyographic patterns.
+Amplitude probability distribution of noise for flash-evoked potentials and robust response estimates.
+Evaluation of FFT-based and modern parametric methods for the spectral analysis of bioprosthetic valve sounds.
+Detection of stimulus-related (evoked response) activity in the electroencephalogram (EEG).
+An autoregressive model of the BAEP signal for hearing-threshold testing.
+Design and implementation of linear phase FIR filters for biological signal processing.
+An asymmetric two electrode cuff for generation of unidirectionally propagated action potentials.
+A programmable variable waveshape generator for electrosurgical research.
+Comparison of three transmittance oximeters.
+Sequential pulse defibrillation for implantable defibrillators.
+The effective mass concept: theoretical and quantitative analysis of the forbidden indicator phenomenon.
+Bioengineering education, 1986 Part III.
+Focus on: Newark Beth Israel Medical Center Biomedical Engineering Department.
+1985 survey of biomedical & clinical engineering departments in U.S. hospitals.
+Quality of life judgments and medical indications.
+The heart transplant dilemma.
+Therefore choose death?
+A survey of the legal, ethical, and public policy considerations of in vitro fertilization.
+A bidomain model for the extracellular potential and magnetic field of cardiac tissue.
+Correlation of constant flow rate with frequency spectrum of respiratory sounds when measured at the trachea.
+The zero-delay wavenumber spectrum estimation for the analysis of array ECG signals an alternative to isopotential mapping.
+ECG data compression using Fourier descriptors.
+Superposition of constant and oscillatory flows in a rigid cylindrical tube: influence of entrance effects.
+Aberrant heating: a problem in regional hyperthermia.
+Formative mechanisms of current concentration and breakdown phenomena dependent on direct current flow through the skin by a dry electrode.
+Intracranial pressure telemetry system using semicustom integrated circuits.
+A contact method of ocular pulse detection for studies of carotid occlusions.
+Biological design a neglected art.
+Woolmer Memorial lecture. Biological design a neglected art.
+Clinical engineering program: skills for managing technology.
+Carbon tetrachloride induced changes in ultrasonic properties of liver.
+Equivalent circuit analysis of high-frequency ventilators including a new high-impedance flow-interrupting ventilator.
+Design features of a C-based software talking aid for the blind and handicapped called SPEECHEX.
+Trimesters and technology: revamping Roe v. Wade.
+The pursuit of the artificial heart.
+Beyond localism: a proposal for a National Research Review Board.
+Xenografts and scientific evaluation.
+Roundoff errors in signal averaging systems.
+Assessment of hip and knee joint activity using an angular displacement activity monitor.
+Monitoring the workload in biomedical engineering.
+A control system for high-frequency jet ventilation.
+Productivity and cost-effectiveness of clinical engineering.
+Bioengineering education, 1986-Part II.
+Comparative cardiac mechanics: Laplace's Law.
+Biosensors.
+The packaging of implantable integrated sensors.
+Design and implementation of an implantable goniometer.
+Solid-state physical transducers for biomedical research.
+Device for rapid quantification of human carotid baroreceptor-cardiac reflex responses.
+Linearity and temperature control of the Fleisch pneumotachograph.
+Automated optical measurements of human torso surface movements during breathing.
+Liver transplantation in Massachusetts: public policymaking as morality play.
+Legal perceptions and medical decision making.
+Natural death acts and right to die legislation.
+Adequate health care and an aging society: are they morally compatible?
+Applying technology to operator requirements in medical equipment design.
+Development phases for medical devices.
+Attention to the medical equipment user in biomedical engineering.
+The automatic external defibrillator-pacemaker: clinical rationale and engineering design.
+The clinical engineer's role in design of medical devices.
+Report of an IEEE task force an IEEE opinion on research needs for biomedical engineering systems.
+The dynamic twisting of the left ventricle: a computer study.
+Central origin vs. reflex feedback in the respiratory heart rate relationship.
+Non-invasive assessment of aortic mechanical properties.
+The world of biomolecules a new dimension for biomedical engineering.
+Abstracts. Fifth Southern Biomedical Engineering Conference. Shreveport, October 20-21, 1986.
+Fracture toughness of Kevlar 29/poly(methyl methacrylate) composite materials for surgical implantations.
+A model of insulin delivery by a controlled release micropump.
+Mechanics of the otolith organ dynamic response.
+A computer model of neck muscle endurance and fatigue as a function of helmet loading.
+Computer-aided rehabilitation engineering CARE.
+A model of deposition and embolization of proteins and platelets on biomaterial surfaces.
+Effects of training on human tracking of electrocutaneous signals.
+Development and use of a remote-controlled mitral valve.
+Jet-directed catheter for interventional radiology.
+A critique of impedance measurements in cardiac tissue.
+Mapping the world of biomedical engineering: Alza lecture (1985).
+Polycrystalline silicon micromachining: a new technology for integrated sensors.
+Methods to measure blood flow velocity of red blood cells in vivo at the microscopic level.
+Microcirculatory methods for the clinical assessment of hypertension, hypotension, and ischemia.
+A transparent oxygen sensor array.
+Measurement of interstitial fluid pressure: comparison of methods.
+In vivo photometric analysis of hemoglobin.
+Measurement of the dynamics of arteriolar diameter.
+Contributions to the impedance cardiogram waveform.
+Recruitment properties of monopolar and bipolar epimysial electrodes.
+New methods for whole blood oximetry.
+A model-based system for assessing ventricular chamber pressure-volume-dimension relationship: regional and global deformation.
+Validity and reliability of biostereometric measurement of the human female breast.
+On-line determination of biochemical/physiological parameters in the fermentation of animal cells in a continuous or discontinuous mode.
+Cardiac output measurements. A review of current techniques and research.
+Cerebral magnetic fields.
+Nonlinear analysis: mathematical theory and biological applications.
+Quantitative analysis of cardiac arrhythmias.
+Safety considerations in clinical engineering.
+Analysis of the gas exchange system dynamics during high-frequency ventilation.
+Nonequilibrium facilitated transport of carbon dioxide in bicarbonate and bovine albumin solutions.
+A new pulsatile flow visualization method using a photochromic dye with application to Doppler ultrasound.
+New polyester arterial prostheses from Great Britain: an in vitro and in vivo evaluation.
+Engineering aspects of rehabilitation for the handicapped.

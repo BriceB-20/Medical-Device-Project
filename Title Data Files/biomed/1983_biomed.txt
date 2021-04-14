@@ -1,0 +1,160 @@
+The clinical equipment coordinator: a new role in the hospital industry.
+"ASAP": a microcomputer-based automated safety & performance testing system.
+Clinical engineering trends for 1984.
+The ethics and economics of high-technology medicine.
+Image reconstruction from incomplete projection data: iterative reconstruction-reprojection techniques.
+Standard errors on respiratory mechanical parameters obtained by forced random excitation.
+Dual microcomputer analysis of cardiac transmembrane action potentials.
+Application of phase analysis of the Frankenhaeuser-Huxley equations to determine threshold stimulus amplitudes.
+Geometric deconvolution: a meta-algorithm for limited view computed tomography.
+A computational model of the electromagnetic heating of biological tissue with application to hyperthermic cancer therapy.
+A cardiac hypothesis for the origin of EEG alpha.
+Lack of government transplant policy leaves insurers and patients guessing.
+Recommendations for designing device improvements.
+In-house CT service: the next clinical engineering crossroads.
+Microprocessors in pathology.
+Implications of microprocessors to equipment management.
+Microprocessors in audiology and neurophysiology.
+Microprocessors in anaesthesia and intensive care.
+Microprocessors in obstetrics and special care baby units.
+An introduction to microprocessors and their application.
+Microprocessors in medicine.
+A system for monitoring the position and time of feet contact during walking.
+Clinical gait assessment: a personal view.
+Comments on "Dynamics of gaseous uptake from the lungs: the concentration and second gas effects".
+Laryngeal evaluation using features from speech and the electroglottograph.
+Limitation of the inverse problem in body surface potential mapping.
+Estimation of motor unit twitches.
+Calorimetric measurement of the energy fluence of diagnostic X-ray beams.
+Optimum filters for estimating evoked potential waveforms.
+Scan-along polygonal approximation for data compression of electrocardiograms.
+Measurement of chest wall movement; design, performance and clinical use of a four-channel magnetometer instrument.
+Electrical stimulation at the wrist as an aid for the profoundly deaf.
+The rationing of medical care: the Jewish view.
+Biotechnology: a new reality.
+Education in the field of biomedical engineering for Japanese engineering students.
+Biomedical engineering at the University of Technology Twente, Enschede, The Netherlands.
+Biomedical engineering teaching and research at the centre for biomedical engineering, University of New South Wales, Kensington, Australia.
+First experimentation of the Spartacus telethesis in a clinical environment.
+The present state of biomechanical research in orthopaedics in Japan - an observation by an orthopaedic surgeon.
+Improving health care team work by education.
+Integration of clinical engineering into the hospital organization.
+Nerve regeneration successes spark optimism and controversy.
+New biotechnology: potential problems, likely promises.
+Detection of fluid entry into the urethra by electric impedance measurement: electric fluid bridge test.
+A pressure distribution transducer for in-vitro static measurements in synovial joints.
+Leg motion analysis during gait by multiaxial accelerometry: theoretical foundations and preliminary validations.
+The impedance of curved artery models.
+Turbulent flows through a disk-type prosthetic heart valve.
+Pressure difference-flow rate variation in a femoral artery branch casting of man for steady flow.
+An ultrasonic technique for imaging the ventricle in three dimensions and calculating its volume.
+A technique for the measurement of 'sucking' in bottle fed infants.
+Optimal resources for electrical equipment in critical care areas.
+An introduction to medical lasers.
+An instrument for measuring small flows during biliary tract surgery.
+Biomedical engineers work as highly skilled team.
+Transfer characteristics of an ink-jet writer for cardiovascular studies.
+Geometrical constraints on the rotational function of the femoral adductors in man.
+Design idea for a microwave energy coupler in biomedical field.
+A new miniature, open-loop, extracorporeal insulin infusion pump.
+Mass transfer rates in hemodialyzers an empirical correlation.
+Bio-medical engineering at Trent Polytechnic.
+The masters degree in bioengineering at the University of Strathclyde.
+Medical biophysics in Manchester.
+Education in bioengineering: experience at the University of Leeds.
+Bioengineering at Durham University.
+Biomedical engineering training in Dundee.
+Medical engineering: meetings on research priorities.
+Venture capitalism: a new fashion or new opportunity for European biomedical market development.
+The influence of flywheel weight and pedalling frequency on the biomechanics and physiological responses to bicycle exercise.
+Fluidic cycling devices for inspiratory and expiratory timing in automatic ventilators.
+Biomedical engineering in Germany (West).
+Sharing clinical engineering services: guidelines set up.
+A magnetically coupled multimicroelectrode system.
+Help wanted: engineer.
+Estimation of oxygen uptake from heart rate response to undersea work.
+Sexual instrumentation.
+Technology for hospitals.
+No time limit on maintaining 'dead' mother to save fetus?
+Measurement of turbulence intensity in the center of the canine ascending aorta with a hot-film anemometer.
+Error analysis of a system for measuring three-dimensional joint motion.
+Stresses in a Harrington distraction rod: their origin and relationship to fatigue fractures in vivo.
+A new approach to the design of internal fixation plates.
+National Institutes of Health Consensus Development Conference Statement on the Clinical Applications of Biomaterials. November 1-3, 1982.
+Intensive death.
+Another view of clinical engineering in a health care environment.
+Quantifying the thermal protection characteristics of outdoor clothing systems.
+Monitoring real-time aerosol distribution in the breathing zone.
+Structural matrices for use in rehabilitation.
+Combining techniques to enhance protection against high sustained accelerative forces.
+Instrumentation for analysis of continuous neck rotation.
+Venture capital or vulture capital?
+Monitoring methodology for gaseous hazards. Passive monitors and portable instruments.
+Lungco measurement of particles retained in the lungs.
+A step forward for science, but ethics questions remain.
+Emerging problems in clinical engineering education.
+A standards primer.
+A clinical internship program in biomedical engineering, Part II: Administration of the program.
+Developing a strategy for managing the hospital's growing technology.
+One small step for paraplegics, a giant leap for bioengineering.
+Wherefore goest thou, clinical engineer?
+Design of medical device alarm systems.
+Experiments with a thinfilm multichannel electrode for cochlear implantation.
+Ethylene oxide environmental monitoring in a health care facility.
+Advanced medicine goes micro-chip.
+The eyes of beholders: roles and the distribution of scarce medical resources.
+Determination of the local erosion stress of the canine endothelium using a jet impingement method.
+Mechanical behavior of fetal dura mater under large axisymmetric inflation.
+Response of an advanced head-neck model to transient loading.
+A programmable limb testing system (and some measurements of intrinsic muscular and reflex-mediated stiffnesses).
+Biomed, infection control team up.
+Deciding who gets what.
+The right over one's own body: its scope and limits in comparative law.
+Governing technology: values, choices, and scientific progress.
+RC-element analysis for low-pass filter and analog differentiator circuits using a programmable calculator.
+A graduate level course on ultrasound in medicine and biology.
+Proceedings of the Twentieth Annual Rocky Mountain Bioengineering Symposium and the Twentieth International ISA Biomedical Sciences Instrumentation Symposium. April 18-19, 1983, Mayo Clinic, Rochester, Minnesota.
+A device to quantify passive resistance to motion of the leg.
+Applicability of personnel management concepts to clinical engineering practice.
+Isometric muscle force response of the human lower limb.
+Registration of clinical engineers.
+The design of digital filters for biomedical signal processing. Part 2: Design techniques using the z-plane.
+Assessment of cerebrospinal fluid compliance and outflow resistance: analysis of steady-state response to sinusoidal input.
+Interaction of microporous glassy carbon and living tissue.
+Measurement of regional myocardial perfusion using collimated miniature radiation detectors and the method of 133-xenon washout.
+Analysis of the linear under-agarose leukocyte chemotaxis assay.
+Surface tension of animal cartilage as it relates to friction in joints.
+An analysis of respiratory drive components during flow-resistive respiratory loading.
+A simple model for simulation of oxygen transport in the microcirculation.
+An experimental evaluation of the use of an ensemble average for the calculation of turbulence in pulsatile flow.
+Paradox and partnership the engineer's contribution to medicine.
+Information systems approach to integrated responses in the respiratory control system.
+Model utility in the study of cardiorespiratory control.
+Surface characterization of biomaterials by electron spectroscopy for chemical analysis.
+The mechanical and stress adaptive properties of bone.
+The discontinuous nature of electrical propagation in cardiac muscle. Consideration of a quantitative model incorporating the membrane ionic properties and structural complexities. The ALZA distinguished lecture.
+A bidomain model for anisotropic cardiac muscle.
+Intercalated discs as a cause for discontinuous propagation in cardiac muscle: a theoretical simulation.
+The generation of the cardiac action potential: after the first millisecond.
+Implications of structure and geometry on cardiac electrical activity.
+Computer simulation of metabolism in palmitate-perfused rat heart. I. Palmitate oxidation.
+Medical rehabilitation in the United Kingdom a personal view.
+Large-scale production of mammalian cells and their products: engineering principles and barriers to scale-up.
+Integrating biochemical separation and purification steps in fermentation processes.
+Reactor design for protein precipitation and its effect on centrifugal separation.
+Ultrafiltration processes in biotechnology.
+The influence of dilution rate, temperature, and influent substrate concentration on the efficiency of steady-state biomass production in continuous microbial culture.
+A fiber optic PCO2 sensor.
+Recent developments in separation and purification of biomolecules.
+The holding time in pure and mixed culture fermentations.
+Development of medical ultrasonics.
+Airborne ultrasound applied to anthropometry physical and technical principles.
+Improvement of echographic breast cancer images and screening of breast cancer by ultrasound.
+Analysis of a novel wide dynamic range transceiver for zone imaging.
+Acoustic microscopy for tissue characterization.
+Computer control of fermentations with biosensors.
+Modeling of cell viability and specific alcohol productivity.
+Prosthetic heart valve replacements.
+Engineering and instrumentation in the manufacture and patient delivery of drugs.
+Diffusional/kinetic analysis of the neurotransmission process at the nerve-muscle junction.
+An evaluation of the vibrating reed method for determining the mechanical properties of materials.

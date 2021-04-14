@@ -1,0 +1,161 @@
+Medical technology.
+Training and education for acceptance of the computer sciences.
+The cybernetic man.
+An electrically operated hand.
+Mathematics courses for physicians and other life scientists.
+Electrosorption of amino acids peptides and proteins in relation to the compatibility of materials and the human body.
+Thrombogenicity of some biomedical materials: platelet-interface reactions.
+Nonthrombogenic surface preparation for silicone rubber.
+Corrosion under stress of materials composing dental amalgam.
+Polymers as bearing materials for total hip replacement: a friction and wear analysis.
+Health testing with automated techniques.
+Fluid mechanics of the mitral valve.
+A common language for standards useful terms in biomedical engineering.
+Fiber optic self-powered laryngoscope.
+QQuo vadis bio-engineering in Georgia?
+A straight needle-probe for the measurement of blood velocity.
+A laser manipulator for surgical use.
+Is there an EE in the house?
+Instrumentation and the delivery of health services.
+Spectre II: general-purpose microscope input for a computer.
+Computer interfaced fast analyzers.
+Engineering contributions to advancing fluoridation.
+Electronic evaluation of fetal heart rate. X. The fetal arrhythmia index.
+Blood-flow sensor impedance experiments.
+A multichannel cardiac dimension gauge.
+Clinical application of space technology.
+A multiple adaptor.
+Biomedical engineering.
+Heart rate measurements of drivers with the highway systems research car.
+Sterilization of ventilators.
+The Biomedical Engineering Program of the National Academy of Engineing.
+Improved method for simultaneous counting of Cr 51  and I 125  in blood volume measurement.
+Humidification requirements and techniques. Including a review of the performance of equipment in current use.
+Square-wave liquid pressure generator for testing blood pressure transducers.
+Physiological pressure transducer for microhemocirculatory studies.
+Ameroid constrictor: uniform closure rates and a calibration procedure.
+A new direction-sensitive probe for catheter-tip thermal velocity measurements.
+Integral hinge joint.
+Silicone-dacron hinge prosthesis. Design, evaluation, and application.
+Finger joint replacement by silicone rubber implants and the concept of implant fixation by encapsulation.
+Friction torque studies of total joint replacements. The use of a simulator.
+Theoretical design of various types of finger joint.
+Fermentation of natural gas with a cyclone column fermenter.
+Some important problems of space physiology.
+Surface deactivation of porous glass membranes.
+Potential biomedical applications of Saturn nondestructive test methods.
+Volume limited paediatric respirator.
+A mobile form of the Henderson apparatus.
+Advances in the design and implementation of automated techniques for hemodynamic measurements on patients.
+A low-resistance flow meter for wide-range ventilatory measurement.
+A defense of electrical impedance plethysmography. Comments on a paper Electrical impedance plethysmography: a critical analysis.
+A comparison of coherent averaging techniques for repetitive biological signals.
+Development and use of the POD catheter in the cerebral vascular system.
+Science and technology in renal dialysis.
+The monovalent cation electrode: a biomedical tool.
+Production of a silicone rubber film for the membrane lung.
+Medical instrumentation.
+Moving south: some thoughts on leaving Canada.
+Another close call with "crossed valves".
+Electronics miniaturized.
+Cardiac pacemaking.
+Control of thromboembolism from prosthetic heart valves.
+Radio telemetry techniques for study of cardiovascular dynamics in ambulatory primates.
+The engineering problem of ski safety.
+The forced expiratory spirogram: uniform stimulus and rapid screening.
+Computerized display of spatio-temporal EEG patterns.
+Women in medical engineering?
+Bed on air treats bedsores and may aid in psychiatry.
+Hemodynamic problems involved in the design of an artificial heart.
+Engineering design of artificial kidney machines.
+Biomedical engineering in India.
+The meaning of the point of maximum oscillations in cuff pressure in the indirect measurement of blood pressure. 1.
+Army heart pump for postsystolic augmentation.
+Haemodynamic studies in calves sustained on artificial hearts.
+Lecithin aerosols generated ultrasonically above 25 degrees C.
+Monitoring fever.
+Biochemical engineering materials screening and monitoring.
+Endoscopic instrumentation.
+The lack of safety standards in medical instrumentation.
+Thin film electron probe-electron microscope microanalysis techniques in biomaterials studies.
+Public health engineering in the Third World.
+Cultivation of yeast on gas oil.
+International scientific exchange.
+Patient monitoring system based on St. Thomas's Hospital design.
+Exercise-traction unit.
+Function of the bird respirator at high altitude.
+The conversion of benzyl penicillin to 6-aminopenicillanic acid using an insoluble derivative of penicillin amidase.
+The laser and its biomedical application.
+Hospital advances through technical developments and conepts.
+Bath Institute of Medical Engineering.
+An integrated circuit patchboard.
+A discussion of the problems of heat exchange blood warming devices.
+Holography and its applications.
+Myoelectric studies on the tibialis anterior muscle in below-knee amputees.
+Comparative evaluation of some DC cardiac defibrillators.
+Experimental study of a passive thermal control system for space suits.
+Closed brain injuries: an engineering analysis.
+An externally powered prosthesis for the complete arm.
+Medicine-industry partnerships.
+A pressure plethysmograph with a pneumatic differentiator for pulmonary capillary flow measurements.
+Use of rubber membranes to improve sucrose-gap and other electrical recording techniques.
+The development of an improved artificial larynx.
+An automatic temperature control device.
+Fluid dynamics in the tip of the multiholed angiographic catheter.
+Electrically powered orthotic systems.
+Left ventricular ejection as reflected in the bcg.
+Rationale of the NASA biomedical applications program.
+Some aspects of professional representation for biomedical engineering.
+Bioengineering and anesthesia.
+A method for detecting and measuring frequency of surface vibrations using a helium-neon laser.
+Radiology as a multidisciplinary activity.
+Recirculating pump and the rupture of ultraflow twin coils.
+The stress trajectories in the femur.
+Total body perfusion for cardiac transplantation.
+A perfusion system for infants.
+Investigating the environment an engineering opportunity.
+A simple method for measuring calorie expenditures during sleep.
+Thrombus formation in implanted blood pumps.
+Mission oriented research for artificial organs.
+Physiological evaluation of co-pulsation. A new concept for ventricular assist.
+Progress in the design of a centrifugal cardiac assist pump with trans-cutaneous energy transmission by magnetic coupling.
+An experimental prosthetic myocardium.
+Use of left atrial pressure as a control parameter for total left heart bypass.
+Evaluation of the functional capability of the Baylor left ventricular bypass device.
+Optimization of cannulas for maintenance hemodialysis.
+Total replacement artificial heart and driving system with inherent regulation of cardiac output.
+Experience with a polyurethane sac-type artificial heart.
+The design features and the development of the toroidal prosthetic heart valve.
+In vitro and in vivo flow patterns of mitral valve prostheses: development of an elliptical valve.
+Analysis of in vivo deoxygenation of human blood: a feasibility study for an implantable biological fuel cell.
+A pulsatile flow membrane oxygenator.
+High survival and minimal blood damage in lambs exposed to long term (1 week) veno-venous pumping with a polyurethane chamber roller pump with and without a membrane blood oxygenator.
+A rationale for the preparation of nonthrombogenic materials.
+A blood oxygenator with performed membrane-lined, capillary channels.
+Clinical and engineering evaluation of disposable envelope inserts for the Kiil dialyzer.
+Collagen dialysis membranes: initial clinical evaluation.
+Detection of lesions in small blood vessels of the hands in patients with vibratory disease. Preliminary report.
+Device which separates minute particles according to electronically sensed volume.
+Blood pump with fluid amplifier.
+The international institute for medical electronics and biological engineering.
+Cardiac injuries incurred by drivers in automobile accidents.
+How to test stethoscopes.
+An automatic method of measuring and recording intracranial pressure.
+Versatile non-cycling programmer for automating laboratory procedures.
+Venous and arteriovenous difference in oxyhemoglobin concentrations as parameters to control stroke volume of an artificial heart.
+Telephone transmission of spirograms for computer analysis.
+Project FAIR The Medical Research Council's Literature Retrieval Research Project. Services.
+Clinical use of a new design stented xenograft heart valve prosthesis.
+Automatic collector of samples for determining isotope washout curves in muscle tissues.
+Experimental endocarditis following cardiac valve replacement: evaluation of cloth-covered valves and the role of antibiotics.
+Preclinical evaluation of a practical membrane oxygenator.
+Development and evaluation of a prototype capillary membrane blood oxygenator.
+Toward a new professionalism.
+Recent advances in below-knee prosthetics.
+Some medical and engineering considerations of the design of an intra-thoracic artificial heart.
+Densitometric evaluation at quantitative microradiography.
+Microdensitometer system for microradiography.
+Engineering and medicine a developing partnership.
+Ultrasonic encephalography.
+Artificial circulation its place and promise.
+Simple method for mean transit time determination.

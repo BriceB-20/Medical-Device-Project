@@ -1,0 +1,206 @@
+Cost-effectiveness in oncology.
+Bioengineering education, 1986 Part I.
+1985 survey of salaries & job responsibilities for clinical & biomedical engineers & technicians.
+Focus on: Watsonville Community Hospital Biomedical Engineering Department.
+Ethical responsibilities of the clinical engineer.
+The consistent ethic of life and health care systems.
+Life and death in the nursery.
+Evaluation of surgical diathermy units.
+A simple rig for stress radiography of the knee.
+Design of a computerized device to measure simple reaction time/decision time.
+A case of double fracture in total hip replacement.
+Commentary: the prevention of sudden infant death syndrome: is there a role for home monitoring?
+Temperature controller for brain slice chambers using a current sink output stage.
+New versatile physical model fitting the systemic circulation accurately.
+A numerical simulation of the flow in a T-type bifurcation and its application to an "end to side" fistula.
+Elastic properties of collapsing and expanding trachea.
+Numerical experiments with a new differentiation filter.
+Clinical engineering cost-effectiveness measurements in the USA.
+Infant respiration monitoring evaluation of a simple home monitor.
+Ultrasonic characterization of biological tissues.
+An acoustic plethysmograph to measure total infant body volume.
+Sisters of Charity saves $170,000 through shared services subsidiary.
+Vibrational analysis.
+Fast method for computing the Fourier integral transform via Simpson's numerical integration.
+Monitoring kidney patients by syntactometric EEG analysis.
+Design and use of improved walking aids.
+Optical fibre plethysmograph.
+Measuring the anorectal angle.
+Legendre polynomial coefficients in the analysis of the force plate measurements from an osteoarthritic gait.
+Derby intramedullary nail a biomechanical comparison.
+Digital heart rate monitor derived from the arterial pressure pulse.
+Photoelectric transducer for measuring the length and diameter of elastic vessels.
+Quantitative technique for bio-electrical spectroscopy.
+Influence of walking speed on gait parameters.
+Shell computer model of cardiac electropotential changes.
+Highlights from the seventh annual conference of the IEEE Engineering in Medicine and Biology Society. Frontiers of engineering and computing in health care. September 27-30, 1985, Chicago, IL. Abstracts.
+On-line evaluation of ultrasonic integrated backscatter.
+Software simulation of the EEG.
+Haemodynamics of coronary artery-saphenous vein bypass.
+Productivity in clinical engineering.
+Ethics and hospital administration.
+Crisis on the commons.
+On-line four channel measurements of colonic myoelectrical activity in humans using a compact portable microcomputer (EPSON HX20).
+Measurement of ultrasound velocity in tissues utilizing a microcomputer-based system.
+An improved SIRT-style reconstruction algorithm for microwave tomography.
+Noise evaluation and filter design in CT images.
+Digital filters for real-time ECG signal processing using microprocessors.
+Ferromagnetic implants in hyperthermia.
+A system for automated liver tissue image analysis: methods and results.
+On the identification and analysis of saccadic eye movements a quantitative study of the processing procedures.
+A study of the effect of sensor placement and perfusion pattern variations on thermal tomography solutions in hyperthermia.
+Design and evaluation of a digital closed-loop controller for the regulation of muscle force by recruitment modulation.
+An algorithm for automatic control of O2 and CO2 in artificial ventilation.
+A comparison between mean frequency estimators for multigated Doppler systems with serial signal processing.
+Starting your own shared service.
+Prosthesis with electric elbow and hand for a three-year-old multiply handicapped child.
+An unbalanced electric applicator for RF hyperthermia.
+A research prototype of an inkbraille reading aid.
+Fluctuations in tracer amounts in a compartmental system with a Markovian transition process.
+The use of two-dimensional echocardiograms in the detection of myocardial infarction in canines.
+Ku and K-band irradiation of giant algal cells: the absence of detected bioeffects at 100 W/m2.
+Exposure of human models in the near and far field a comparison.
+A tactile vision-substitution system for the blind: computer-controlled partial image sequencing.
+Modeling of the transfer function of the heart-thorax acoustic system in dogs.
+Investigation of methods to estimate ultrasonic attenuation of soft tissue.
+Fluctuations of human tapping intervals.
+Forward and inverse potential field solutions for cardiac strands of cylindrical geometry.
+Sensitivity of the human eye to power frequency electric fields.
+Sensitivity analysis of depth EEG electrodes to dipolar electric sources.
+A system for measuring tremor intensity in rats.
+Human gene therapy: scientific and ethical considerations.
+Fast envelope detection for thinned display of finely digitized ultrasound scans.
+Extending the boundaries of life: implications for practice.
+The artificial heart show business or science?
+Biomedical engineering at the Louisiana Technical University.
+Design considerations for the brain-machine interface.
+Effect of skin temperature on vibrotactile sensitivity.
+Tools for high tibial wedge osteotomy.
+Torsional tests of long bones with computerized equipment.
+Digital sampling rate and ECG analysis.
+Resurfacing elbow prosthesis: shape and sizing of the humeral component.
+Laser Doppler measurements of blood flow in skin tissue.
+Transient interactions between blood pressure, respiration and heart rate in man.
+An hypothesis for the role of the spine in human locomotion: a challenge to current thinking.
+NMR imaging method and applications.
+Coupling efficiency of helical coil hyperthermia applications.
+Calculation of zero-crossing and spin-lattice relaxation time pictures in inversion recovery NMR imaging.
+Diffraction and dispersion effects on the estimation of ultrasound attenuation and velocity in biological tissues.
+Classification of heart tissue from bipolar and unipolar intramural potentials.
+Estimation of local cardiac wall deformation and regional wall stress from biplane coronary cineangiograms.
+Laser-induced fabrication of a transsubstrate microelectrode array and its neurophysiological performance.
+Single microelectrode analysis of electrically coupled networks.
+A polynomial method for fitting continuous distributions of exponentials with positivity constraint.
+Ultrasonic energy-based technique for characterizing atherosclerosis.
+Mechanistic studies of ion-selective electrodes.
+A new CT-aided stereotactic neurosurgery technique.
+Automatic decomposition of the clinical electromyogram.
+Testing the response of a cardiac output meter using an artificial circulatory system.
+Fast response ultrasonic flowmeter measures breathing dynamics.
+A speech prosthesis employing a speech synthesizer vowel discrimination from perioral muscle activities and vowel production.
+Testing new technologies.
+Clinical engineering internships: a regional hospital-based approach.
+Clinical engineering as an academic discipline.
+Helping paraplegics walk: looking beyond the media blitz.
+"Playing God": the ethics of biotechnical intervention.
+Why Medicare is in crisis.
+U.S. urged to sponsor development of fully implantable artificial heart.
+Public policy and informed consent.
+Hearts from monkeys and machines.
+Anesthesia waste gas testing.
+Regulating biotechnology.
+Biotechnology and open university science.
+Medical technology acquisition in hospitals.
+Experimental fittings of sockets for below-knee amputees using computer aided design and manufacturing techniques.
+Thermoplastic alignment couplings for prostheses.
+Rotational moulding in the production of prostheses.
+The Rapidform process for automated thermoplastic socket production.
+Prosthetic shape replication using a computer controlled carving technique.
+Guidelines for establishing an institutional laser program.
+The trick is to live.
+DRGs and prospective payment: an introduction to the issues facing clinical engineering programs.
+In-house servicing of microprocessor-based and digital patient care equipment.
+Assessment and optimisation of dip-coating procedure for the preparation of electroenzymic glucose transducers.
+Economical repair costs as a percent of cost.
+Routine defibrillator testing by clinical personnel.
+Sanctity and scarcity: the makings of tragedy: reflections on a crisis in medicine.
+Organ transplantation and the art of the possible.
+If there's a will, is there a way?
+Pressure change and gas mixing induced by oscillations in a closed system.
+Prolonging life: the new dilemma.  Doctors ask, who lives? When to die?
+Prolonging life: the new dilemma.  Hospital care of the dying: each day, painful choices.
+Equipment management. Biomedical instrumentation department at Pioneer Valley Hospital uses computerized equipment management.
+Who receives scarce medical resources? An empirical and ethical study.
+Rationing expensive lifesaving medical treatments.
+Coping with cost containment.
+Governmental regulation of heart transplantation and the right to privacy.
+Medicine and the liberal arts: the bridge of ethics.
+Cost control, doctors' ethics, and patient care.
+In the rear and limping a little: some reflections on medicine, biotechnology, and the law the Roscoe Pound lectures.
+Introduction: medical science, moral controversy, and legal change.
+New patents.
+Species-related differences in percutaneous wound healing.
+Artifacts in the measurement of skin temperature under infant radiant warmers.
+Transducer system for the noninvasive recording of arterial pressure contours.
+Calculations of the pH changes produced in body tissue by a spherical stimulation electrode.
+Identification of canine coronary resistance and intramyocardial compliance on the basis of the waterfall model.
+Relationship between pulse rate and pulse width for a constant-intensity level of electrocutaneous stimulation.
+The self-tuning controller: comparison with human performance in the control of arterial pressure.
+Reuse of wastewater at the San Juan de Miraflores stabilization ponds: public health, environmental, and socioeconomic implications.
+A cellular mechanism for myogenic regulation of cat cerebral arteries.
+Oxygen-dependent mechanisms in cerebral autoregulation.
+The role of adenosine in autoregulation of cerebral blood flow.
+Cerebrovascular transmural pressure and autoregulation.
+Vasopressin induced rhythmic activity in rat basilar artery.
+Influence of transmural pressure of myogenic responses of isolated cerebral arteries of the rat.
+Myogenic tone and cerebral vascular autoregulation: the role of a stretch-dependent mechanism.
+Videomicroscopic method for direct determination of blood flow to the papilla of the kidney.
+Renal cortical perfusion preliminary experience with the dynamic spatial reconstructor (DSR).
+Automatic control of blood pressures with multiple drug inputs.
+Stress analyses of joint arthroplasty in the proximal humerus.
+Monitoring the healing of a tibial osteotomy in the rabbit treated with external fixation.
+Evidence for different sources of stress-generated potentials in wet and dry bone.
+Development of an air displacement method for whole body volume measurement of infants.
+IMA II brace for deambulatory treatment of Legg-Perthes disease.
+Free-field acoustic stimulation: a reliable, inexpensive system for positioning loudspeaker.
+Energy of gait in below-knee casts with different soles.
+Some additional suggestions for an intervertebral disc prosthesis.
+A microcomputer system for the measurement of finger forces.
+Vibration analysis in the assessment of conservatively managed tibial fractures.
+A technique for the long term measurement of intra-compartmental pressure in the lower leg.
+A gamma-ray computed tomography scanner for the quantitative measurement of bone density.
+Stochastic analysis of myoelectric temporal signatures for multifunctional single-site activation of prostheses and orthoses.
+Statistical mechanics of neocortical interactions: EEG dispersion relations.
+New heart rate meter based on frequency grading.
+A device for zero-eye-movement reading.
+Effect of high-frequency current on nerve and muscle tissue.
+Optimization of neural stimuli based upon a variable threshold potential.
+Analysis of a digital EMG signal processor in dynamic conditions.
+Muscle fatigue monitor (MFM): second generation.
+Use of time integrals of the ECG to solve the inverse problem.
+Correlation between arterial blood pressure levels and (dZ/dt)min in impedance plethysmography.
+Determination of body segment parameters and their effect in the calculation of the position of center of pressure during postural sway.
+The use of unipolar epicardial QRS potentials to estimate myocardial infarction.
+Multiterm Debye dispersion relations for permittivity of muscle.
+A microcomputer system for spatiotemporal visual receptive field analysis.
+Automated spectral characterization of wheezing in asthmatic children.
+Automated analysis of rodent three-channel electrocardiograms and vectorcardiograms.
+The position of innervation zones in the biceps brachii investigated by surface electromyography.
+Measurement of torsion from multitemporal images of the eye using digital signal processing techniques.
+Evaluation of the effectiveness of EMG parameters in the study of neurogenic diseases a statistical approach using clinical and simulated data.
+On-line monitoring of the median frequency of the surface EMG power spectrum.
+Fabrication techniques for thin-walled, kink-resistant tubular structures for use in medical devices.
+A feedback controller for ventilatory therapy.
+Feedback control of intracranial pressure using mannitol.
+Comments for a new generation of rehabilitation engineers.
+The artificial heart, state-of-the art.
+Controlled drug delivery in the treatment of diabetes mellitus.
+Brainstem auditory-evoked potentials.
+Positron emission tomography.
+Closed-loop control of movement of skeletal muscle.
+Modeling, control, and simulation of human movement.
+Regional, segmental, and temporal heterogeneity of cerebral vascular autoregulation.
+Proposed methods for the measurement of regional renal blood flow using heat transfer analysis.
+Driving the artificial heart with constant air pressure or constant flow.
+Eye controlled and other fast communicators for speech impaired and physically handicapped persons.
+Industrial control of medical research.

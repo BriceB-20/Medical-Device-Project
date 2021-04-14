@@ -1,0 +1,90 @@
+A microcomputer-based preventive maintenance system.
+Clinical engineering trends for 1983.
+A clinical internship program in biomedical engineering. Part I: Objectives of the program.
+Clinical engineering in the southeast.
+Medical surprises.
+Preschool children's daily activities: direct observation, pedometry or questionnaire.
+Responsibility and accountability in provider-patient relationships.
+An overview of issues.
+On the quality of life: some philosophical reflections.
+Clinical engineering as a career opportunity: results of a BMET/CE survey.
+Some aspects of biomedical engineering research in New Delhi.
+Medical physics in the Northern Region: a general exposition of regional department in excelsis.
+Should services be rationed?
+Computer recognition and analysis of freezing cells in noisy, cluttered images.
+Design and fabrication of a simple, versatile cryomicroscopy stage.
+Digital low-pass differentiation for biological signal processing.
+Contributions and consequences of clinical engineering.
+The history and development of artificial limbs.
+Preparing anesthesia equipment for suspected malignant hyperthermia episodes.
+Rehabilitation engineering education at the University of Virginia.
+Evolution of a hospital-based clinical engineering contract service.
+Aussies tackle biotechnology and the law.
+The cost of biomedical equipment repair and maintenance: results of a survey.
+An inexpensive dial calipers for precise measurement of analogue data on strip-chart recorders.
+Academic focus: the biomaterials program at the University of Washington (Seattle).
+Engineering as a clinical tool for geriatric rehabilitation.
+Cementless isoelastic RM total hip prosthesis.
+A new membrane for the oxygenation of blood.
+Materiel studies 'mission oriented'.
+Salary trends for CEs and BMETs: the emergence of a database.
+Postural stability during slow-onset and rapid-onset hypoxia.
+Contributions of engineering to the neurological sciences.
+Clinical engineering and hospital accreditation.
+The fixation of femoral components of condylar knee prostheses.
+A load cell system in foot pressure analysis.
+Two simple plantar pressure recording devices in clinical use: evaluation using a pedobarograph.
+Pressures under the ischium detected by a pedobarograph.
+Shared biomedical engineering: a cost-benefit analysis.
+Building the bionic man.
+A proposed computer-assisted preventive maintenance system.
+Evaluation of alarm systems for medical equipment.
+The "grand rounds" method: a different approach to clinical equipment management.
+The scope of clinical engineering in the hospital.
+Technological advances and Roe v. Wade: the need to rethink abortion law.
+The next generation of biological weapons.
+Does undergraduate biomedical engineering education produce real engineers?
+Carbon fiber as an electrode material.
+The TC double socket above-knee prosthesis.
+Technical note test instructions for the technical testing of mono-functional myoelectrically-controlled prosthetic hands. A proposal.
+New plastic joints for plastic orthoses.
+Motion and vision. IV. Isotropic and anisotropic spatial responses.
+Hydraulic transducer for assessing grip strength.
+Medical equipment data retrieval program.
+Therapeutic choices not always predictable.
+An urgent plea for realistic preventive maintenance guidelines.
+The chief scientist reports...gait analysis.
+Design and functioning of the single-electrode cochlear implant.
+Clinical engineering in the Veterans Administration.
+The engineering director: a job in evolution.
+Some thoughts on biotechnology.
+Standards of medical care: how does an innovative medical procedure become accepted?
+The causes of "wrongful life" suits: ruminations on the diffusion of medical technologies.
+Current technology affecting Supreme Court abortion jurisprudence.
+The need for uniform law on the determination of death.
+The human tibia: static testing in bending by an in vivo method.
+Characterization of the oscillometric method for measuring indirect blood pressure.
+Volumetric studies of spheroids and left ventricles.
+Electrocutaneous code pairs for artificial sensory communication systems.
+A flueric respiratory and anesthetic gas analyzer.
+Modern patient care using biotelemetry: its potential and technical realization at present and in the future.
+Biomedical engineering in cardiology.
+13th International Conference on Medical and Biological Engineering. 6th International Conference on Medical Physics. Hamburg, FRG, September 5-11, 1982. Invited papers: Medical and biological engineering.
+Clinical engineering: focus on safety and costs.
+Civil liability in the field of biomedical engineering and medical physics.
+International registration of clinical engineers.
+Ergonomic design aspects in interaction between man and technical systems in medicine.
+Ergonomics: a new frontier in medical engineering.
+Biotelemetry, based on optical transmission.
+Development of a clinical engineering department.
+Minicomputer data base management for a clinical engineering department.
+Processing technique for ultrasound images.
+A multidisciplinary program for hospital safety education.
+Static weight-bearing patterns of below-knee amputees using patellar-tendon-bearing prostheses.
+Multifunctional prosthesis and orthosis control via microcomputer identification of temporal pattern differences in single-site myoelectric signals.
+Applications of coherent optics and holography in biomedical engineering.
+Mathematical modeling and simulation of the postural control loop: Part I.
+Implantable medical devices and products liability.
+Bioengineering aspects of heart valve replacement.
+Use of rejuvenation solutions in blood preservation.
+Engineering approaches to the evaluation of cardiac function in future.

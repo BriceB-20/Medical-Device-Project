@@ -1,0 +1,145 @@
+Collagen engineering for biomaterial use.
+Health jobs you might not know about.
+The sorcerer and his apprentices: contributions of Professor R.H.T. Bates to the physical sciences and engineering in medicine.
+The Oregon trail reaches Britain.
+Testing the implementation of clinical guidelines.
+Artificial kidneys and artificial hearts.
+Home health care: how long will it remain "low tech"
+Morality and biotechnology.
+Reflections on objectification.
+(Com)modifying experience.
+Against Ludditism: an essay on the perils of the (mis)use of historical analogies in technology assessment.
+Vital essences and human wholeness: the social readings of biological information.
+"Help, Ma, I'm being controlled by inanimate objects.
+Technology and resource allocation: old problems in new clothes.
+Transforming mortality: technology and the allocation of resources.
+"I was like   whoa": a commentary on Shapiro's Performance enhancement and the control of attributes.
+The technology of perfection: performance enhancement and the control of attributes.
+Biomedical technology and health care: transforming our world.
+The Wentworth Center for Clinical Engineering: a collaborative and interactive venture.
+Artificial heart development: a long effort.
+Role of the clinical engineer in patient monitoring services.
+Quality management, Deming principles, and clinical engineering.
+IBEES Prize Lecture: the future of biomedical engineering.
+Diffusion of in-vitro fertilization in the Netherlands and England: an exploratory study.
+Rehabilitation and technology: ethical considerations.
+A quality of life determined by a baby's size   smallest survivors: dilemmas of prematurity.
+On Bernard Häring: construing medical ethics theologically.
+What administrators need to know about clinical engineers. Understanding the equipment manager's responsibilities and concerns.
+Circaseptans return to Bratislava and gather momentum beyond.
+Parents of tiny infants find care choices are not theirs   smallest survivors: dilemmas of prematurity.
+As more tiny infants live, choices and burdens grow   smallest survivors: dilemmas of prematurity.
+Health care struggle between young and old.
+Sympathy, empathy, and physician resource utilization.
+Rationing medical care.
+The definition of a clinical engineer.
+Directory of local & regional biomedical organizations.
+Career tools: resume writing and the job interview.
+Careers "Fact Sheets" for clinical engineering & biomedical technology.
+The BMET (biomedical equipment technician) career: academic curricula, hospital needs, & employee perceptions.
+Advancing your career in clinical engineering or biomedical technology.
+Scientific and ethical considerations in human gene therapy.
+New adventures in biomedical engineering: radiation safety program management.
+Laser maintenance and safety precautions.
+Clinical involvement of biomedical specialists in neonatal extracorporeal membrane oxygenation (ECMO).
+Communication from China.
+Health care rationing and insured access: does the Catholic tradition have anything to say?
+Studies say women fail to receive equal treatment for heart disease.
+Engineers open a dialogue with neurons.
+Academic-corporate ties in biotechnology: a quantitative study.
+An appraisal of the ethical issues involved in high-technology cancer pain relief.
+Internally developed medical equipment management system: a viable alternative.
+The role of clinical engineering in the redesign of existing hospital patient monitoring systems.
+Clinical engineering in today's hospital: perspectives of the administrator and the clinical engineer.
+Prioritizing equipment inspections.
+High-quality recording of bioelectric events. Part 2. Low-noise, low-power multichannel amplifier design.
+U.S. international standards strategies.
+When healers are entrepreneurs: a debate over costs and ethics.
+A dual-frequency circularly polarizing whole-body MR antenna for 69/170 MHz.
+College membership standards.
+Health care costs, malpractice, and tikkun.
+Rescuing health care: the price of health.
+Setting priorities in health care: an economist's view.
+The Oregon priority-setting exercise: quality of life and public policy.
+Setting health care priorities: Oregon's next steps.
+Centralized maintenance responsibilities: a case study.
+1991 survey of hospital salaries & job responsibilities for clinical engineers & biomedical technicians.
+The emergence of a new medical & biological engineering infrastructure.
+Biomedical signal processing (in four parts). Part 3. The power spectrum and coherence function.
+Tissue engineering. Selected papers from the UCLA Symposium of Tissue Engineering. Keystone, Colorado, April 6-12, 1990.
+IBEES Prize Lecture. The future of biomedical engineering.
+Electro-rheological fluids: an introduction for biomedical applications.
+30th annual scientific meeting of the Biological Engineering Society. Durham, 18-20 September 1990.
+Is there a future for engineering in medicine?
+BMETs: the state of the profession. Interview by Michael Miller.
+Building a CE information base.
+Employee evaluation system.
+Collaboration with Michel Mirowski on the development of the AICD.
+The industrialization of the AICD.
+In Canada, a government system that provides health care to all: the price of health.
+Medical technology "arms race" adds billions to the nation's bills: the price of health.
+Medicare to weigh cost as a factor in reimbursement.
+Of gametes and guardians: the impropriety of appointing guardians ad litem for fetuses and embryos.
+Treatments of last resort: informed consent and the diffusion of new technology.
+Ethics in the age of bureaucracy.
+Court-ordered health care.
+On halakhic approaches to medical care for the terminally ill: a response.
+A halakhic ethic of care for the terminally ill.
+A Jewish approach to end-stage medical care.
+Biomedical engineering in dentistry.
+Ethical issues in biomedical engineering: the Bjork-Shiley heart valve.
+Medical ethics in the 21st century: respect for autonomy in care of the elderly patient.
+Clinical engineering in Brazil: current status.
+Focus on: Boston City Hospital Department of Clinical Engineering.
+Technology assessment, transfer, and management: the implications to the professional development of clinical engineering.
+Productivity enhancements using hand-held computers: a case study.
+Clinical engineering development of computer applications for an anesthesiology department.
+Clinical engineering workload analysis: a proposal for standardization.
+Synaptic connections, receptive fields, and patterns of activity in the tiger salamander retina. A simulation of patterns of activity formed at each cellular level from photoreceptors to ganglion cells [the Friendenwald lecture].
+Introduction of Frank Werblin, Friedenwald Award winner, 1990.
+Static and dynamic accuracy required of gas concentration measuring instruments.
+Recording of physiological signals with domestic videotape storage.
+NASA spinoffs to bioengineering and medicine.
+Biological satellite scientific devices.
+Devices for medical investigations under hypogravity.
+An electrohydraulic apparatus for the measurement of static and dynamic properties of rabbit muscles.
+Implementing a ventricular assist device program. A partnership between nursing and clinical engineering.
+Flouting the guidelines   BBC2 Public Eye: "Failing to deliver?," 11 Jan.
+Babies for sale: market ethics and the new reproductive technologies.
+Beyond abortion: human genetics and the new eugenics.
+Moral perspectives on euthanasia.
+The bioethical dilemmas of living longer: their challenge to Christian ethics.
+Thinking theologically about modern medicine.
+Mortal decisions: What Kind of Life and Who Lives? Who Dies?
+Draft report to annual and central conferences, Dec 1990: an invitation to explore a frontier.
+Genetic engineering: should parents be allowed to design their children?
+Ethics and statistics in randomized clinical trials.
+How green is your grass? A comparative analysis of the American and Canadian health care systems.
+The effects of uncertainty on the physician-patient relationship in predictive genetic testing.
+Medical engineering in Switzerland.
+Instrument to test patency of lacrimal drainage system.
+Productivity, efficiency, & effectiveness in the management of healthcare technology: an incentive pay proposal.
+Prediction of heating patterns of a microwave interstitial antenna array at various insertion depths.
+Limits on focused power deposition for electromagnetic hyperthermia.
+Loosening of cementless femoral stems: a biomechanical analysis of immediate fixation with loading vertical, femur horizontal.
+Control performance characteristics of myoelectric signal with additive interference.
+Aspects of silicone rubber as an encapsulant for neurological prostheses. Part 1. Osmosis.
+Computer-aided design and evaluation of novel catheters for conductive interstitial hyperthermia.
+Biomedical signal processing (in four parts). Part 2. The frequency transforms and their inter-relationships.
+A BMET study program should ask why.
+BMET of the year.
+Biomedical equipment information management for the next generation.
+Creating a quality measurement system for clinical engineering.
+The underestimation of Young's modulus in compressive testing of cancellous bone specimens.
+Rotational flexibility of the human knee due to varus/valgus and axial moments in vivo.
+Review of the professional group meeting on biological time series signals and their fluctuations.
+Development of array applicators for superficial hyperthermia.
+Status of medical engineering technology assessment in Japan.
+Bioengineering activities at the New York Orthopaedic Hospital Research Laboratory.
+A ventilator generating a positive or negative internal compliance.
+Cellular engineering.
+Heating characteristics of a helical microwave applicator for transurethral hyperthermia of benign prostatic hyperplasia.
+Technical papers composing the proceedings of the 28th Annual Rocky Mountain Bioengineering Symposium & 28th International ISA Biomedical Sciences Instrumentation Symposium. Rochester, Minnesota, April 12-13, 1991.
+Bioengineering activities in the Department of Orthopaedic Surgery and Trauma, Royal Adelaide Hospital, Adelaide, south Australia.
+Report of the Working Party on Engineering in Medicine.
+The Christopher Hinton Lecture 1990. Medical engineering the multi-disciplinary challenge.

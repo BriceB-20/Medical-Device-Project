@@ -1,0 +1,487 @@
+Importance of temperature and humidity in the measurement of pulmonary oxygen uptake per breath during anesthesia.
+Biphasic material properties of lytic bone metastases.
+Computer- and robot-assisted total knee replacement: analysis of a new surgical procedure.
+Stimulated secretion of pituitary hormones in normal humans: a novel direct assessment from blood concentrations.
+Respiratory related evoked responses to graduated pressure pulses using wavelet transform methods.
+Fast, robust identification of nonlinear physiological systems using an implicit basis expansion.
+Quantifying coevolution of nonstationary biomedical signals using time-varying phase spectra.
+Role of preconditioning and recovery time in repeated testing of aortic valve tissues: validation through quasilinear viscoelastic theory.
+Model-based analysis of optically mapped epicardial activation patterns and conduction velocity.
+A three-dimensional finite element model of radiofrequency ablation with blood flow and its experimental validation.
+In vitro temperature map of cardiac ablation demonstrates the effect of flow on lesion development.
+Lead-field bases for electroencephalography source imaging.
+Tissue engineering for bladder substitution.
+The concept of functioning free skeletal muscle transfer in combination with tissue engineering for bladder substitution.
+Community outreach at biomedical research facilities.
+Needs and opportunities for improving the health, safety, and productivity of medical research facilities.
+Direct comparison of skin physiology in children and adults with bioengineering methods.
+Future directions of research in statistical genetics.
+A system for monitoring the response of uniaxial strain on cell seeded collagen gels.
+Reducing environmental risk associated with laboratory decommissioning and property transfer.
+Applying environmental product design to biomedical products research.
+Biomedical research leaders: report on needs, opportunities, difficulties, education and training, and evaluation.
+Minimization and management of wastes from biomedical research.
+Development of a pollution prevention and energy efficiency clearinghouse for biomedical research facilities.
+Environmental practices for biomedical research facilities.
+Biomedical research and the environment.
+Assessment of synchronized direct mechanical ventricular actuation in a canine model of left ventricular dysfunction.
+Analysis of the interventricular pressure waveform in the moving-actuator total artificial heart.
+Ovalis TAH: development and in vitro testing of a new electromechanical energy converter for a total artificial heart.
+Scaffold precoating with human autologous extracellular matrix for improved cell attachment in cardiovascular tissue engineering.
+Chimeric technologies.
+What is life, and what is a machine? The ontology of bioengineering.
+Biomedical research: some ethical challenges.
+Ethical considerations for biomedical scientists and engineers: issues for the rank and file.
+The need for a professional code of ethics in biomedical engineering: a lesson from history.
+Beyond a code of ethics for bioengineers: the role of ethics in an integrated compliance program.
+A review of rapid prototyping (RP) techniques in the medical and biomedical sector.
+When does the Freedom of Information Act apply to privately held data produced under a federal grant? (Part II).
+Interpretation of genome expression patterns: computational challenges and opportunities.
+Topics in membrane electrophysiology. Aspects of nerve conduction.
+Pulse type classification by varying contact pressure.
+Syntactic pattern recognition for X-ray diagnosis of pancreatic cancer.
+Antenatal fetal risk assessment by blood-flow velocity waveforms.
+Constructing head models by computation.
+Noninvasive early detection of focal cerebral ischemia.
+Temperature-compensated bioimpedance system for estimating body composition.
+Engineering a more accessible world.
+Effects of shoulder stability on endpoint stiffness.
+Finite element modeling of the neuron-electrode interface.
+Glucose monitoring using implanted fluorescent microspheres.
+Biomedical engineering: yesterday, today, and tomorrow.
+Boning up on tissue engineering.
+Pediatric nursing practice: keeping pace with technological advances.
+Eliminating the culture of blame; a new challenge for clinical engineers and BMETs.
+Epicardial suction: a new approach to mechanical testing of the passive ventricular wall.
+A triaxial-measurement shear-test device for soft biological tissues.
+From micro- to nanofabrication with soft materials.
+Training for our future.
+Cardiac valve replacement: a bioengineering approach.
+Tissue engineering approaches utility.
+Optimizing the sterilization of PLGA scaffolds for use in tissue engineering.
+Native and DPPA cross-linked collagen sponges seeded with fetal bovine epiphyseal chondrocytes used for cartilage tissue engineering.
+"Do you have a healthy smile?".
+Reduction of Walsh-transformed electrocardiograms by double logarithmic coding.
+Adaptive noise energy estimation in pathological speech signals.
+Footprint-based personal recognition.
+Computation of the signal-to-noise ratio of high-frequency magnetic resonance imagers.
+Temperature measurement within myocardium during in vitro RF catheter ablation.
+Dielectric relaxation time spectroscopy.
+Dual-mode antenna design for microwave heating and noninvasive thermometry of superficial tissue disease.
+Magnetic stimulation coil and circuit design.
+The conductivity of the human skull: results of in vivo and in vitro measurements.
+Estimation of current leakage in left and right ventricular conductance volumetry using a dynamic finite element model.
+Quantification and macroscopic modeling of the nonlinear viscoelastic behavior of strained gels with varying fibrin concentrations.
+Improving regulation of mean arterial blood pressure during anesthesia through estimates of surgery effects.
+Asthmatic airways obstruction assessment based on detailed analysis of respiratory sound spectra.
+CPR artifact removal from human ECG using optimal multichannel filtering.
+Micro-emboli detection: an ultrasound Doppler signal processing viewpoint.
+The weighted diagnostic distortion (WDD) measure for ECG signal compression.
+Estimation of intrinsic and reflex contributions to muscle dynamics: a modeling study.
+Mechanical quality of tissue engineered cartilage: results after 6 and 12 weeks in vivo.
+Tissue engineering: challenges and opportunities.
+Systematic reviews of wound care management: (3) antimicrobial agents for chronic wounds; (4) diabetic foot ulceration.
+Ethical issues and practical problems in preimplantation genetic diagnosis.
+XXVII ESAO Congress. European Society for Artificial Organs. CHUV Lausanne, Switzerland, August 31-September 2, 2000. Summary of the meeting.
+Tendency modeling: a new approach to obtain simplified kinetic models of metabolism applied to Saccharomyces cerevisiae.
+Dynamics of gene expression in rat hepatocytes under stress.
+Mining of biological data II: assessing data structure and class homogeneity by cluster analysis.
+Mining of biological data I: identifying discriminating features via mean hypothesis testing.
+Patterns of regulation from mRNA and protein time series.
+DNA microarray detection of metabolic responses to protein overproduction in Escherichia coli.
+The organization of metabolic reaction networks: a signal-oriented approach to cellular models.
+A comparative study of global stress gene regulation in response to overexpression of recombinant proteins in Escherichia coli.
+The emergence of pattern discovery techniques in computational biology.
+The innovation imperative.
+Nonviral in vivo gene therapy for tissue engineering of articular cartilage and tendon repair.
+Cartilage and bone regeneration using gene-enhanced tissue engineering.
+The remote past and near future of electrocardiology: view-point of a biomedical engineer.
+Development of biotechnology in India.
+Real-time in vivo loading in the lumbar spine: part 1. Interbody implant: load cell design and preliminary results.
+NIH. Imaging institute picks up momentum.
+Tissue-engineered skin (Apligraf) in the healing of patients with epidermolysis bullosa wounds.
+Microchip technology in drug delivery.
+An adaptive 3-D discrete cosine transform coder for medical image compression.
+Simulated generation of evoked potentials components using networks with distinct excitatory and inhibitory neurons.
+Detection of multiple sclerosis with visual evoked potentials an unsupervised computational intelligence system.
+Injectable small intestinal submucosa: preliminary evaluation for use in endoscopic urological surgery.
+WebOnCOLL: medical collaboration in regional healthcare networks.
+CAR special issue of the IEEE transactions on information technology in biomedicine.
+Technology requirements for Summit-Autonomous CustomCornea.
+Temperature distribution for combined laser hyperthermia-photodynamic therapy in the esophagus.
+Speeding-up the cure of one-part silicone rubber, when encapsulating neurological prostheses: the permeable mould.
+Classification of waist-acceleration signals in a continuous walking record.
+In vitro monitoring of rabbit anterior cruciate ligament damage by acoustic emission.
+Unsteady stenosis flow prediction: a comparative study of non-Newtonian models with operator splitting scheme.
+Theoretical study of convergent ultrasound hyperthermia for treating bone tumors.
+Effects of loading conditions and objective function on three-dimensional shape optimization of femoral components of hip endoprostheses.
+Back to fundamentals: anatomy-based physiological bioengineering.
+Effect of low frequency, low amplitude magnetic fields on the permeability of cationic liposomes entrapping carbonic anhydrase: II. No evidence for surface enzyme involvement.
+Effect of low frequency, low amplitude magnetic fields on the permeability of cationic liposomes entrapping carbonic anhydrase: I. Evidence for charged lipid involvement.
+Effects of an increased air gap on the in vitro interaction of wireless phones with cardiac pacemakers.
+Education in biomedical engineering: experience from a European ERASMUS program.
+Health technology transfer.
+Selecting the corner in the L-curve approach to Tikhonov regularization.
+Sensitivity and versatility of an adaptive system for controlling cyclic movements using functional neuromuscular stimulation.
+How electrode size affects the electric potential distribution in cardiac tissue.
+An improved configuration for the reduction of EMG in electrode cuff recordings: a theoretical approach.
+A maximum-likelihood base caller for DNA sequencing.
+In vitro simultaneous measurement of refractive index and thickness of biological tissue by the low coherence interferometry.
+Simultaneous optical and nuclear magnetic resonance spectroscopy for monitoring cardiac energetics in vivo.
+Paired MEG data set source localization using recursively applied and projected (RAP) MUSIC.
+The effect of geometric and topologic differences in boundary element models on magnetocardiographic localization accuracy.
+Functional reentry's influence on intracellular calcium in the LRd membrane equations.
+A statistical mechanical analysis of postural sway using non-Gaussian FARIMA stochastic models.
+Pacemaker interference and low-frequency electric induction in humans by external fields and electrodes.
+The effect of anisotropy on the potential distribution in biological tissue and its impact on nerve excitation simulations.
+Automatic detection of ST-T complex changes on the ECG using filtered RMS difference series: application to ambulatory ischemia monitoring.
+Analysis of a sleep-dependent neuronal feedback loop: the slow-wave microcontinuity of the EEG.
+New aspects to event-synchronous cancellation of ECG interference: an application of the method in diaphragmatic EMG signals.
+An orthogonal least squares-based fuzzy filter for real-time analysis of lung sounds.
+Adaptive noise cancellation in a multimicrophone system for distortion product otoacoustic emission acquisition.
+Threshold modeling of autonomic control of heart rate variability.
+Nonlinear Markov process amplitude EEG model for nonlinear coupling interaction of spontaneous EEG.
+Improving team performance: understanding the differences between teams and work groups.
+Implementing the FDA performance standard on electrode lead wires and patient cables in hospitals.
+A novel device for measuring the effect of cholesterol on the release of oxygen from red blood cells into myocardial tissue.
+Patient safety and clinical engineering.
+Expanding the scope of the IEEE Transactions on Rehabilitation Engineering to explicitly include Neural Engineering.
+Gore pledges support for bioscience.
+Bioglass 45S5 stimulates osteoblast turnover and enhances bone formation In vitro: implications and applications for bone tissue engineering.
+Femoral strain profiles under simulated 3-D muscle and joint loads for heel strike, midstance, and toe off.
+Biomedical engineering: issues and opportunity.
+Poloxamers and poloxamines in nanoparticle engineering and experimental medicine.
+Captain G T Smith-Clarke: automobile and medical engineer.
+Current issues in US Patent Law.
+Practical illustrations in tissue engineering: surgical considerations relevant to the implantation of osteoinductive devices.
+Fundamentals of biomechanics in tissue engineering of bone.
+Morphogenesis and tissue engineering of bone and cartilage: inductive signals, stem cells, and biomimetic biomaterials.
+Options for tissue engineering to address challenges of the aging skeleton.
+Combining chondrocytes and smooth muscle cells to engineer hybrid soft tissue constructs.
+Tissue engineers build new bone.
+Time-resolved phase-space distributions for light backscattered from a disordered medium.
+What difference would a National Institute of Biomedical Imaging and Bioengineering make? Part 2.
+Moral decisions regarding innovation. The case method.
+Ethical requirements that must be met before the introduction of new procedures.
+Dentistry in the 21st century.
+Relevance of multiparametric skin bioengineering in a prospectively-followed cohort of junior hairdressers.
+NCI initiative: development of novel imaging technologies.
+Technology and the traditions of medicine.
+Modelling in health economic evaluation. What is its place? What is its value?
+Decision analytic modelling in the economic evaluation of health technologies. A consensus statement. Consensus Conference on Guidelines on Economic Modelling in Health Technology Assessment.
+Tissue-engineered bone regeneration.
+Three-dimensional cellular development is essential for ex vivo formation of human bone.
+Engineering of bone grafts.
+The contribution of medical biochemistry to new technologies in medicine.
+Articular cartilage biomechanics: theoretical models, material properties, and biosynthetic response.
+Hybrid finite element-finite difference method for thermal analysis of blood vessels.
+An introduction to statistical methods for health technology assessment.
+Women's health in the 21st century.
+Nonlinear cell response to strong electric fields.
+Comments on "Fusion of body surface potential and body surface Laplacian signals for electrocardiographic imaging".
+Limit cycle oscillations in pacemaker cells.
+Vibration arthrometry in patients with knee joint disorders.
+Digital X-ray stereophotogrammetry for cochlear implantation.
+Evidence for roles of the activating function in electric stimulation.
+Can the light-addressable potentiometric sensor (LAPS) detect extracellular potentials of cardiac myocytes?
+Noise performance design of CMOS preamplifier for the active semiconductor neural probe.
+A clinically oriented video-based system for quantification of eyelid movements.
+A micromachined silicon depth probe for multichannel neural recording.
+Second-order model of membrane electric field induced by alternating external electric fields.
+Studies of detrusor-sphincter synergia and dyssynergia during micturition in rats via fractional Brownian motion.
+Analysis of passive elastic joint moments in paraplegics.
+Distributed computing for membrane-based modeling of action potential propagation.
+The forward EEG solutions can be computed using artificial neural networks.
+Neuro-computing versus linear statistical techniques applied to liver transplant monitoring: a comparative study.
+Estimation of 3-D conduction velocity vector fields from cardiac mapping data.
+Noise-resistant pulse oximetry using a synthetic reference signal.
+Rejection of the maternal electrocardiogram in the electrohysterogram signal.
+Characterization of sleep spindles using higher order statistics and spectra.
+Improved heart rate variability signal analysis from the beat occurrence times according to the IPFM model.
+Computerized classification of temporomandibular joint sounds.
+Porous carriers for biomedical applications based on alginate hydrogels.
+Patent issue: supplier liability in medical implants and devices: the "Biomaterials Access Assurance Act".
+Fabrication of a trileaflet heart valve scaffold from a polyhydroxyalkanoate biopolyester for use in tissue engineering.
+Encapsulation matrices for neurotrophic factor-secreting myoblast cells.
+Microencapsulation of normal and transfected L929 fibroblasts in a HEMA-MMA copolymer.
+Influence of glial growth factor and Schwann cells in a bioresorbable guidance channel on peripheral nerve regeneration.
+A polymer foam conduit seeded with Schwann cells promotes guided peripheral nerve regeneration.
+Silicon micromachining to tissue engineer branched vascular channels for liver fabrication.
+Extracellular matrix cell adhesion peptides: functional applications in orthopedic materials.
+New pulsatile bioreactor for in vitro formation of tissue engineered heart valves.
+Minimally invasive technique of auricular cartilage harvest for tissue engineering.
+Cultured human keratinocytes on type I collagen membranes to reconstitute the epidermis.
+Enhancing hepatocyte adhesion by pulsed plasma deposition and polyethylene glycol coupling.
+Dynamic seeding and in vitro culture of hepatocytes in a flow perfusion system.
+Novel method for the quantitative assessment of cell migration: a study on the motility of rabbit anterior cruciate (ACL) and medial collateral ligament (MCL) cells.
+Evaluation of osteoblast response to porous bioactive glass (45S5) substrates by RT-PCR analysis.
+Osteogenesis coordinated in C3H10T1/2 cells by adipogenesis-dependent BMP-2 expression system.
+Tissue engineering designs for the future: new logics, old molecules.
+A versatile shear and compression apparatus for mechanical stimulation of tissue culture explants.
+Use and limitations of modular metabolic control analysis in medicine and biotechnology.
+Metabolic analysis of glutamate production by Corynebacterium glutamicum.
+Bioreaction network topology and metabolic flux ratio analysis by biosynthetic fractional 13C labeling and two-dimensional NMR spectroscopy.
+Isotopomer analysis using GC-MS.
+Time-frequency analysis of the heart rate variability during the Valsalva manoeuvre.
+Expert systems in medicine: academic exercise or practical tool?
+Modelling transthoracic defibrillation waveforms.
+Good design practice for medical devices and equipment, Part II: Design for validation.
+The development of a computer controlled system to simulate in rats, the rapid, frequent changes in oxygen experienced by preterm infants developing retinopathy of prematurity.
+Engineering a living cell to desired metabolite concentrations and fluxes: pathways with multifunctional enzymes.
+Metabolic engineering from a cybernetic perspective: aspartate family of amino acids.
+Tissue engineering.
+Technology and the management of trust in insurance medicine.
+Managing one's body using self-management techniques: practicing autonomy.
+Technology in medicine: ontology, epistemology, ethics and social philosophy at the crossroads.
+Restorative surgery of the central nervous system by means of tissue engineering using NeuroGel implants.
+Reviving patient-oriented research.
+Entrainment of intestinal slow waves with electrical stimulation using intraluminal electrodes.
+Prototype neural semicircular canal prosthesis using patterned electrical stimulation.
+A computational fluid dynamic model of antigen-antibody surface adsorption on a piezoelectric immunosensor.
+Enhancing the uptake of chemotherapeutic drugs into tumors using an "artificial lymphatic system".
+"Artificial lymphatic system": a new approach to reduce interstitial hypertension and increase blood flow, pH and pO2 in solid tumors.
+Directional wall strength in saccular brain aneurysms from polarized light microscopy.
+An in vitro study of the hinge and near-field forward flow dynamics of the St. Jude Medical Regent bileaflet mechanical heart valve.
+Physiological relevance of uniform elastic tube-models to infer descending aortic wave reflection: a problem of identifiability.
+Staged growth of optimized arterial model trees.
+Left ventricular contractility is impaired following myocardial infarction in the pig and rat: assessment by the end systolic pressure-volume relation using a single-beat estimation technique and cine magnetic resonance imaging.
+Can we produce a human corneal equivalent by tissue engineering?
+Structural insights of glass-reinforced hydroxyapatite composites by Rietveld refinement.
+Surface plasmon resonance analysis of dynamic biological interactions with biomaterials.
+Displacement between the seating surface and hybrid test dummy during transitions with a variable configuration wheelchair: a technical note.
+Wheelchairs and related technology for the millennium.
+When does the Freedom of Information Act apply to privately held data produced under a Federal grant? (Part I).
+Developing and commercializing a DNA sequencer.
+Doppler ultrasound observation of pathological heart valves.
+Modulation transfer functions for quality assurance of mammographic systems.
+Reactance of biological membranes.
+Issues in automating cardiac SPECT diagnosis.
+Inductive logic programming for knowledge discovery from MRI data.
+Temporal pattern discovery in course-of-disease data.
+Automated discovery of positive and negative knowledge in clinical databases.
+Discovering knowledge from medical databases using evolutionary algorithms.
+Genetic programming for knowledge discovery in chest-pain diagnosis.
+Consistent knowledge discovery in medical diagnosis.
+A knowledge discovery approach to diagnosing myocardial perfusion.
+Medical data mining and knowledge discovery.
+An introduction to image analysis using mathematical morphology.
+Encouraging students with disabilities to pursue careers in bioengineering.
+Screen idols: faster, smaller, cheaper and smarter.
+Evolution of the display technologies.
+Cell and Tissue Engineering. Proceedings of a symposium. Big Sky, Montana, USA. June 16-20, 1999.
+Tissue engineering of heart valves: in vitro experiences.
+Bayesian analysis of blood glucose time series from diabetes home monitoring.
+Wavelet time entropy, T wave morphology and myocardial ischemia.
+Electric potential produced by a dipole in a homogeneous conducting sphere.
+Receiver operating characteristic analysis for intelligent medical systems a new approach for finding confidence intervals.
+Detection of leukocytes in contact with the vessel wall from in vivo microscope recordings using a neural network.
+Staging of cervical cancer with soft computing.
+Femoral surface strain in intact composite femurs: a custom computer analysis of the photoelastic coating technique.
+Closed-loop stimulation of hypoglossal nerve in a dog model of upper airway obstruction.
+Chronic neural stimulation with thin-film, iridium oxide electrodes.
+Analysis of position and isometric joysticks for powered wheelchair driving.
+A simulation study evaluating the performance of high-density electrode arrays on myocardial tissue.
+A telemetry system for the study of spontaneous cardiac arrhythmias.
+Enhancement of bowel sounds by wavelet-based filtering.
+Conversion of magnetocardiographic recordings between two different multichannel SQUID devices.
+Methods for robust clustering of epileptic EEG spikes.
+Wavelet compression of ECG signals by the set partitioning in hierarchical trees algorithm.
+Clustering ECG complexes using hermite functions and self-organizing maps.
+Acoustical properties of speech as indicators of depression and suicidal risk.
+Articular cartilage repair: problems and perspectives.
+Modulation of the mechanical properties of tissue engineered cartilage.
+Cell mechanotransduction and interactions with biological tissues.
+Aspects of human factors engineering in home telemedicine and telerehabilitation systems.
+First International Conference on (Strept) Avidin Biotin Technologies. Alberta, Canada, June 18-21, 2000. Abstracts.
+What difference would a National Institute of Biomedical Imaging and Bioengineering make?
+Design, optimization, realization, and analysis of an in vitro system for the exposure of embryonic stem cells at 1.71 GHz.
+Report of the Advisory Council on Optical Technologies.
+Optical technologies: in search of a clinical home.
+Physiological and cell biological aspects of perfusion culture technique employed to generate differentiated tissues for long term biomaterial testing and tissue engineering.
+The use of bone grafts and substitutes in the craniomaxillofacial region.
+Laying a firm foundation for interdisciplinary research endeavours.
+Growth factor delivery for tissue engineering.
+Three-dimensional cultivation of human osteoblast-like cells on highly porous natural bone mineral.
+Comparative study of seeding methods for three-dimensional polymeric scaffolds.
+Surface microarchitectural design in biomedical applications: in vivo analysis of tissue ingrowth in excimer laser-directed micropored scaffold for cardiovascular tissue engineering.
+Development and in vitro characterization of vascular endothelial growth factor (VEGF)-loaded poly(DL-lactic-co-glycolic acid)/poly(ethylene glycol) microspheres using a solid encapsulation/single emulsion/solvent extraction technique.
+Engineering three-dimensional bone tissue in vitro using biodegradable scaffolds: investigating initial cell-seeding density and culture period.
+Surface and bulk modifications to photocrosslinked polyanhydrides to control degradation behavior.
+Multicentre study for the development of an in vivo model to evaluate the influence of topical formulations on irritation.
+A simulation study for the design of a control system for the blood concentration process in autotransfusion.
+Fatigue-related loading imbalance on the shank in running: a possible factor in stress fractures.
+Diffusion-convection equation solved in parallel regions of the lung.
+Scaling approach to study the changes through the gestation of human fetal cardiac and circulatory behaviors.
+Flow visualization in mechanical heart valves: occluder rebound and cavitation potential.
+Remodeling of the bifurcation asymmetry of right coronary ventricular branches in hypertrophy.
+Flow patterns at the stenosed carotid bifurcation: effect of concentric versus eccentric stenosis.
+Short term in vivo precision of proximal femoral finite element modeling.
+Shear rate dependence of ultrasound backscattering from blood samples characterized by different levels of erythrocyte aggregation.
+Experimental and computational flow evaluation of coronary stents.
+Shear augmented dispersion of a solute in a casson fluid flowing in a conduit.
+In vitro cell shearing device to investigate the dynamic response of cells in a controlled hydrodynamic environment.
+Dynamic mechanical conditioning of collagen-gel blood vessel constructs induces remodeling in vitro.
+Are MDs at risk when they don't offer patients new medical technologies?
+Use your networking skills to connect at conferences.
+The central equipment pool, an opportunity for improved technology management.
+Dynamic thermal responses of five commercially available infant radiant warmer systems.
+Effect of adaptive motion-artifact reduction on QRS detection.
+Requirements engineering: the key to designing complex medical systems.
+Direct mapping of bioelectric activity.
+Laplacian electrocardiography.
+The moral significance of the therapy-enhancement distinction in human genetics.
+Are "genetic enhancements" really enhancements?
+Gene therapies and the pursuit of a better human.
+Grand dreams of perfect people.
+A laser plantar pressure sensor for the diabetic foot.
+A finite difference model of load-induced fluid displacements within bone under mechanical loading.
+An experimental method for the application of lateral muscle loading and its effect on femoral strain distributions.
+Variation of recruitment nonlinearity and dynamic response of ankle plantarflexors.
+A fast and accurate segmentation technique for the extraction of gastrointestinal lumen from endoscopic images.
+Introduction: basic concepts and definitions in mechanics.
+National Cancer Institute initiative for development of novel imaging technologies.
+The impact of biomolecular medicine and tissue engineering on plastic surgery in the 21st century.
+In vitro engineering of cartilage.
+Using engineering and assistive technologies for rehabilitation after electrical trauma.
+Theoretical study of temperature elevation at muscle/bone interface during ultrasound hyperthermia.
+Alteration to will as an experience of technology and nursing.
+Using a multidisciplinary team approach in biomedical engineering senior design.
+Design and validation of a machine for reproducible precision insertion of femoral hip prostheses for preclinical testing.
+Pulsed laser-induced thermal damage in whole blood.
+Unconfined compression of articular cartilage: nonlinear behavior and comparison with a fibril-reinforced biphasic model.
+A special theory of biphasic mixtures and experimental results for human annulus fibrosus tested in confined compression.
+A linear material model for fiber-induced anisotropy of the anulus fibrosus.
+Viscoelastic dissipation in compact bone: implications for stress-induced fluid flow in bone.
+Surfactant transport over airway liquid lining of nonuniform depth.
+Aerosol transport and deposition in sequentially bifurcating airways.
+Viscoelastic behavior of a lung alveolar duct model.
+Helical flow around arterial bends for varying body mass.
+Vortex shedding as a mechanism for free emboli formation in mechanical heart valves.
+Turbulence characteristics downstream of bileaflet aortic valve prostheses.
+Three-dimensional computational model of left heart diastolic function with fluid-structure interaction.
+The frontier of substitution medicine: integrating biomaterials and tissue engineering.
+The need for an upstream ethics.
+The future of home care.
+UK strategy for process qualification/validation: from concept to practical implementation.
+The role of in process qualification in quality improvement of the haemonetics MCS plus leucodepleted platelet concentrate.
+Finite element estimates of interface stress in the trans-tibial prosthesis using gap elements are different from those using automated contact.
+Determination of axial rotation angles of limb segments - a new method.
+Are bioengineers trend setters or followers?
+Second sourcing. Interview by Edward J. Snyder.
+Focus on medical errors provides clinical engineering opportunities.
+Establishing maintenance intervals based on measurement reliability of engineering endpoints.
+Design and testing of a genetic algorithm neural network in the assessment of gait patterns.
+Adaptive Morse code communication system for severely disabled individuals.
+Electropalatography and the Linguagraph system.
+General practice and the new technologies.
+Surgery in the information age.
+Technology in patient care.
+The impact of culture on technology.
+Tissue engineering in the genitourinary system.
+Fibrin gel as a three dimensional matrix in cardiovascular tissue engineering.
+Y2K a colossal hoax?
+Tissue engineering of vascular grafts: human cell seeding of decellularised porcine matrix.
+Gene therapy and tissue engineering patents abound.
+Polymer scientists engineer better remedies.
+When there's so much technology available, how does a hospital decide what to buy?
+A method for dynamic measurement of lumbar lordosis.
+Tissue engineered bone formation using chitosan/tricalcium phosphate sponges.
+Development and characterization of a tissue-engineered human oral mucosa equivalent produced in a serum-free culture system.
+Tissue engineering from Adam to the zygote: historical reflections.
+Renal therapy using tissue-engineered constructs and gene delivery.
+Tissue-engineering applications for phallic reconstruction.
+Tissue-engineered therapies for the treatment of urinary incontinence and vesicoureteral reflux.
+Tissue engineering of the bladder.
+Urologic tissue engineering with small-intestinal submucosa: potential clinical applications.
+Systems for therapeutic angiogenesis in tissue engineering.
+Biomaterials for tissue engineering.
+A novel mechatronic tool for computer-assisted arthroscopy.
+Emerging trends at the threshold of a new millennium.
+Synthesis and characterization of polypyrrole-hyaluronic acid composite biomaterials for tissue engineering applications.
+Second generation bifurcation stent: the rapid development of device technology.
+Chronic stretch of engineered heart tissue induces hypertrophy and functional improvement.
+Biomedical engineering in Israel: a quantum leap.
+Bioengineering organs using small intestinal submucosa scaffolds: in vivo tissue-engineering technology.
+Tissue engineering of artificial organs.
+Biomaterials in drug delivery and tissue engineering: one laboratory's experience.
+Tissue-engineered valved conduits in the pulmonary circulation.
+Device manufacturers consider constraints.
+What would John Dewey do? The promises and perils of pragmatic bioethics.
+Y-ligation: an efficient method for ligating single-stranded DNAs and RNAs with T4 RNA ligase.
+Bibliography. Current world literature. Urological surgery, surgical techniques, technology.
+Computer-controlled flow resistance.
+The hip status: a telemedical application.
+Sizing extruded medical tubing.
+Digital x-ray: unwavering commitment collides with monumental challenges.
+Microtechnologies: art or engineering?
+The stresses and strains of everyday life.
+Cultured differentiated human urothelial cells in the biomaterials field.
+Control of hepatocyte function on collagen foams: sizing matrix pores toward selective induction of 2-D and 3-D cellular morphogenesis.
+A comparison of modified Howland circuits as current generators with current mirror type circuits.
+Tissue engineering: confronting the transplantation crisis.
+The impact of tissue engineering on dentistry.
+Development of new techniques using genetic and tissue engineering for the treatment of severe heart failure.
+Effect of surfactants on human stratum corneum: electron paramagnetic resonance study.
+Highlights of the cell transplantation meeting at Montreux, March 1999.
+Bioanalytical applications of polyion-sensitive electrodes.
+Modulation of peripheral nerve regeneration: a tissue-engineering approach. The role of amnion tube nerve conduit across a 1-centimeter nerve gap.
+Wall Street's assessment of plastic surgery related technology: a clinical and financial analysis.
+Instrumented staircase for ground reaction measurement.
+Proceedings of an international workshop on biomechatronics. Enschede, The Netherlands, April 1999.
+Leadership and personality types.
+Career directions. Real-world guidance from successful biomedical professionals.
+Biomedical technology in Franconia.
+Tissue engineered artificial skin composed of dermis and epidermis.
+The living shunt: a tissue engineering approach in the treatment of hydrocephalus.
+Bioengineering vs mechanical engineering for cardiovascular surgery in the next century.
+Progress from a fragile start.
+Exploring the territory in tissue engineering.
+Bioengineering programmes rise to meet the challenge of a young science.
+Estimating orientation with gyroscopes and accelerometers.
+Recent progress in biomolecular engineering.
+Electrorotation and dielectrophoresis.
+An introduction to cellular and tissue engineering.
+The birth of the first CT scanner.
+Symbols of time.
+Computational study of the effect of geometric and flow parameters on the steady flow field at the rabbit aorto-celiac bifurcation.
+Construction of a bioengineered cardiac graft.
+Going into the next millennium.
+Modulation of paired-pulse responses in the dentate gyrus: effects of normal maturation and vigilance state.
+A simple assay for evaluating inhibitors of proteoglycan-ligand binding.
+Quantitative analysis of adhesion-mediated cell migration in three-dimensional gels of RGD-grafted collagen.
+Nitric oxide, superoxide, and peroxynitrite effects on the insulin secretion and viability of betaTC3 cells.
+Fractal characteristics of end-expiratory lung volume in anesthetized rats.
+Cyanide increases reduction but decreases sequestration of methylene blue by endothelial cells.
+Simultaneous regulation of hemodynamic and anesthetic states: a simulation study.
+Recurrent patterns of atrial depolarization during atrial fibrillation assessed by recurrence plot quantification.
+Microwave spectroscopy of myocardial ischemia and infarction. 2. Biophysical reconstruction.
+Microwave spectroscopy of myocardial ischemia and infarction. 1. Experimental study.
+Experimental investigation of the steady flow downstream of the St. Jude bileaflet heart valve: a comparison between laser Doppler velocimetry and particle image velocimetry techniques.
+Numerical simulation of oxygen mass transfer in a compliant curved tube model of a coronary artery.
+Generation of an anatomically based geometric coronary model.
+1998 Distinguished Lecture: biomechanics of the microcirculation, an integrative and therapeutic perspective.
+Strain gauges used in the mechanical testing of bones. Part III: Strain analysis, graphic determination of the neutral axis.
+Strain gauges used in the mechanical testing of bones. Part II: "In vitro" and "in vivo" technique.
+Strain gauges used in the mechanical testing of bones. Part I: Theoretical and technical aspects.
+An introduction to selected chapters in bone biomechanics.
+Biomedical device design discovery team approach to teaching physiology to undergraduate bioengineering students.
+Informatics at NIH.
+A positive view of biomedical advances.
+Brain chips: postpone the debate.
+Bioabsorbable polymer scaffolds for tissue engineering capable of sustained growth factor delivery.
+Matrices for tissue engineering-scaffold structure for a bioartificial liver support system.
+A novel fabrication method of macroporous biodegradable polymer scaffolds using gas foaming salt as a porogen additive.
+'Early warning systems' for identifying new healthcare technologies.
+The use of information technology in improving medical performance.
+The use of information technology in improving medical performance. Part I. Information systems for medical transactions.
+The use of information technology in improving medical performance. Part II. Physician-support tools.
+The use of information technology in improving medical performance. Part III. Patient-support tools.
+Technical aspects of neonatal screening using tandem mass spectrometry. Report from the 4th meeting of the International Society for Neonatal Screening.
+Preparing for long-term power outages on the way to Y2K.
+Interpreting the environment of care (EC) standards.
+Services marketing for the enlightened manager.
+Building a clinical engineering department from the ground up.
+Time is on the cyborg's side.
+Tissue engineering. Growing human corneas in the lab.
+In vitro demonstration of survival and secretory function of islets of Langerhans encapsulated with a membrane of tissue-engineered chondrocytes for immunoisolation.
+The medical engineering program of Forschungszentrum Karlsruhe.

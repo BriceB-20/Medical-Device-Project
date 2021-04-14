@@ -1,0 +1,167 @@
+Medical engineering at the Royal Postgraduate Medical School.
+Experience using a new dacron wool filter during extracorporeal circulation.
+The graphic display of computer-processed data.
+Dose reduction factors of a "lead-lined" girdle.
+Dose equivalent meter designs based on tissue equivalent proportional counters.
+Design and performance of an environmental chamber at the University of Aarhus, Denmark.
+Legislation. Device inventory and classification.
+Engineering R&D support by the hospital and university.
+Support for research, training and education in medical research engineering.
+Myoelectric control sites for upper-extremity devices.
+Mitral valve replacement with autologous tissue.
+Mechanical support of the circulation: a new approach.
+Hybrid computer programming for study of cardiac excitation.
+Catheter-flush system for continuous monitoring of central arterial pulse waveform.
+Determination of arterial blood flow by percutaneously introduced flow sensors in an external magnetic field. I. The method.
+Pathodynamics of blunt chest trauma: a preliminary report.
+Water cooled garments: a review.
+Advances in the design of artifical kidneys.
+Quantitative measurement of nasal-airway resistance.
+An automated collecting and measuring device for uterine blood flow studies.
+A body scanner using a matrix system.
+Physiological studies of military parachutists via FM-FM telemetry: the data acquisition system and heart rate response.
+A cryomicroscope for the study of freezing and thawing processes in biological cells.
+A new instrument for rapid measurement of blood oxygen saturation and Hb concentration.
+Inert organic liquid as a biological oxygen carrier.
+Biomechanical activities in Great Britain.
+Training for measurement in medicine. Types of training required.
+Composition and function of future departments of clinical measurement.
+Detection of circulating bubbles in the intact mammal.
+The functional anatomy of urologic cryosurgical unit and its relation to the technique, complications and results of cryosurgery of the prostate.
+An improved concept in optics applied to cystoscopy.
+A tubular membrane oxygenator.
+Temperature profile scanning a more quantitative approach to thermography.
+The selection of a small real-time computer for bio-medical application.
+A miniature respiratory minute volume sensor for the flight environment.
+Blood flow determination during hemodialysis by bubble time.
+Design and performance of a vacuum reservoir blood pump.
+Liquid crystal thermography.
+An approach to the dynamic analysis and synthesis of biped locomotion machines.
+The place of ergonomics in science and industry.
+A comparison of coherent averaging techniques for repetitive biological signals.
+A special chamber to facilitate intra-aortic balloon pumping for circulatory assistance.
+Biomedical engineering in Scotland.
+A few anomalies.
+Some perspectives in biomedical engineering and artificial organs.
+Parameters affecting preparation of nylon-based hemodialysis membranes.
+An improved pulse-pressure generator for prolonged circulatory support.
+A new bougie.
+Use of a disposable autotransfusion unit under varying conditions of contamination. Preliminary report.
+A unified method for regional anticoagulation of blood.
+Erythrocyte destruction in different types of Starr-Edwards aortic ball valves.
+A mechanical respirator for control of liquid breathing.
+Electronically generated sections from serial sections.
+The continuous and simultaneous measurement of O2-consumption, rate of decarboxylation of 14C-substrates and the performance of spontaneously-beating isolated heart atria of guinea pigs.
+Use of indigenous pacemaker in the treatment of complete heart block.
+Medicine in a technical age.
+Trichromatic ear densitometer for estimation of cardiac output using indocyanine green.
+Needles and hemolysis.
+A time-motion display method for "A" scope ultrasonic units.
+Guest editorial: biomedical engineering training for the physician.
+A new metal locator.
+Determination of blood coagulation using impedance measurements.
+An integrated-circuit approach to extracellular microelectrodes.
+Design criteria for artificial heart valves.
+Biomedical engineering in orthopedic surgery.
+a special purpose computer for the evaluation of left ventricular function.
+Developing viable medical equipment, in general and for patient monitoring.
+Heparin sorptivity and blood compatibility of carbon surfaces.
+Responses to preoptic heating and cooling in a hibernator Citellus tridecemlineatus.
+A testing device for evaluation of gas transfer through synthetic membranes.
+The engineering design of haemodialysis equipment.
+An interpretation of red cell volume distributions measured by pulse height analysis.
+Recent successes utilizing aerospace technology.
+Shielding of image intensifiers from incident magnetic fields.
+Interpretation of cardiovascular pressure measurements.
+Modular joint units to be used with hydraulic and pneumatic actuators.
+A thermoluminescent personnel neutron dosimeter.
+Preparation and characterization of isolubilized L-amino acid oxidase.
+A new sewing ring for experimental mitral valve prosthesis allowing rapid changing of valves in vivo.
+Electrochemical creation of autobiological lining for thrombosis prevention in prostheses of cardiovascular system.
+Engineering assessment of some haemodialysis equipment.
+Cytologic screening automated by Cytoscreener.
+Medical computing: a reappraisal.
+Radiation control design for a converted 400 KVP x-ray therapy machine.
+Control units for use with electrochemical electrodes.
+Monitoring the artificial kidney.
+Physiology of renal function.
+Introduction: the artificial kidney.
+A portable electronic system equipped with an ionization chamber filled with a liquid equivalent to the biological tissue.
+Some tests on the consistency of the performance of six precision long counters intended as secondary standards for the measurement of fast neutron flux densities.
+A portable area monitor for gamma-rays.
+A new digital heart rate prnter for monitoring purposes.
+A percutaneous balloon catheter for the immediate control of hemorrhage.
+Small signal influences upon a sawtooth oscillator.
+Space program: more time for biomedical research?
+Impedance cardiography as a noninvasive means to monitor cardiac function.
+Cardiac output from transthoracic impedance records using discriminant analysis.
+Automated patient care.
+U. S. medical and surgical equipment sought in world markets.
+Pedestal hospital bed.
+Technical note: the "3-S" problem: specifications, standardization, and standards.
+Biomedical application of mass spectrometry for monitoring partial pressures. A technical review.
+Biomechanical activites at some American and European institutions. IV.
+Practical course in instruments and electrons. 6. Power supply design.
+International trade in medical electronic equipment.
+Medical applications of an electrical pressure gauge for external use: preliminary report.
+Linear valves for small flows.
+Modifications to a miniature pressure transducer for the measurement of intracranial pressure.
+A simple appliance for controlled oxygen therapy.
+A simplified method for electrical impedance monitoring in brain tumor localization; technical note.
+Bioengineering developments in medicine.
+Critical obstruction of prosthetic heart valves due to lipid absorption by Silastic.
+A comparative evaluation of selected properties of four orthotic materials.
+A compact laboratory respirator.
+Biomedical engineering.
+Human factors applications in medicine.
+The disposable Kiil envelope artificial kidney - in vitro results.
+Design and development of a cosmetic caliper.
+Medical engineering in the USSR.
+Progress in laser safety in biomedical installations.
+A portable laboratory respirator.
+A power source for an implantable circulatory support system.
+The fluid amplifier artificial heart.
+Problems in the design of a cosmetic caliper.
+Biomechanical activities at some American and European institutions. 3.
+Evolution of electromagnetic blood flowmeters.
+Radio telemetry techniques for measurement of blood pressure and flow in unrestrained animals.
+An investigation into the evaluation of hockey helmets.
+The use of acrylic laminates in fitting impression haptic lenses.
+Molecular separation as an artificial kidney technique.
+American Society for Artificial Internal Organs. Presidential address.
+An extracorporeal chemical reactor.
+Short term synchronous arterio-arterial pumping without anticoagulants.
+A new series-type left heart assist device with a leaking outlet valve.
+Artificial heart ventricular design having space and performance characteristics comparable to the heart.
+A prosthetic heart with hemispherical ventricles designed for low hemolytic action.
+Valveless orthotopic cardiac prosthesis a wave-pulsating total heart.
+Total artificial hearts with built-in valves.
+A capillary membrane-oxygenator utilizing gas dispersed in oil.
+Prolonged cardio-pulmonary support with a practical membrane oxygenator.
+Prosthetic and fascia lata valves: hydrodynamics and clinical results.
+The Lillehei-Kaster pivoting disc aortic prosthesis and a comparative study of its pulsatile flow characteristics with four other prostheses.
+An improved disc valve for mitral replacement.
+A new and growing family of artificial implanted fluid-control devices.
+Correlations between electrochemical and antithrombogenic characteristics of polyelectrolyte materials.
+A tissue implantable fuel cell power supply.
+A single electrolyte fuel cell utilizing permselective membranes.
+In vivo electrochemical power generation.
+Intracardiac pressure changes utilized to energize a piezoelectric powered cardiac pacemaker.
+New elastic materials for the artificial heart.
+The development of an implanted left ventricular assist device and Rankine cycle power systems.
+Mass transfer resistance determination of slowly dialyzed molecules with applications to the pH dependence of phosphate dialysis.
+The development and first clinical use of semipermeable microcapsules (artificial cells) as a compact artificial kidney.
+Wear of cartilage bio-engineering and scanning electron microscope study.
+Visual acuity decrements associated with whole body plus or minus Gz vibration stress.
+An implantable hearing aid. State of the art.
+Display techniques in a tactile vision-substitution system.
+Practical course in instruments and electronics. IV. Producing waveforms and pulses.
+From practicability to practice the challenge of technology.
+An apparatus to study continuous discrimination performance as a function of level of cerebral vigilance.
+Medicine 1969.
+The artificial gut in hospital and home. Technical improvements.
+Use of videometry and electronic data-processing for hemodynamic investigations by angiographic techniques.
+Stereotechnology in medicine.
+Evaluation of artificial skin models: presentation of three clinical cases.
+The use of high resistance thermistors in recording thermodilution curves.
+Recent progress in medical ultrasonics.

@@ -1,0 +1,185 @@
+Bioengineering and phytomedicines among FY00 congressional priorities.
+Studies on eliminating interference by electromagnetic induction from power lines in ECG signals.
+Stress analysis in three-dimensional foot models of normal and diabetic neuropathy.
+Biomimetic myoelectric hand with voluntary control of finger angle and compliance.
+Techview: medical technology. Replacement arteries made to order.
+Phase I study of an engineered aglycosylated humanized CD3 antibody in renal transplant rejection.
+Bioengineered monoclonals easier on patients, but still hard on rejection.
+Matrix-mixed culture: new methodology for chondrocyte culture and preparation of cartilage transplants.
+Creation of bladder tissue in vitro and in vivo. A system for organ replacement.
+Metabolic network analysis. A powerful tool in metabolic engineering.
+Functional human corneal equivalents constructed from cell lines.
+Novel vascular graft grown within recipient's own peritoneal cavity.
+Vascular tissue engineering : designer arteries.
+The disability rights critique of prenatal genetic testing. Reflections and Recommendations.
+Control of pH in large-scale, free suspension animal cell bioreactors: alkali addition and pH excursions.
+Adsorptive control of water in esterification with immobilized enzymes. Continuous operation in a periodic counter-current reactor.
+Beating heart disease with engineering. A meeting organized by the Royal Academy of Engineering and held at the Royal Society of Medicine, London, on Thursday 7 May 1998.
+Who was Faraday and what did he do?
+The Supreme Court sets standards for engineering expert testimony.
+Ideas to help break down barriers.
+Micromachined needle arrays for drug delivery or fluid extraction.
+"Engineering" the wound-healing process.
+Silicon pioneer funds biomedical engineering centre.
+The year 2000: placing new technology in context.
+Technology for disabilities. Interview by Ron Davis.
+Tissue engineering: toward new solutions for transplantation and reconstructive surgery.
+Tissue engineering applications for erectile dysfunction.
+The evolving role of laboratory animal technology.
+A systematic literature review of spiral and electron beam computed tomography: with particular reference to clinical applications in hepatic lesions, pulmonary embolus and coronary artery disease.
+Naff not NEAT.
+Healthcare Design Competition 1997.
+Nanomedicine.
+Health services technology: Part 2, Policy and managerial considerations.
+Rx: plenty of bed rest and a gold microchip. Engineers tackle new ways to take medicine.
+Closer to nature: new biomaterials and tissue engineering in ophthalmology.
+Impact of new technologies in ophthalmology.
+The role of the researcher in tissue viability a personal view from a biomedical engineer.
+The role of the biomedical engineer in pressure sore prevention a personal view.
+Future directions for research and treatment of osteoarthritis.
+Degradation and repair of articular cartilage.
+Ethics and professional responsibility.
+Selected advances in drug delivery and tissue engineering.
+Visualizing integrated bioprocess designs through "windows of operation".
+Measurement of posture by triangulation using potentiometers.
+Target practice: a BMET's guide to accuracy, precision and resolution.
+Business planning: fuel for growth.
+From regulation to registration. Safety and performance needs drive industry consensus on voluntary servicing, remarketing controls.
+Optimal configuration of multiple-focused ultrasound transducers for external hyperthermia.
+Tissue engineering of biphasic joint cartilage transplants.
+Sol-gel derived carrier for the controlled release of proteins.
+A new model for studying differentiation and growth of epidermal cultures on hyaluronan-based carrier.
+EMBS and the evolution of the biomedical engineering knowledge base (Part I).
+An overview of contemporary approaches to antiarrhythmic therapy.
+Restoration of cardio-circulatory regulation by rate-adaptive pacemaker systems: the bioengineering view of a clinical problem.
+A deaf woman learning to control her excessive vocal loudness through a portable feedback system.
+The role of vascular smooth muscle cell integrins in the compaction and mechanical strengthening of a tissue-engineered blood vessel.
+Metabolic flux analysis: a powerful tool for monitoring tissue function.
+End-to-end anastomosis between tissue-engineered intestine and native small bowel.
+A laminin and nerve growth factor-laden three-dimensional scaffold for enhanced neurite extension.
+Engineered smooth muscle tissues: regulating cell phenotype with the scaffold.
+Amphibian embryos as a model system for organ engineering: in vitro induction and rescue of the heart anlage.
+Procedure for the semi-automatic detection of gastro-oesophageal reflux patterns in intraluminal impedance measurements in infants.
+Biorthogonal wavelet transforms for ECG parameters estimation.
+Pulse wave attenuation measurement by linear and nonlinear methods in nonlinearly elastic tubes.
+A steady flow analysis on the stented and non-stented sidewall aneurysm models.
+The current status of tissue engineering as potential therapy.
+Leadership, patient safety, and Y2K: the AAMI Technology Management Committee.
+Integrating clinical engineering and information systems.
+Development of a packed-bed type bioartificial liver: tissue engineering approach.
+Is occupational irritant contact dermatitis predictable by cutaneous bioengineering methods? Results of the Swiss Metalworkers' Eczema Study (PROMETES).
+Cardiac muscle tissue engineering: toward an in vitro model for electrophysiological studies.
+Tissue engineering human placenta trophoblast cells in 3-D fibrous matrix: spatial effects on cell proliferation and function.
+Retrospectroscope. d'Arsonval, physician and inventor.
+Current developments in telemedicine.
+Focusing energy on biomedical engineering, imaging, and informatics research.
+Informatics at the National Institutes of Health: a call to action.
+From heel to toe.
+Bone remodelling: should we cry Wolff?
+The development of an embedding technique for polylactide sponges.
+In memoriam. Abner McGhee Harvey. 1911-1998.
+18th Southern Biomedical Engineering Conference and 2nd International Conference on Ethical Issues in Biomedical Engineering. Abstracts.
+Morphology and mechanical function of long-term in vitro engineered cartilage.
+Retention of hyaluronic acid in alginate beads: aspects for in vitro cartilage engineering.
+Chondrocyte aggregation and reorganization into three-dimensional scaffolds.
+Pelvis and lower limb anatomical landmark calibration precision and its propagation to bone geometry and joint angles.
+Extraction of quasi-linear viscoelastic parameters for lower limb soft tissues from manual indentation experiment.
+A numerical study of blood flow patterns in anatomically realistic and simplified end-to-side anastomoses.
+Tissue engineering.
+Stabilization of fibrin-chondrocyte constructs for cartilage reconstruction.
+Three-dimensional human head finite-element model validation against two experimental impacts.
+Principal dynamic mode analysis of nonlinear transduction in a spider mechanoreceptor.
+Dynamic details of disparity convergence eye movements.
+Dynamics of the intrauterine fluid-wall interface.
+Gene expression is altered in perfused arterial segments exposed to cyclic flexure ex vivo.
+Numerically based design of an orifice plate flowmetering system for human respiratory flow monitoring.
+Technique to determine inspiratory impedance during mechanical ventilation: implications for flow limited patients.
+Theoretical gas phase mass transfer coefficients for endogenous gases in the lungs.
+Determination of red blood cell velocity by video shuttering and image analysis.
+Mechanics of leukocyte deformation and adhesion to endothelium in shear flow.
+Optimization of cardiac fiber orientation for homogeneous fiber strain during ejection.
+Selective removal of alloreactive cells from haematopoietic stem cell grafts: graft engineering for GVHD prophylaxis.
+Tissue engineering in cardiovascular surgery: MTT, a rapid and reliable quantitative method to assess the optimal human cell seeding on polymeric meshes.
+Clinical engineering and information systems: bridging the gap. Interview by Brian Porras.
+Preadipocyte seeded PLGA scaffolds for adipose tissue engineering.
+Cardiac organogenesis in vitro: reestablishment of three-dimensional tissue architecture by dissociated neonatal rat ventricular cells.
+Human germline gene modification: a dissent.
+The Embryonics Project: a machine made of artificial cells.
+Tissue engineering of a bioartificial renal tubule assist device: in vitro transport and metabolic characteristics.
+Cover your assets.
+An age of reason for assistive technology?
+Rewiring the brain. How a bright idea became an innovative medical device.
+Think or swim. Clinical engineers: are you on a collision course with managed care?
+Intra-and inter-individual variations in transepidermal water loss on the face: facial locations for bioengineering studies.
+ISFR presidential address: new engineering technology transfer in bone fracture management for the next century. International Society for Fracture Repair.
+Reengineering the picture archiving and communication system (PACS) process for digital imaging networks PACS.
+Care and feeding of a staff for filmless radiology.
+What is new in mechanical properties of tissue-engineered organs.
+Detecting the onset of epileptic seizures.
+Tissue engineering and the development of Apligraf a human skin equivalent.
+Lab-grown organs begin to take shape.
+American Chemical Society. Chemists mix it up in California.
+A new generation of facial prostheses with myoelectrically driven moveable upper lid.
+Food and Drug Administration low-level extremely-low-frequency magnetic field exposure facility.
+Present status of therapeutic apheresis in Japan: survey report. (Survey Subcommittee, Scientific Committee, Japanese Society for Apheresis).
+An interview with a distinguished pharmaceutical scientist: Robert S. Langer.
+The social nature of disability, disease and genetics: a response to Gillam, Persson, Holtug, Draper and Chadwick.
+Does justice require genetic enhancements?
+Bioartificial organs transplanted from research to reality.
+Design of biomimetic habitats for tissue engineering with P-15, a synthetic peptide analogue of collagen.
+Engineering bone regeneration with bioabsorbable scaffolds with novel microarchitecture.
+Genetic enhancement in humans.
+Functional arteries grown in vitro.
+ICP measurement accuracy: the effect of temperature drift. Design of a laboratory test for assessment of ICP transducers.
+A calibration service for biomedical instrumentation maintenance laboratories.
+Tissue engineering: the challenges ahead.
+Growing new organs.
+Intensity-modulated radiation therapy with dynamic multileaf collimators.
+Chronomes, time structures, for chronobioengineering for "a full life".
+Meeting the requirements for medical equipment EMC: a test house perspective.
+Home health care: a new challenge for clinical engineers.
+Equipment management risk rating system based on engineering endpoints.
+Designing medical devices to reduce the likelihood of error.
+Computer-aided learning a solution for the training needs of users & maintainers of medical equipment.
+A study on the current situation in the biomedical technology and clinical engineering sector in Bulgaria advances, trends and needs.
+Technology assessment a survey of the clinical engineer's role within the hospital.
+Development of a new Clinical Engineering Management Tool & Information System (CLE-MANTIS).
+A new model to estimate the appropriate staff for a clinical engineering department.
+Effective communication and supervision in the biomedical engineering department.
+Gas exchange is essential for bioreactor cultivation of tissue engineered cartilage.
+Increasing extracellular matrix production in regenerating cartilage with intermittent physiological pressure.
+Malcolm Lilly.
+UCL biochemical engineering.
+Optimizing seeding and culture methods to engineer smooth muscle tissue on biodegradable polymer matrices.
+Modelling medical devices: the application of bioengineering in surgery.
+Collaborative bioengineering: clinical activities in Ireland.
+WHO's bioethics code likely to stir debate.
+Detection of elementary flux modes in biochemical networks: a promising tool for pathway analysis and metabolic engineering.
+Anastomosis between tissue-engineered intestine and native small bowel.
+Regenerative signals for tissue-engineered small intestine.
+Bioreactor cultivation conditions modulate the composition and mechanical properties of tissue-engineered cartilage.
+Science, rhetoric, and public discourse in genetic research.
+Gait analysis of ACL deficient knees. Angular velocities and flexion-extension moment around the knee joint.
+Three-dimensional knee motion analysis for the pathogenesis knee osteoarthrosis.
+Gait analysis of patients with osteoarthritis of the hip and the those with total hip arthroplasty.
+Gait analysis before or after varus osteotomy of the femur for hip osteoarthritis.
+Clinical study on arthroplasties for osteoarthritic hip by quantitative gait analysis. Comparison between total hip arthroplasty and bipolar endoprosthetic arthroplasty.
+Practical and theoretical considerations in the application in the development of clinical gait analysis.
+History and fundamentals of gait analysis.
+The operating room of the future.
+Dohi Memorial Lecture. From occlusive to living membranes.
+Risks inherent in fetal gene therapy.
+Liver assist systems: state of the art.
+From muscle twitches to sustained (tetanic) contraction: the discovery of du Bois-Reymond.
+Non-linear optimization of biochemical pathways: applications to metabolic engineering and parameter estimation.
+The multilayered organization of engineered human skin does not influence the formation of sunlight-induced cyclobutane pyrimidine dimers in cellular DNA.
+An opportunity for exploitation of research in biomedical engineering: the EC Life Sciences Demonstration Projects.
+A review and methodologic critique of the literature refuting whiplash syndrome.
+Application of biomedical engineering to neurosurgery.
+The future of biothermal engineering.
+Tissue engineering: the first decade and beyond.
+The development of the Starr-Edwards heart valve.
+Conference report. Bioengineering in the millennium. National Institute of Health symposium bioengineering building the future of biology and medicine.
+Clinical engineers have a role to play in risk management.
+Practical sources for autologous fibroblasts to prepare a bioengineered dermal equivalent.
+Beam characteristics and clinical possibilities of a new compact treatment unit design combining narrow pencil beam scanning and segmental multileaf collimation.

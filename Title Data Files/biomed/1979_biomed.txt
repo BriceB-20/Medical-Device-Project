@@ -1,0 +1,118 @@
+Setting up a clinical engineering department.
+Certification of clinical engineers.
+The identification of priority areas for research in the external aids field of biomedical engineering.
+Entering the eighties.
+Prospects and hazards of new genetic technologies.
+A BSc level option in biomedical electronics.
+Patent protection for biological inventions review of recent case law in EEC countries.
+Filtering of muscle artifact from the electroencephalogram.
+Sequential multistate EMG signal processor.
+A model of bioelectrode motion artefact and reduction of artefact by amplifier input stage design.
+Designer and properties of a multianode, cylindrical proportional counter for position sensing at high count rates.
+Automated instrumentation for research on the lingual tactile sensory system.
+Load measurement in orthopaedics using strain gauges.
+A body-worn delayed auditory feedback fluency aid for stammerers.
+Veterans Administration BMET certification exam.
+Computer-assisted medicine: How soft is software?
+Bioethics and the occupational health nurse.
+Analysis of duodenal contractility in the unanesthetized dog.
+A discussion of issues challenging the practice of clinical engineering. A hospital association's viewpoint.
+A discussion of issues challenging the practice of clinical engineering. A lawyer's viewpoint.
+The progress of the past two decades in medical instrumentation.
+Optimizing pacing lead design: redesign of the tined lead.
+Do electrodes have a constituency?
+Follow-up report on the electrically driven hand splint.
+Sensory feedback in a myoelectric upper limb prosthesis: a preliminary report.
+A data analysis microcomputer package (DAMP) for biomedical signals.
+BMET: new member on the OR team.
+A portable REM-detecting machine.
+Preview abstracts. Frontiers of Engineering in health care. The Conference of the IEEE Engineering in Medicine and Biology Society. October 6-7, 1979. Denver Hilton Hotel, Denver, CO.
+Training of biomedical equipment technicians.
+Continuing education for employed clinical engineers: review of perceptions.
+Clinical engineering practices: device acquisition.
+Spatial resolution of four electrode array.
+A simple device for closed loop heart rate control during cardiac rehabilitation.
+In-house medical device maintenance.
+Small hospitals can save on maintenance.
+Spinal injuries with tetraplegia and paraplegia.
+Medical technology: the new revolution.
+On the bioethics of Jewish law: the case of Karen Quinlan.
+Imaging by nuclear magnetic resonance and its bio-medical implications.
+Training for biomedical engineering in India.
+Education and certification of biomedical engineers in Canada.
+Presidential address: AAMI a forum for expressing various viewpoints.
+Knee impedance testing machine.
+An apparatus for measuring the forces of dental extraction.
+Clinical engineering standards, obligations, and accountability.
+The international standards competition.
+Discrimination of phantom hand sensations elicited by afferent electrical nerve stimulation in below-elbow amputees.
+A shocking experience: Ohm's Law and the nurse.
+The role of the clinical engineer in hospital energy conservation.
+Attempts to develop new types of human being.
+A method for measurement of oxygen uptake in neonates.
+Biomedical instrumentation for the measurements of skin sensitivity.
+The characteristics of a low resistance breathing valve designed for the measurement of high aerobic capacity.
+Small hospitals manage clinical equipment.
+Protection of human subjects of biomedical and behavioral research.
+Handling contaminated hemodialysis equipment.
+The fabrication of artifacts out of glassy carbon and carbon-fiber-reinforced carbon for biomedical applications.
+Position of bioengineering education in Hungary.
+A device for the calibration of hot-film wall shear probes in liquids.
+Modification of miniature flush surface wall shear probes for biomedical use.
+The Life Sciences and Biomedical Engineering Branch (LSBEB) of the Aerospace Medical Association.
+International Workshop on Biomedical Transducers and Measurements.
+An infrared system for determining ocular position.
+Integrated circuit implantable systems.
+A regional model for a hospital-based clinical engineering internship program.
+Continuing education for employed clinical engineers: review of education and requirements.
+Scarce resources in health care.
+The history of abortion: technology, morality, and law.
+The cutting edge in medical ethics.
+A dynamometer for biomechanical use.
+The engineering of blood sugar.
+Reduction to normal of plasma glucose in juvenile diabetes by subcutaneous administration of insulin with a portable infusion pump.
+Clinical engineering practicum: a new approach in clinical engineering education.
+Medical instrumentation and nosocomial infection.
+Present use of clinical engineering in hospitals: a nationwide survey.
+A moral revolution in medicine.
+Biotechnology and the control of life.
+Biomedical equipment maintenance in Canadian hospitals.
+New apparatus for the induction of localized hyperthermia for treatment of neoplasia.
+An FM electronics system for biomedical data recording.
+Dual extra cardiac pacemaker.
+Analog data recording with a video cassette recorder.
+A convectional counter-stream sedimentation process for separating biological isotopes.
+A low frequency meter with instantaneous response.
+Recent advances in programmable pacemakers. Consideration of advantages, longevity and future expectations.
+The autobiography of Joe. A medical device. Born: 1975. Died: 1983.
+Clinical engineering practices: maintenance and safety testing of common electromedical devices.
+Proceedings of the workshop on quantitative evaluation of periodontal diseases by physical measurement techniques.
+Development of an artificial pancreas: the race is on.
+Doctors' dilemma.
+A resource for crippled children that more health professionals could use.
+"Healthy dying": a paradoxical quest continues.
+Medical ethics in the next 25 years.
+Biotechnology and the social order.
+An overview of biomedical policy: life and death issues.
+Services to bioengineering in the United Kingdom.
+A simplified method of attaching accelerometer packages to bone.
+Percutaneous connections in man.
+Design of an endoscopic carrier with complete directional control.
+Destruction of noise in biotelemetry.
+Synchronization in biotelemetry systems with time division of channels.
+Blood compatibility of medical device materials as measured by lymphocyte function.
+A general-purpose implantable multichannel telemetry system for physiological research.
+Control sensors for biomedical systems.
+Crash test dummy lower leg instrumentation for axial force and bending moment.
+Viscoelastic properties of wet cortical bone I. Torsional and biaxial studies.
+On modifications to the algebraic reconstruction techniques.
+Engineering criteria for biomaterials: some thought on in situ measurements.
+Controlled release micropump for insulin administration.
+Biofeedback instruments for the management of anxiety and for relaxation training.
+Alternative futures for biomedical research. The ALZA distinguished lecture.
+The evolution of the society (presidential address).
+Prosthetics.
+Laser-Doppler anemometer to study velocity fields in the vicinity of prosthetic heart valves.
+An apparatus for measuring the recoil characteristics of human skin in vivo.
+Physiological monitoring of the head injury patient.
+An integrated circuit approach to totally implantable telemetry systems.

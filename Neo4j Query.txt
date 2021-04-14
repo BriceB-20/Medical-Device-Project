@@ -1,7 +1,12 @@
-MATCH (N1)-[]-(N2) RETURN N1, N2 LIMIT 300
+MATCH (N1)-[:AFFILIATED]-(N2) 
+MATCH (N1)-[:COAUTHOR]-(N3)
+RETURN N1, N2, N3 LIMIT 300
+
+There is no procedure with the name `algo.pageRanks.stream` registered for this database instance. Please ensure you've spelled the procedure name correctly and that the procedure is properly deployed.
 
 **FILTERING**
-WITH DATE("1976) AS DATE
+WITH DATE("1976") AS D
 MATCH (N1)-[R]-(N2)
-WHERE DATE(R.date) > D
+WHERE DATE(R.date) < D
 RETURN N1, N2
+LIMIT 250
