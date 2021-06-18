@@ -1,0 +1,131 @@
+Max vectorization features:200
+Cluster 1
+ clinical
+ data
+ new
+ sterilization
+ equipment
+ information
+ systems
+ implants
+ safety
+ standards
+
+
+Cluster 2
+ care
+ health
+ health care
+ technology
+ cost
+ patient
+ patients
+ new
+ industry
+ hospital
+
+
+Cluster 3
+ product
+ products
+ design
+ manufacturers
+ new
+ process
+ industry
+ quality
+ development
+ article
+
+
+Cluster 4
+ blood
+ dehp
+ exposure
+ effects
+ human
+ tissue
+ levels
+ studies
+ high
+ significant
+
+
+Cluster 5
+ fda
+ food
+ food drug
+ drug
+ act
+ food drug administration
+ drug administration
+ administration
+ administration fda
+ drug administration fda
+
+
+Cluster 6
+ test
+ tests
+ method
+ testing
+ vitro
+ tested
+ results
+ materials
+ methods
+ study
+
+
+Cluster 7
+ infections
+ biofilm
+ epidermidis
+ infection
+ bacterial
+ strains
+ associated
+ bacteria
+ related
+ catheter
+
+
+Cluster 8
+ surface
+ materials
+ cell
+ surfaces
+ cells
+ properties
+ adhesion
+ polymer
+ material
+ results
+
+
+Cluster 9
+ article
+ european
+ manufacturers
+ requirements
+ products
+ issues
+ quality
+ industry
+ regulatory
+ states
+
+
+Cluster 10
+ patients
+ patient
+ treatment
+ study
+ hospital
+ risk
+ data
+ infection
+ care
+ therapy
+
+
