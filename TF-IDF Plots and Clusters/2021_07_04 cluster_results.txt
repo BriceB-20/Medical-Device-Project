@@ -1,0 +1,55 @@
+Max vectorization features:200
+Clusters:4
+
+Cluster 1
+ health
+ care
+ technology
+ clinical
+ equipment
+ health care
+ hospital
+ department
+ new
+ research
+
+
+Cluster 2
+ tissue
+ cells
+ cell
+ bone
+ engineered
+ culture
+ cartilage
+ growth
+ tissues
+ matrix
+
+
+Cluster 3
+ model
+ method
+ data
+ time
+ results
+ paper
+ analysis
+ new
+ systems
+ design
+
+
+Cluster 4
+ flow
+ pressure
+ blood
+ pump
+ model
+ fluid
+ heart
+ volume
+ shear
+ left
+
+
