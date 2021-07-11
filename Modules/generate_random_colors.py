@@ -1,4 +1,4 @@
-# The color generator sunction was originally written by Andreas Dewes: https://gist.github.com/adewes/5884820
+# The color generator function was originally written by Andreas Dewes: https://gist.github.com/adewes/5884820
 import random
 
 def get_random_color(pastel_factor = 0.5):
