@@ -2,19 +2,6 @@ Max vectorization features:200
 Clusters:4
 
 Cluster 1
- health
- care
- technology
- clinical
- equipment
- health care
- hospital
- department
- new
- research
-
-
-Cluster 2
  tissue
  cells
  cell
@@ -27,10 +14,10 @@ Cluster 2
  matrix
 
 
-Cluster 3
- model
+Cluster 2
  method
  data
+ model
  time
  results
  paper
@@ -40,7 +27,7 @@ Cluster 3
  design
 
 
-Cluster 4
+Cluster 3
  flow
  pressure
  blood
@@ -51,5 +38,18 @@ Cluster 4
  volume
  shear
  left
+
+
+Cluster 4
+ health
+ care
+ technology
+ clinical
+ equipment
+ health care
+ hospital
+ new
+ department
+ research
 
 
