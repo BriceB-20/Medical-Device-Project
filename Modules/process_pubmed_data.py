@@ -90,3 +90,24 @@ def match_affiliation(author_data, min_ratio, write_file_name):
     with open(write_file_name, "w") as f:
         json.dump(group_dict_by_id, f, indent=4)
     print("Groups Saved")
+
+
+def create_df(file_path, clean_years=True, cutoff_year=2000, remove_errors=False):
+    '''
+    Convert JSON from pubmed import into a pandas dataframe
+    '''
+    with open(file_path, "r") as f:
+        full_dict = json.load(f)
+    
+    # slim_dict = {key:value for (key, value) in full_dict.items() if key in ["Pubmed ID", "Title", "Journal", "Date"]}
+    df = pd.DataFrame.from_dict(full_dict)
+    if remove_errors:
+        df = df[df["Pubmed ID"] != "000"]  # Removes data with parsing error
+    
+    # Cleaning years
+    if clean_years:
+        df["Date"] = df["Date"].apply(lambda x : eval(x).year)  # Converts date from __repr__ format
+        for index in df.loc[df["Date"] > cutoff_year].index:
+            df.drop([index], inplace=True)
+    
+    return df
